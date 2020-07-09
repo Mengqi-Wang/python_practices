@@ -1,0 +1,1586 @@
+> MN632564.1 Rinderpest morbillivirus strain Lap/PIADC/84 isolate RPV026, complete genome 
+ A:29.032867397053266% C:24.297947361793224% T:23.0323636821559% G:23.630525122780508%
+> MN632565.1 Rinderpest morbillivirus strain Lap/PIADC/84 isolate RPV026p1, complete genome 
+ A:29.026570960836168% C:24.304243798010326% T:23.0323636821559% G:23.636821558997607%
+> MN632567.1 Rinderpest morbillivirus strain Lap/AVRI isolate RPV029, complete genome 
+ A:29.09583175922428% C:24.37980103261554% T:22.937917138899383% G:23.536078579523988%
+> MN632570.1 Rinderpest morbillivirus strain Lap/PIADC/82p1 isolate RPV033p1, complete genome 
+ A:29.032867397053266% C:24.304243798010326% T:23.0323636821559% G:23.630525122780508%
+> MN632571.1 Rinderpest morbillivirus strain Lap/EAVRO isolate RPV034, complete genome 
+ A:29.09583175922428% C:24.37980103261554% T:22.944213575116486% G:23.54237501574109%
+> MN632605.1 Rinderpest morbillivirus strain Lap/AVRIp12B95 isolate RPV087, complete genome 
+ A:29.076942450572975% C:24.39239390504974% T:22.937917138899383% G:23.55496788817529%
+> MN632606.1 Rinderpest morbillivirus strain Lap/AVRIp8B95 isolate RPV089, complete genome 
+ A:29.10212819544138% C:24.38609746883264% T:22.950510011333584% G:23.561264324392393%
+> MN632630.1 Rinderpest morbillivirus strain Lap/AVRIp1B95 isolate RPV122, complete genome 
+ A:29.09583175922428% C:24.367208160181338% T:22.956806447550687% G:23.548671451958192%
+> MN632633.1 Rinderpest morbillivirus strain Lap/AVRIp1B95 isolate RPV126, complete genome 
+ A:29.076942450572975% C:24.316836670444527% T:22.93162070268228% G:23.49829996222138%
+> MN632644.1 Rinderpest morbillivirus strain Lap/AVRIp4B95 isolate RPV142, complete genome 
+ A:29.089535323007176% C:24.367208160181338% T:22.950510011333584% G:23.536078579523988%
+> MN632655.1 Rinderpest morbillivirus strain Lap/Japan/LA isolate RPV155, complete genome 
+ A:29.133610376526885% C:24.253872308273518% T:23.013474373504597% G:23.49829996222138%
+> HG934338.1 Avian metapneumovirus type C complete genome, strain Muscovy duck/1999/99178/France 
+ A:35.64867156585642% C:18.54861503674392% T:22.972018089316% G:22.830695308083662%
+> MG137430.1 Equine arteritis virus strain KY84_Stallion_D84, complete genome 
+ A:21.056360201511335% C:25.44867758186398% T:27.400818639798487% G:26.0941435768262%
+> MG137431.1 Equine arteritis virus strain KY84_Stallion_D94, complete genome 
+ A:20.97764483627204% C:25.14955919395466% T:27.69206549118388% G:26.18073047858942%
+> MG137432.1 Equine arteritis virus strain KY84_Stallion_E84, complete genome 
+ A:21.048488664987406% C:25.45654911838791% T:27.392947103274558% G:26.102015113350127%
+> MG137433.1 Equine arteritis virus strain KY84_Stallion_E91, complete genome 
+ A:20.97764483627204% C:25.29124685138539% T:27.55037783375315% G:26.18073047858942%
+> MG137434.1 Equine arteritis virus strain KY84-L136A-BC6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137435.1 Equine arteritis virus strain KY84-L136A-NS6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137436.1 Equine arteritis virus strain KY84-L136A-S5, complete genome 
+ A:21.040617128463477% C:25.44867758186398% T:27.40869017632242% G:26.102015113350127%
+> MG137437.1 Equine arteritis virus strain KY84-L136A-S9, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137438.1 Equine arteritis virus strain KY84-L136A-S107, complete genome 
+ A:21.03274559193955% C:25.45654911838791% T:27.400818639798487% G:26.109886649874056%
+> MG137439.1 Equine arteritis virus strain KY84-L136A-S170, complete genome 
+ A:21.017002518891687% C:25.464420654911837% T:27.392947103274558% G:26.125629722921914%
+> MG137440.1 Equine arteritis virus strain KY84-L136A-S380, complete genome 
+ A:21.017002518891687% C:25.464420654911837% T:27.400818639798487% G:26.117758186397985%
+> MG137441.1 Equine arteritis virus strain KY84-L136A-S548, complete genome 
+ A:21.017002518891687% C:25.43293450881612% T:27.440176322418136% G:26.109886649874056%
+> MG137442.1 Equine arteritis virus strain KY84-L136A-S726, complete genome 
+ A:20.98551637279597% C:25.3463476070529% T:27.54250629722922% G:26.125629722921914%
+> MG137443.1 Equine arteritis virus strain KY84-L137B-BC6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137444.1 Equine arteritis virus strain KY84-L137B-NS6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137445.1 Equine arteritis virus strain KY84-L137B-S5, complete genome 
+ A:21.009130982367758% C:25.44080604534005% T:27.41656171284635% G:26.133501259445843%
+> MG137446.1 Equine arteritis virus strain KY84-L137B-S9, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.40869017632242% G:26.117758186397985%
+> MG137447.1 Equine arteritis virus strain KY84-L137B-S107, complete genome 
+ A:21.017002518891687% C:25.44080604534005% T:27.432304785894207% G:26.109886649874056%
+> MG137448.1 Equine arteritis virus strain KY84-L138C-BC6, complete genome 
+ A:21.03274559193955% C:25.44867758186398% T:27.40869017632242% G:26.109886649874056%
+> MG137449.1 Equine arteritis virus strain KY84-L138C-NS6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137450.1 Equine arteritis virus strain KY84-L138C-S5, complete genome 
+ A:21.03274559193955% C:25.44867758186398% T:27.40869017632242% G:26.109886649874056%
+> MG137451.1 Equine arteritis virus strain KY84-L138C-S9, complete genome 
+ A:21.03274559193955% C:25.44867758186398% T:27.40869017632242% G:26.109886649874056%
+> MG137452.1 Equine arteritis virus strain KY84-L138C-S107, complete genome 
+ A:21.024874055415616% C:25.385705289672543% T:27.471662468513856% G:26.117758186397985%
+> MG137453.1 Equine arteritis virus strain KY84-L139D-BC6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137454.1 Equine arteritis virus strain KY84-L139D-NS6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137455.1 Equine arteritis virus strain KY84-L139D-S5, complete genome 
+ A:21.040617128463477% C:25.44080604534005% T:27.41656171284635% G:26.102015113350127%
+> MG137456.1 Equine arteritis virus strain KY84-L139D-S9, complete genome 
+ A:21.017002518891687% C:25.44867758186398% T:27.41656171284635% G:26.117758186397985%
+> MG137457.1 Equine arteritis virus strain KY84-L139D-S107, complete genome 
+ A:21.040617128463477% C:25.43293450881612% T:27.424433249370278% G:26.102015113350127%
+> MG137458.1 Equine arteritis virus strain KY84-L139D-S170, complete genome 
+ A:21.024874055415616% C:25.377833753148614% T:27.471662468513856% G:26.125629722921914%
+> MG137459.1 Equine arteritis virus strain KY84-L139D-S345, complete genome 
+ A:21.048488664987406% C:25.377833753148614% T:27.463790931989923% G:26.109886649874056%
+> MG137460.1 Equine arteritis virus strain KY84-L140E-BC6, complete genome 
+ A:21.040617128463477% C:25.43293450881612% T:27.424433249370278% G:26.102015113350127%
+> MG137461.1 Equine arteritis virus strain KY84-L140E-NS6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137462.1 Equine arteritis virus strain KY84-L140E-S5, complete genome 
+ A:21.009130982367758% C:25.44867758186398% T:27.41656171284635% G:26.125629722921914%
+> MG137463.1 Equine arteritis virus strain KY84-L140E-S9, complete genome 
+ A:21.040617128463477% C:25.47229219143577% T:27.392947103274558% G:26.0941435768262%
+> MG137464.1 Equine arteritis virus strain KY84-L140E-S107, complete genome 
+ A:21.03274559193955% C:25.417191435768263% T:27.440176322418136% G:26.109886649874056%
+> MG137465.1 Equine arteritis virus strain KY84-L140E-S170, complete genome 
+ A:21.017002518891687% C:25.393576826196472% T:27.455919395465994% G:26.133501259445843%
+> MG137466.1 Equine arteritis virus strain KY84-L140E-S380, complete genome 
+ A:21.00125944584383% C:25.425062972292192% T:27.424433249370278% G:26.1492443324937%
+> MG137467.1 Equine arteritis virus strain KY84-L140E-S548, complete genome 
+ A:21.024874055415616% C:25.377833753148614% T:27.463790931989923% G:26.133501259445843%
+> MG137468.1 Equine arteritis virus strain KY84-L140E-S726, complete genome 
+ A:21.009130982367758% C:25.377833753148614% T:27.471662468513856% G:26.141372795969772%
+> MG137469.1 Equine arteritis virus strain KY84-L141F-BC6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137470.1 Equine arteritis virus strain KY84-L141F-NS6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137471.1 Equine arteritis virus strain KY84-L141F-S5, complete genome 
+ A:21.056360201511335% C:25.44867758186398% T:27.40869017632242% G:26.086272040302266%
+> MG137472.1 Equine arteritis virus strain KY84-L141F-S9, complete genome 
+ A:21.03274559193955% C:25.44867758186398% T:27.40869017632242% G:26.109886649874056%
+> MG137473.1 Equine arteritis virus strain KY84-L141F-S107, complete genome 
+ A:21.056360201511335% C:25.425062972292192% T:27.440176322418136% G:26.078400503778337%
+> MG137474.1 Equine arteritis virus strain KY84-L141F-S170, complete genome 
+ A:21.048488664987406% C:25.44080604534005% T:27.424433249370278% G:26.086272040302266%
+> MG137475.1 Equine arteritis virus strain KY84-L141F-S345, complete genome 
+ A:21.079974811083122% C:25.43293450881612% T:27.432304785894207% G:26.05478589420655%
+> MG137476.1 Equine arteritis virus strain KY84-L142G-BC6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137477.1 Equine arteritis virus strain KY84-L142G-NS6, complete genome 
+ A:21.03274559193955% C:25.44080604534005% T:27.41656171284635% G:26.109886649874056%
+> MG137478.1 Equine arteritis virus strain KY84-L142G-S5, complete genome 
+ A:21.017002518891687% C:25.45654911838791% T:27.40869017632242% G:26.117758186397985%
+> MG137479.1 Equine arteritis virus strain KY84-L142G-S9, complete genome 
+ A:21.024874055415616% C:25.44080604534005% T:27.41656171284635% G:26.117758186397985%
+> MG137480.1 Equine arteritis virus strain KY84-L142G-S107, complete genome 
+ A:21.040617128463477% C:25.417191435768263% T:27.440176322418136% G:26.102015113350127%
+> MG137481.1 Equine arteritis virus strain KY84-L142G-S170, complete genome 
+ A:21.03274559193955% C:25.393576826196472% T:27.463790931989923% G:26.109886649874056%
+> AF531433.1 Classical swine fever virus strain HCLV, complete genome 
+ A:30.869212022745735% C:20.66612510154346% T:22.14459788789602% G:26.320064987814785%
+> KT355592.1 Bovine viral diarrhea virus type 1b strain HP-KY-RK13, complete genome 
+ A:32.059326868225895% C:19.867981419607204% T:22.410561486431423% G:25.662130225735474%
+> EF569215.1 Expression vector PPV-NK-GFP, complete sequence 
+ A:30.843913368185213% C:21.088498879761016% T:24.925317401045557% G:23.142270351008214%
+> EF569214.1 Expression vector PPV-D, complete sequence 
+ A:31.358395989974937% C:20.18045112781955% T:25.674185463659146% G:22.786967418546364%
+> GU253313.1 Lentivirus shuttle vector pLV.pA+.GS.Luc, complete sequence 
+ A:26.61373479067849% C:23.716230150546505% T:24.71643637863477% G:24.953598680140235%
+> L03561.2 Human T Cell Lymphotropic Virus I complete genome 
+ A:23.167090567289616% C:34.95521397766228% T:23.07862435032622% G:18.799071104721886%
+> L03562.2 Human T cell lymphotrophic virus type I (HTLV-I) (gag, env, rex, tat) genes, complete cds; (pol) gene, 3' end 
+ A:23.137385143363225% C:34.94962913760656% T:23.115244104948523% G:18.7977416140817%
+> NC_003983.1 Equine rhinitis B virus 1, complete genome 
+ A:23.991844132306298% C:25.770276393294065% T:27.22020842772995% G:23.017671046669687%
+> AF361253.1 Equine rhinovirus 3 strain P313/75, complete genome 
+ A:23.5914295431357% C:26.98106790613309% T:26.006121754903074% G:23.42138079582814%
+> GU253312.1 Lentivirus shuttle vector pLV.pA+.GS.DsRed, complete sequence 
+ A:25.892754621655758% C:24.00964519462625% T:23.894821449075668% G:26.202778734642322%
+> AJ866991.1 Rabbit vesivirus complete virion genome 
+ A:29.069212410501194% C:25.704057279236277% T:23.186157517899762% G:22.04057279236277%
+> NC_008580.1 Rabbit vesivirus, complete genome 
+ A:29.069212410501194% C:25.704057279236277% T:23.186157517899762% G:22.04057279236277%
+> KT325852.1 Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome 
+ A:18.854615016738403% C:29.495456719273076% T:25.980392156862745% G:25.669536107125776%
+> MK816960.1 Cloning vector pKF-D2irTNP2AG-T2APuroR-5kwh, complete sequence 
+ A:22.664064405952672% C:27.14076604049768% T:24.030251280800194% G:26.16491827274945%
+> DQ533483.2 Foot-and-mouth disease virus - type Asia 1 strain ZB/CHA/58(att), complete genome 
+ A:24.71622116440864% C:27.694373245453434% T:21.982179909678994% G:25.607225680458928%
+> JF303889.1 Cottontail rabbit papillomavirus strain Hershey, complete genome 
+ A:28.649472748062507% C:21.928598653284208% T:24.888832422817938% G:24.533096175835343%
+> MN061492.1 Rabbit hemorrhagic disease virus 2 isolate RHDV2-NL2016, complete genome 
+ A:25.65234845443597% C:24.8896025692493% T:23.511307373210222% G:25.94674160310451%
+> KM878681.1 Rabbit hemorrhagic disease virus isolate RHDV-N11, complete genome 
+ A:25.629014989293363% C:24.55835117773019% T:23.98286937901499% G:25.829764453961456%
+> AF258618.2 Rabbit hemorrhagic disease virus isolate Iowa2000, complete genome 
+ A:26.06133654747556% C:24.628364805142628% T:23.94535958216151% G:25.3649390652203%
+> DQ205345.1 Rabbit hemorrhagic disease virus strain JX/CHA/97 polyprotein (RHDV), major capsid protein VP60 (VP60), and structural protein VP12 (VP12) mRNAs, complete cds 
+ A:26.125401929260452% C:24.557877813504824% T:24.035369774919616% G:25.281350482315112%
+> MN901451.1 Rabbit hemorrhagic disease virus 2 strain Bremerhaven-17 polyprotein and VP10 genes, complete cds 
+ A:25.60289389067524% C:24.906216505894964% T:23.526259378349412% G:25.964630225080384%
+> JF412629.1 Rabbit hemorrhagic disease virus isolate HYD, complete genome 
+ A:25.869244193851525% C:24.446234393878374% T:24.11061887501678% G:25.57390253725332%
+> EU003578.1 Rabbit hemorrhagic disease virus isolate IN-05, complete genome 
+ A:26.279038539008997% C:25.325634483684706% T:23.28454411172284% G:25.110782865583456%
+> EU003582.1 Rabbit hemorrhagic disease virus isolate UT-01, complete genome 
+ A:25.674768363099236% C:24.78850543843158% T:23.808244930844637% G:25.728481267624545%
+> EU003579.1 Rabbit hemorrhagic disease virus isolate Italy-90, complete genome 
+ A:25.92343854936199% C:24.8354600402955% T:23.84150436534587% G:25.399597044996643%
+> EU003581.1 Rabbit hemorrhagic disease virus isolate NY-01, complete genome 
+ A:25.77568838146407% C:24.419073203492278% T:24.190732034922767% G:25.614506380120886%
+> MF407654.1 Rabbit hemorrhagic disease virus isolate PSM2, complete genome 
+ A:25.436710561676968% C:24.509540446116635% T:24.361730717549047% G:25.69201827465735%
+> MF407656.1 Rabbit hemorrhagic disease virus isolate CBMad17-2, complete genome 
+ A:25.42327331362537% C:24.41547970975544% T:24.42891695780704% G:25.70545552270895%
+> MF407657.1 Rabbit hemorrhagic disease virus isolate CBMad17-3, complete genome 
+ A:25.436710561676968% C:24.46922870196184% T:24.402042461703843% G:25.665143778554153%
+> KX844830.1 Rabbit hemorrhagic disease virus isolate SCH04, complete genome 
+ A:25.64171482327644% C:24.64722483537159% T:24.136540787528556% G:25.57451955382341%
+> KY235678.1 Rabbit hemorrhagic disease virus isolate Korea/2719, complete genome 
+ A:25.82986157774493% C:24.795054428168257% T:23.92151592527886% G:25.44012901491735%
+> DQ189077.1 Rabbit hemorrhagic disease virus from Bahrain, complete genome 
+ A:25.729264686113726% C:24.85549132947977% T:23.887619303669847% G:25.527624680736658%
+> EF558574.1 Rabbit hemorrhagic disease virus strain Wika, complete genome 
+ A:25.76959268718914% C:24.77483532732894% T:24.06237397499664% G:25.393198010485282%
+> EF558578.1 Rabbit hemorrhagic disease virus strain Eisenhuttenstadt, complete genome 
+ A:25.446968678585833% C:25.003360666756283% T:23.833848635569296% G:25.715822019088588%
+> EF558584.1 Rabbit hemorrhagic disease virus strain Rossi, complete genome 
+ A:25.83680602231483% C:24.85549132947977% T:23.833848635569296% G:25.473854012636107%
+> EF558576.1 Rabbit hemorrhagic disease virus strain Jena, complete genome 
+ A:25.62172334991262% C:24.761392660303805% T:24.008603306896088% G:25.608280682887486%
+> EF558577.1 Rabbit hemorrhagic disease virus strain Meiningen, complete genome 
+ A:25.756150020164% C:24.5463099879016% T:24.143029977147467% G:25.554510014786935%
+> KY235675.1 Rabbit hemorrhagic disease virus isolate QC/Canada/WIN-AH-2016-OTH-0018, complete genome 
+ A:25.473854012636107% C:24.66729399112784% T:23.954832638795537% G:25.904019357440514%
+> KY235677.1 Rabbit hemorrhagic disease virus isolate Mexico/2718, complete genome 
+ A:25.527624680736658% C:24.949589998655732% T:23.780077967468745% G:25.74270735313886%
+> EF558580.1 Rabbit hemorrhagic disease virus strain NZ61, complete genome 
+ A:25.9209464909922% C:24.643721430492068% T:24.025275611723583% G:25.41005646679215%
+> KY171748.1 Rabbit hemorrhagic disease virus strain Sch07, complete genome 
+ A:25.692390427534285% C:24.670610379134175% T:24.0790535090078% G:25.557945684323744%
+> M67473.1 Rabbit hemorrhagic disease virus-FRG, complete genome 
+ A:25.870646766169155% C:24.72771278741428% T:23.947828425440367% G:25.4538120209762%
+> Z29514.1 RHDV-SD complete genome 
+ A:25.521043431491194% C:24.875621890547265% T:23.853704450719377% G:25.749630227242168%
+> X87607.1 RHDV-BS89 complete genome 
+ A:25.776522791448166% C:24.808390480032273% T:23.98816727174936% G:25.413473174667203%
+> U54983.1 RHDV-V351, complete genome 
+ A:25.763076509345165% C:24.835283044238267% T:23.947828425440367% G:25.4538120209762%
+> NC_001543.1 Rabbit hemorrhagic disease virus-FRG, complete genome 
+ A:25.870646766169155% C:24.72771278741428% T:23.947828425440367% G:25.4538120209762%
+> AY523410.1 Rabbit hemorrhagic disease virus isolate CD/China, complete genome 
+ A:25.924431894581147% C:24.768051633723275% T:23.934382143337366% G:25.37313432835821%
+> DQ280493.1 Rabbit hemorrhagic disease virus, complete genome 
+ A:25.62861368831518% C:24.72771278741428% T:24.041952400161357% G:25.601721124109183%
+> EF363035.1 Rabbit hemorrhagic disease virus clone pJG-RHDV-DD06, complete genome 
+ A:25.72273766303617% C:24.741159069517277% T:23.98816727174936% G:25.54793599569719%
+> EF558586.1 Rabbit hemorrhagic disease virus strain Hartmannsdorf, complete genome 
+ A:25.64205997041818% C:24.405002016942316% T:24.17641522119134% G:25.763076509345165%
+> AB300693.2 Rabbit hemorrhagic disease virus genomic RNA, complete genome 
+ A:25.574828559903185% C:24.660481376899288% T:24.10918381067635% G:25.655506252521178%
+> HM623309.1 Rabbit hemorrhagic disease virus isolate NJ-2009, complete genome 
+ A:25.803415355654163% C:24.579803684281295% T:24.136076374882347% G:25.480704585182195%
+> KY437668.1 Rabbit hemorrhagic disease virus strain HB, complete genome 
+ A:25.857200484066155% C:24.700820223208282% T:24.028506118058356% G:25.413473174667203%
+> MH190418.1 Rabbit hemorrhagic disease virus strain lagovirus europaeus/GI.1d/O cun/FR/2000/00-21, complete genome 
+ A:25.776522791448166% C:24.754605351620278% T:23.947828425440367% G:25.521043431491194%
+> MG602006.1 Rabbit hemorrhagic disease virus strain RED2016 polyprotein and minor stuctural protein genes, complete cds 
+ A:25.426919456770204% C:24.310878042221326% T:24.63358881269329% G:25.615167406212183%
+> MG602007.1 Rabbit hemorrhagic disease virus strain VMS polyprotein and minor structural protein genes, complete cds 
+ A:25.4403657388732% C:24.36466317063332% T:24.5394648379723% G:25.655506252521178%
+> KY235676.1 Rabbit hemorrhagic disease virus isolate MB/Canada/WIN-AH-2011-OTH-026, complete genome 
+ A:25.860677783754706% C:24.569661108122645% T:24.018289402904788% G:25.55137170521786%
+> MF407651.1 Rabbit hemorrhagic disease virus isolate CBPico17-1, complete genome 
+ A:25.46750975380062% C:24.270146643347235% T:24.579577559531817% G:25.669312525225347%
+> MF407652.1 Rabbit hemorrhagic disease virus isolate CBPico17-2, complete genome 
+ A:25.46750975380062% C:24.323960715727164% T:24.539217005246872% G:25.669312525225347%
+> MH204883.1 Hare calicivirus strain E15-431, complete genome 
+ A:25.588591416655454% C:23.543656666218215% T:25.40024216332571% G:25.46750975380062%
+> MF407653.1 Rabbit hemorrhagic disease virus isolate 16PLM1, complete genome 
+ A:25.26244952893674% C:24.468371467025573% T:24.158815612382234% G:26.083445491251684%
+> KF677011.2 Rabbit hemorrhagic disease virus strain STR2012, complete genome 
+ A:25.63274098007539% C:24.407646742057082% T:24.299946149703825% G:25.659666128163703%
+> KP144789.2 Rabbit hemorrhagic disease virus strain PD 1989, complete genome 
+ A:25.82121701669359% C:24.784598815293485% T:23.949919224555735% G:25.44426494345719%
+> KP144790.2 Rabbit hemorrhagic disease virus strain KGM 1988, complete genome 
+ A:25.700053850296175% C:24.784598815293485% T:23.963381798599894% G:25.551965535810446%
+> KP144792.2 Rabbit hemorrhagic disease virus strain BLA 1994, complete genome 
+ A:25.68659127625202% C:24.79806138933764% T:24.084544964997306% G:25.430802369413033%
+> KU882092.1 Rabbit hemorrhagic disease virus strain GSK, complete genome 
+ A:25.565428109854604% C:24.730748519116855% T:24.111470113085623% G:25.592353257942918%
+> KU882093.1 Rabbit hemorrhagic disease virus strain MAL, complete genome 
+ A:25.767366720516964% C:24.932687129779215% T:23.788368336025847% G:25.511577813677974%
+> KU882094.1 Rabbit hemorrhagic disease virus strain OPO, complete genome 
+ A:25.673128702207862% C:24.676898222940228% T:24.17878298330641% G:25.457727517501347%
+> KU882095.1 Rabbit hemorrhagic disease virus strain ZD0, complete genome 
+ A:25.78082929456112% C:24.79806138933764% T:23.922994076467422% G:25.49811523963382%
+> KP144791.2 Rabbit hemorrhagic disease virus strain GRZ 2004, complete genome 
+ A:25.713516424340334% C:24.421109316101237% T:24.299946149703825% G:25.551965535810446%
+> KY319031.1 Rabbit hemorrhagic disease virus strain BIE 2015, complete genome 
+ A:25.619278406031235% C:24.50188476036618% T:24.246095853527194% G:25.63274098007539%
+> KY319032.1 Rabbit hemorrhagic disease virus strain GLE 2013, complete genome 
+ A:25.753904146472806% C:24.394184168012924% T:24.326871297792138% G:25.525040387722132%
+> KY319033.1 Rabbit hemorrhagic disease virus strain KRY, complete genome 
+ A:25.726978998384492% C:24.7172859450727% T:23.949919224555735% G:25.605815831987076%
+> KY319034.1 Rabbit hemorrhagic disease virus strain SKO 2013, complete genome 
+ A:25.68659127625202% C:24.421109316101237% T:24.340333871836297% G:25.551965535810446%
+> KY319035.1 Rabbit hemorrhagic disease virus strain W147/05, complete genome 
+ A:25.713516424340334% C:24.434571890145396% T:24.299946149703825% G:25.551965535810446%
+> KY679902.1 Rabbit hemorrhagic disease virus strain L145, complete genome 
+ A:25.740441572428647% C:24.46149703823371% T:24.273021001615508% G:25.525040387722132%
+> KY679903.1 Rabbit hemorrhagic disease virus strain RED1-2013, complete genome 
+ A:25.740441572428647% C:24.744211093161013% T:23.97684437264405% G:25.53850296176629%
+> KY679904.1 Rabbit hemorrhagic disease virus strain STR2-2013, complete genome 
+ A:25.700053850296175% C:24.434571890145396% T:24.35379644588045% G:25.511577813677974%
+> KY679905.1 Rabbit hemorrhagic disease virus strain STR2014, complete genome 
+ A:25.673128702207862% C:24.448034464189554% T:24.273021001615508% G:25.605815831987076%
+> MG602005.1 Rabbit hemorrhagic disease virus strain BBI polyprotein and minor structural protein genes, complete cds 
+ A:25.726978998384492% C:24.488422186322026% T:24.246095853527194% G:25.53850296176629%
+> EF558572.1 Rabbit hemorrhagic disease virus strain Frankfurt12, complete genome 
+ A:25.723905723905723% C:24.794612794612796% T:24.08080808080808% G:25.4006734006734%
+> EF558582.1 Rabbit hemorrhagic disease virus strain Dachswald, complete genome 
+ A:25.804713804713806% C:24.68686868686869% T:24.0% G:25.50841750841751%
+> EU871528.1 Rabbit calicivirus Australia 1 MIC-07, complete genome 
+ A:26.569657774184854% C:22.95877122069523% T:25.559148477499328% G:24.91242252762059%
+> NC_011704.1 Rabbit calicivirus Australia 1 MIC-07, complete genome 
+ A:26.569657774184854% C:22.95877122069523% T:25.559148477499328% G:24.91242252762059%
+> KM979445.1 Rabbit hemorrhagic disease virus isolate CBVal16, complete genome 
+ A:25.481741005255355% C:24.565422449804608% T:24.134213717827787% G:25.764721735615147%
+> MF407655.1 Rabbit hemorrhagic disease virus isolate CBMad17-1, complete genome 
+ A:26.195930467591968% C:23.52782643848538% T:25.306562457889772% G:24.956205363158602%
+> EF558575.1 Rabbit hemorrhagic disease virus strain Ascot, complete genome 
+ A:25.852540773689178% C:24.814665049198005% T:23.99245181291279% G:25.340342364200026%
+> EF558581.1 Rabbit hemorrhagic disease virus strain Erfurt, complete genome 
+ A:25.782092772384036% C:24.662891046386193% T:24.08306364617044% G:25.47195253505933%
+> EF558573.1 Rabbit hemorrhagic disease virus strain Frankfurt5, complete genome 
+ A:25.677680377612948% C:24.881995954146998% T:24.005394470667564% G:25.434929197572487%
+> EF558579.1 Rabbit hemorrhagic disease virus strain NZ54, complete genome 
+ A:25.84740040513167% C:24.78055367994598% T:23.956785955435517% G:25.415259959486832%
+> EF558583.1 Rabbit hemorrhagic disease virus strain Triptis, complete genome 
+ A:25.732811022558423% C:24.908820748345267% T:23.787653653924085% G:25.57071457517223%
+> GQ166866.1 Rabbit calicivirus strain MRCV polyprotein gene, partial cds; and VP12 gene, complete cds 
+ A:25.978069581697575% C:24.58372817111141% T:24.35359415188845% G:25.08460809530256%
+> KT006745.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Bulgania/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.829159333965073% C:24.39420603763368% T:24.340056856640043% G:25.4365777717612%
+> KT006724.1 Rabbit hemorrhagic disease virus isolate NZL/Canterbury/Hawarden/320/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:26.076360682372055% C:24.3839696723531% T:24.343352288112644% G:25.196317357162197%
+> KT006731.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/Hall/WAT1-13/2007 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.819117248849174% C:24.72244787435689% T:24.004874086108856% G:25.45356079068508%
+> KT006732.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/Murrumbateman/BlueGums/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.927430273490387% C:24.61413484971568% T:24.031952342269157% G:25.426482534524776%
+> KT006733.1 Rabbit hemorrhagic disease virus isolate AUS/WA/Gnowangerup/1999 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.819117248849174% C:24.70890874627674% T:24.059030598429462% G:25.412943406444626%
+> KT006734.1 Rabbit hemorrhagic disease virus isolate AUS/SA/FlindersRanges/1999 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.88681288924993% C:24.776604386677498% T:24.031952342269157% G:25.304630381803413%
+> KT006735.1 Rabbit hemorrhagic disease virus isolate AUS/WA/Bunbury/2000 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.724343352288113% C:24.96615217979962% T:23.80178716490658% G:25.507717303005688%
+> KT006736.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Robe/2000 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.805578120769024% C:24.681830490116436% T:24.072569726509613% G:25.440021662604927%
+> KT006739.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Coorong/2004 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.913891145410236% C:24.532900081234768% T:24.289195775792038% G:25.264012997562958%
+> KT006740.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BillaKallina/2004 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.805578120769024% C:24.87137828323856% T:23.923639317627945% G:25.39940427836447%
+> KT006741.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Woodcroft/2005 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.913891145410236% C:24.735987002437042% T:23.991334958028702% G:25.35878689412402%
+> KT006742.1 Rabbit hemorrhagic disease virus isolate AUS/SA/FlindersRanges/2006 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.85973463308963% C:24.532900081234768% T:24.262117519631737% G:25.345247766043865%
+> KT006743.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/SouthArm/2007 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.913891145410236% C:24.87137828323856% T:23.855943677227188% G:25.35878689412402%
+> KT006746.1 Rabbit hemorrhagic disease virus isolate AUS/WA/WonganHills/2012 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.995125913891144% C:24.39750880043325% T:24.39750880043325% G:25.20985648524235%
+> KT006747.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/Grafton/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.87327376116978% C:24.64121310587598% T:23.950717573788246% G:25.53479555916599%
+> KT344770.1 Rabbit hemorrhagic disease virus isolate AUS/CSIRO/Master polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.87327376116978% C:24.844300027078255% T:23.910100189547794% G:25.37232602220417%
+> KT344771.1 Rabbit hemorrhagic disease virus isolate AUS/CSIRO/Working polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.88681288924993% C:24.830760898998104% T:23.910100189547794% G:25.37232602220417%
+> KT344772.1 Rabbit hemorrhagic disease virus isolate AUS/CSIRO/Release polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.88681288924993% C:24.830760898998104% T:23.910100189547794% G:25.37232602220417%
+> KT344773.1 Rabbit hemorrhagic disease virus isolate AUS/EMAI/Batch-1A polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.88681288924993% C:24.830760898998104% T:23.910100189547794% G:25.37232602220417%
+> KT344774.1 Rabbit hemorrhagic disease virus isolate AUS/EMAI/Batch-1D polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.88681288924993% C:24.830760898998104% T:23.910100189547794% G:25.37232602220417%
+> KT344775.1 Rabbit hemorrhagic disease virus isolate NZL/V351/Control polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.88681288924993% C:24.830760898998104% T:23.910100189547794% G:25.37232602220417%
+> KX357653.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/AIN-1/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.819117248849174% C:24.45166531275386% T:24.20796100731113% G:25.52125643108584%
+> KX357654.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/AIN-2/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.832656376929325% C:24.46520444083401% T:24.194421879230976% G:25.507717303005688%
+> KX357670.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/MtPt-2/2010 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.913891145410236% C:24.46520444083401% T:24.194421879230976% G:25.426482534524776%
+> KX357671.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/MtPt-4/2010 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.846195505009476% C:24.45166531275386% T:24.194421879230976% G:25.507717303005688%
+> KX357672.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/PI-1/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.940969401570538% C:24.654752233956135% T:24.031952342269157% G:25.37232602220417%
+> KX357677.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/M2/2007 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.832656376929325% C:24.519360953154617% T:24.153804494990524% G:25.494178174925533%
+> KX357678.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/M9/2007 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.87327376116978% C:24.45166531275386% T:24.20796100731113% G:25.467099918765232%
+> KX357695.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ORA383/2008 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.900352017330086% C:24.79014351475765% T:24.045491470349308% G:25.264012997562958%
+> KX357706.1 Rabbit hemorrhagic disease virus isolate AUS/WA/B.Hill/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:26.0357432981316% C:24.54643920931492% T:24.248578391551582% G:25.169239101001896%
+> KT006738.1 Rabbit hemorrhagic disease virus isolate AUS/SA/OneTreeHill/2003 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.863236289776573% C:24.631008801624915% T:24.157075152335818% G:25.348679756262694%
+> KT280060.1 Rabbit hemorrhagic disease virus isolate BLMT-1 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.375761679079215% C:24.685172647257954% T:24.265402843601894% G:25.673662830060934%
+> MF421574.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MEA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.278943805010154% T:24.617467840216655% G:25.700744752877455%
+> MF421575.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MUN-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.522681110358835% T:24.387271496276234% G:25.714285714285715%
+> MF421577.1 Rabbit hemorrhagic disease virus isolate AUS/SA/WIT-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.335138794854434% C:24.278943805010154% T:24.658090724441436% G:25.727826675693976%
+> MF421578.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/HAM-4/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.335138794854434% C:24.603926878808394% T:24.306025727826675% G:25.754908598510493%
+> MF421580.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/ARA-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.416384563303996% C:24.685172647257954% T:24.265402843601894% G:25.633039945836153%
+> MF421581.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/TUG-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.416384563303996% C:24.671631685849697% T:24.278943805010154% G:25.633039945836153%
+> MF421582.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/TUG-3/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.416384563303996% C:24.671631685849697% T:24.278943805010154% G:25.633039945836153%
+> MF421585.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/MFBM-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.631008801624915% T:24.333107650643196% G:25.687203791469194%
+> MF421589.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/RUS-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.335138794854434% C:24.631008801624915% T:24.319566689234936% G:25.714285714285715%
+> MF421593.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BRH-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.387271496276234% T:24.536222071767096% G:25.714285714285715%
+> MF421595.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/SGA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.457007447528774% C:24.482058226134054% T:24.441435341909276% G:25.619498984427896%
+> MF421597.1 Rabbit hemorrhagic disease virus isolate AUS/SA/PAR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.454976303317537% T:24.468517264725797% G:25.687203791469194%
+> MF421598.1 Rabbit hemorrhagic disease virus isolate AUS/SA/CRA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.495599187542314% T:24.400812457684495% G:25.700744752877455%
+> MF421599.1 Rabbit hemorrhagic disease virus isolate AUS/SA/LYN-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.319566689234936% T:24.576844955991877% G:25.714285714285715%
+> MF421600.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MUN-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.306025727826675% T:24.590385917400134% G:25.727826675693976%
+> MF421602.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MAC-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.360189573459717% T:24.522681110358835% G:25.741367637102233%
+> MF421603.1 Rabbit hemorrhagic disease virus isolate AUS/SA/KAL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.280974949221395% C:24.400812457684495% T:24.509140148950575% G:25.809072444143535%
+> MF421604.1 Rabbit hemorrhagic disease virus isolate AUS/SA/KAL-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.280974949221395% C:24.400812457684495% T:24.509140148950575% G:25.809072444143535%
+> MF421605.1 Rabbit hemorrhagic disease virus isolate AUS/SA/LH-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.373730534867974% T:24.549763033175356% G:25.727826675693976%
+> MF421606.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MAC-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.360189573459717% T:24.536222071767096% G:25.714285714285715%
+> MF421607.1 Rabbit hemorrhagic disease virus isolate AUS/SA/CV-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.335138794854434% C:24.373730534867974% T:24.522681110358835% G:25.768449559918754%
+> MF421608.1 Rabbit hemorrhagic disease virus isolate AUS/SA/TUR-1607/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.576844955991877% T:24.360189573459717% G:25.673662830060934%
+> MF421609.1 Rabbit hemorrhagic disease virus isolate AUS/SA/TUR-1606/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.576844955991877% T:24.360189573459717% G:25.673662830060934%
+> MF421610.1 Rabbit hemorrhagic disease virus isolate AUS/SA/STR-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.495599187542314% T:24.400812457684495% G:25.700744752877455%
+> MF421611.1 Rabbit hemorrhagic disease virus isolate AUS/SA/KAL-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.294515910629656% C:24.414353419092755% T:24.495599187542314% G:25.795531482735274%
+> MF421612.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MTO-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.360189573459717% T:24.549763033175356% G:25.687203791469194%
+> MF421613.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BLAK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.387271496276234% T:24.549763033175356% G:25.700744752877455%
+> MF421614.1 Rabbit hemorrhagic disease virus isolate AUS/SA/WS-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.333107650643196% T:24.576844955991877% G:25.727826675693976%
+> MF421615.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MTO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.400812457684495% T:24.509140148950575% G:25.741367637102233%
+> MF421616.1 Rabbit hemorrhagic disease virus isolate AUS/SA/LEA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.538253215978333% C:24.360189573459717% T:24.536222071767096% G:25.565335138794854%
+> MF421617.1 Rabbit hemorrhagic disease virus isolate AUS/SA/CRK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.346648612051457% T:24.549763033175356% G:25.754908598510493%
+> MF421618.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BRA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.454976303317537% T:24.468517264725797% G:25.714285714285715%
+> MF421619.1 Rabbit hemorrhagic disease virus isolate AUS/SA/COL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.306025727826675% T:24.603926878808394% G:25.714285714285715%
+> MF421620.1 Rabbit hemorrhagic disease virus isolate AUS/SA/COL-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.373730534867974% T:24.522681110358835% G:25.754908598510493%
+> MF421621.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ORO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.457007447528774% C:24.427894380501016% T:24.482058226134054% G:25.633039945836153%
+> MF421622.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/HAM-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.321597833446173% C:24.590385917400134% T:24.319566689234936% G:25.768449559918754%
+> MF421623.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/HAM-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.576844955991877% T:24.333107650643196% G:25.741367637102233%
+> MF421626.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/HAM-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.321597833446173% C:24.603926878808394% T:24.306025727826675% G:25.768449559918754%
+> MF421627.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/BAH-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.468517264725797% T:24.427894380501016% G:25.700744752877455%
+> MF421628.1 Rabbit hemorrhagic disease virus isolate AUS/WA/PIC-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.509140148950575% T:24.387271496276234% G:25.727826675693976%
+> MF421629.1 Rabbit hemorrhagic disease virus isolate AUS/WA/CHI-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.482058226134054% T:24.400812457684495% G:25.754908598510493%
+> MF421630.1 Rabbit hemorrhagic disease virus isolate AUS/WA/CHI-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.454976303317537% T:24.427894380501016% G:25.754908598510493%
+> MF421631.1 Rabbit hemorrhagic disease virus isolate AUS/WA/PIC-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.427894380501016% T:24.468517264725797% G:25.700744752877455%
+> MF421632.1 Rabbit hemorrhagic disease virus isolate AUS/WA/WNN-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.495599187542314% T:24.414353419092755% G:25.700744752877455%
+> MF421633.1 Rabbit hemorrhagic disease virus isolate AUS/WA/MTBA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.468517264725797% T:24.427894380501016% G:25.727826675693976%
+> MF421634.1 Rabbit hemorrhagic disease virus isolate AUS/WA/MTBA-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.468517264725797% T:24.427894380501016% G:25.727826675693976%
+> MF421639.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/TAR-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.549763033175356% T:24.400812457684495% G:25.700744752877455%
+> MF421640.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/MER-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.524712254570076% C:24.549763033175356% T:24.373730534867974% G:25.551794177386594%
+> MF421641.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BOC-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.524712254570076% C:24.482058226134054% T:24.427894380501016% G:25.565335138794854%
+> MF421642.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/COW-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.522681110358835% T:24.441435341909276% G:25.673662830060934%
+> MF421643.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/ORAN-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.468517264725797% T:24.441435341909276% G:25.700744752877455%
+> MF421644.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/WES-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.321597833446173% C:24.495599187542314% T:24.482058226134054% G:25.700744752877455%
+> MF421645.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/EOR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.497630331753555% C:24.536222071767096% T:24.360189573459717% G:25.605958023019635%
+> MF421646.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/HIL-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.725795531482735% T:24.184157075152335% G:25.741367637102233%
+> MF421647.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BRO-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.294515910629656% C:24.739336492890995% T:24.211238997968856% G:25.754908598510493%
+> MF421648.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BRO-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.294515910629656% C:24.739336492890995% T:24.211238997968856% G:25.754908598510493%
+> MF421649.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BEGA-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.294515910629656% C:24.725795531482735% T:24.224779959377116% G:25.754908598510493%
+> MF421650.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BEGA-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.294515910629656% C:24.739336492890995% T:24.211238997968856% G:25.754908598510493%
+> MF421652.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/GOU-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.253893026404874% C:24.522681110358835% T:24.414353419092755% G:25.809072444143535%
+> MF421653.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BERK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.484089370345295% C:24.549763033175356% T:24.387271496276234% G:25.578876100203114%
+> MF421654.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/SWI-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.335138794854434% C:24.644549763033176% T:24.292484766418415% G:25.727826675693976%
+> MF421655.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/COB-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.603926878808394% T:24.346648612051457% G:25.700744752877455%
+> MF421656.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/MOL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.522681110358835% T:24.400812457684495% G:25.727826675693976%
+> MF421657.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/KUL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.468517264725797% T:24.454976303317537% G:25.714285714285715%
+> MF421659.1 Rabbit hemorrhagic disease virus isolate AUS/NT/DAR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.267433987813135% C:24.536222071767096% T:24.373730534867974% G:25.822613405551795%
+> MF421660.1 Rabbit hemorrhagic disease virus isolate AUS/NT/ASP-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.213270142180093% C:24.563303994583617% T:24.387271496276234% G:25.836154366960056%
+> MF421661.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MBR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.454976303317537% T:24.468517264725797% G:25.687203791469194%
+> MF421662.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ADL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.319566689234936% T:24.576844955991877% G:25.714285714285715%
+> MF421663.1 Rabbit hemorrhagic disease virus isolate AUS/SA/NUR-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.346648612051457% T:24.576844955991877% G:25.700744752877455%
+> MF421664.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ONK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.335138794854434% C:24.360189573459717% T:24.549763033175356% G:25.754908598510493%
+> MF421665.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MUN-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.306025727826675% T:24.590385917400134% G:25.727826675693976%
+> MF421666.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MIL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.387271496276234% T:24.509140148950575% G:25.727826675693976%
+> MF421667.1 Rabbit hemorrhagic disease virus isolate AUS/SA/NAI-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.387271496276234% T:24.509140148950575% G:25.727826675693976%
+> MF421668.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ROB-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.308056872037916% C:24.414353419092755% T:24.495599187542314% G:25.781990521327014%
+> MF421669.1 Rabbit hemorrhagic disease virus isolate AUS/SA/REY-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.280974949221395% C:24.400812457684495% T:24.509140148950575% G:25.809072444143535%
+> MF421670.1 Rabbit hemorrhagic disease virus isolate AUS/SA/REY-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.280974949221395% C:24.400812457684495% T:24.509140148950575% G:25.809072444143535%
+> MF421671.1 Rabbit hemorrhagic disease virus isolate AUS/SA/KOO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.335138794854434% C:24.387271496276234% T:24.536222071767096% G:25.741367637102233%
+> MF421672.1 Rabbit hemorrhagic disease virus isolate AUS/SA/GLE-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.335138794854434% C:24.387271496276234% T:24.536222071767096% G:25.741367637102233%
+> MF421673.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BAL-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.400812457684495% T:24.509140148950575% G:25.741367637102233%
+> MF421674.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BAL-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.400812457684495% T:24.509140148950575% G:25.741367637102233%
+> MF421675.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/SPR-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.294515910629656% C:24.631008801624915% T:24.346648612051457% G:25.727826675693976%
+> MF421676.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/KERANG-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.522681110358835% T:24.387271496276234% G:25.687203791469194%
+> MF421677.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/WAN-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.308056872037916% C:24.414353419092755% T:24.482058226134054% G:25.795531482735274%
+> MF421678.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/WIL-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.536222071767096% T:24.373730534867974% G:25.741367637102233%
+> MF421679.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/WIL-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.400812457684495% T:24.509140148950575% G:25.741367637102233%
+> MF421680.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/NEW-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.495599187542314% T:24.427894380501016% G:25.727826675693976%
+> MF421681.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/NEW-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.321597833446173% C:24.495599187542314% T:24.427894380501016% G:25.754908598510493%
+> MF421682.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/NEW-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.348679756262694% C:24.482058226134054% T:24.441435341909276% G:25.727826675693976%
+> MF421683.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/WAR-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.373730534867974% T:24.536222071767096% G:25.687203791469194%
+> MF421686.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/DUN-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.416384563303996% C:24.563303994583617% T:24.346648612051457% G:25.673662830060934%
+> MF421688.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/DUN-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.416384563303996% C:24.576844955991877% T:24.333107650643196% G:25.673662830060934%
+> MF421689.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/AWA-4/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.470548408937034% C:24.387271496276234% T:24.509140148950575% G:25.633039945836153%
+> MF421691.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/AWA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.470548408937034% C:24.387271496276234% T:24.509140148950575% G:25.633039945836153%
+> MF421692.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/STO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.522681110358835% T:24.427894380501016% G:25.673662830060934%
+> MF421693.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/MLB-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.308056872037916% C:24.346648612051457% T:24.522681110358835% G:25.822613405551795%
+> MF421695.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/DON-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.441435341909276% T:24.427894380501016% G:25.727826675693976%
+> MF421696.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/CAM-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.402843601895736% C:24.482058226134054% T:24.427894380501016% G:25.687203791469194%
+> MF421697.1 Rabbit hemorrhagic disease virus isolate AUS/WA/YOR-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.389302640487475% C:24.482058226134054% T:24.400812457684495% G:25.727826675693976%
+> MF421698.1 Rabbit hemorrhagic disease virus isolate AUS/WA/PTH-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.362220717670954% C:24.387271496276234% T:24.495599187542314% G:25.754908598510493%
+> MF421699.1 Rabbit hemorrhagic disease virus isolate AUS/WA/ALB-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.375761679079215% C:24.454976303317537% T:24.468517264725797% G:25.700744752877455%
+> MF421700.1 Rabbit hemorrhagic disease virus isolate AUS/WA/LES-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.321597833446173% C:24.482058226134054% T:24.414353419092755% G:25.781990521327014%
+> MF421576.1 Rabbit hemorrhagic disease virus isolate AUS/SA/TIN-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.37919826652221% C:24.282231852654387% T:24.62080173347779% G:25.717768147345613%
+> MF421579.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/ATH-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.392741061755146% C:24.64788732394366% T:24.295774647887324% G:25.663596966413866%
+> MF421583.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/HACK-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.433369447453956% C:24.64788732394366% T:24.295774647887324% G:25.62296858071506%
+> MF421584.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/BLMT-6/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.41982665222102% C:24.566630552546044% T:24.390574214517876% G:25.62296858071506%
+> MF421587.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/MAJ-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.460455037919825% C:24.58017334777898% T:24.37703141928494% G:25.58234019501625%
+> MF421588.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BIB-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.460455037919825% C:24.607258938244854% T:24.322860238353197% G:25.609425785482124%
+> MF421590.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/KYE-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.41982665222102% C:24.58017334777898% T:24.390574214517876% G:25.609425785482124%
+> MF421591.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/KYE-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.406283856988082% C:24.58017334777898% T:24.390574214517876% G:25.62296858071506%
+> MF421592.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BG-5/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.37919826652221% C:24.566630552546044% T:24.390574214517876% G:25.663596966413866%
+> MF421594.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BG-6/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.365655471289273% C:24.566630552546044% T:24.390574214517876% G:25.677139761646803%
+> MF421596.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BG-7/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.37919826652221% C:24.566630552546044% T:24.390574214517876% G:25.663596966413866%
+> MF421624.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/TAW-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.37919826652221% C:24.593716143011918% T:24.349945828819067% G:25.677139761646803%
+> MF421625.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/TAW-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.37919826652221% C:24.58017334777898% T:24.363488624052003% G:25.677139761646803%
+> MF421636.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/HAR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.47399783315276% C:24.566630552546044% T:24.37703141928494% G:25.58234019501625%
+> MF421637.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/THE-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.446912242686892% C:24.566630552546044% T:24.390574214517876% G:25.595882990249187%
+> MF421638.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/BON-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.338569880823403% C:24.715601300108343% T:24.214517876489708% G:25.73131094257855%
+> MF421651.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/FC-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.41982665222102% C:24.634344528710727% T:24.336403033586134% G:25.609425785482124%
+> MF421658.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/CAR-4/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.392741061755146% C:24.498916576381365% T:24.471830985915492% G:25.636511375947997%
+> MF421684.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/AC-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.37919826652221% C:24.62080173347779% T:24.336403033586134% G:25.663596966413866%
+> MF421685.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/AC-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.37919826652221% C:24.62080173347779% T:24.336403033586134% G:25.663596966413866%
+> MF421690.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/THO-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.41982665222102% C:24.607258938244854% T:24.322860238353197% G:25.650054171180933%
+> MF421694.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/CLC-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.37919826652221% C:24.444745395449623% T:24.48537378114843% G:25.69068255687974%
+> EU003580.1 Rabbit hemorrhagic disease virus isolate Korea-90 polyprotein gene, partial cds; and hypothetical protein gene, complete cds 
+ A:25.92442096708655% C:24.80021671407287% T:23.865637274820532% G:25.409725044020046%
+> KT006721.1 Rabbit hemorrhagic disease virus isolate NZL/Canterbury/Lincoln/517/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.91087633753217% C:24.678315048083434% T:24.06880671813626% G:25.34200189624814%
+> KT006722.1 Rabbit hemorrhagic disease virus isolate NZL/Canterbury/MackenzieBasin/95/2012 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.734796153325206% C:24.63768115942029% T:24.190708384125696% G:25.43681430312881%
+> KT006723.1 Rabbit hemorrhagic disease virus isolate NZL/HawkesBay/BoundaryStream/94/2012 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.734796153325206% C:24.71894893674658% T:24.055262088581877% G:25.490992821346335%
+> KT006725.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Queensberry/74/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.965054855749695% C:24.705404307192197% T:24.09589597724502% G:25.233644859813083%
+> KT006726.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Taras/61/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:26.059867262630366% C:24.88148449139916% T:23.90627116348368% G:25.152377082486794%
+> KT006727.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Luggate/67/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.978599485304077% C:24.759582825409726% T:24.028172829473114% G:25.233644859813083%
+> KT006728.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Alexandra/64/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.937965596640932% C:24.678315048083434% T:24.09589597724502% G:25.287823378030613%
+> KT006729.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Wanaka/63/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.92442096708655% C:24.71894893674658% T:24.06880671813626% G:25.287823378030613%
+> KT006730.1 Rabbit hemorrhagic disease virus isolate NZL/Canterbury/MackenzieBasin/322/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.978599485304077% C:24.813761343627252% T:23.946905052146825% G:25.260734118921846%
+> KT006737.1 Rabbit hemorrhagic disease virus isolate AUS/SA/FlindersRanges/2002 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:26.073411892184748% C:24.63768115942029% T:24.150074495462547% G:25.138832452932412%
+> KT006744.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Hillbank/2008 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.92793280953671% C:24.234624762936875% T:24.39718233541046% G:25.440260092115956%
+> EF558585.1 Rabbit hemorrhagic disease virus strain Hagenow polyprotein gene, partial cds; and minor capsid protein gene, complete cds 
+ A:25.863704105134804% C:24.671453732556564% T:23.96694214876033% G:25.4979000135483%
+> KX357667.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/GUN1-37/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.880758807588077% C:24.59349593495935% T:24.132791327913278% G:25.392953929539296%
+> KX357668.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/GUN1-52/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.853658536585368% C:24.607046070460704% T:24.10569105691057% G:25.43360433604336%
+> MF421586.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/WC-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.284552845528456% C:24.634146341463413% T:24.336043360433603% G:25.745257452574524%
+> MF421601.1 Rabbit hemorrhagic disease virus isolate AUS/SA/COO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.409947147309932% C:24.379997289605637% T:24.52906897953652% G:25.680986583547906%
+> MF421635.1 Rabbit hemorrhagic disease virus isolate AUS/WA/WNP-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.35573926006234% C:24.515517007724625% T:24.379997289605637% G:25.7487464426074%
+> MF421687.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/DUN-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.409947147309932% C:24.596828838596014% T:24.325789402358044% G:25.667434611736006%
+> MF421567.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.00975874220656% C:24.329086473298997% T:24.437516942260775% G:25.223637842233668%
+> MF421568.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.969097316345895% C:24.39685551640011% T:24.369747899159663% G:25.264299268094334%
+> MF421571.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.982651124966115% C:24.329086473298997% T:24.451070750880998% G:25.23719165085389%
+> MF421572.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-4/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.996204933586338% C:24.301978856058554% T:24.46462455950122% G:25.23719165085389%
+> MF421573.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-5/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.996204933586338% C:24.315532664678774% T:24.451070750880998% G:25.23719165085389%
+> KT280058.1 Rabbit hemorrhagic disease virus isolate BlueGums-2 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.82700650759219% C:24.49837310195228% T:24.15943600867679% G:25.51518438177874%
+> KT280059.1 Rabbit hemorrhagic disease virus isolate BLMT-2 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ A:25.82700650759219% C:24.43058568329718% T:24.227223427331886% G:25.51518438177874%
+> MF421563.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/BLMT-3/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.79989154013015% C:24.444143167028198% T:24.21366594360087% G:25.542299349240782%
+> MF421564.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/AIN-3/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.81344902386117% C:24.40347071583514% T:24.254338394793926% G:25.52874186550976%
+> KY628307.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-1/2013/12 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.637201735357916% C:24.606832971800433% T:24.14587852494577% G:25.61008676789588%
+> KY628318.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/OUR-1/2014/06 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.86767895878525% C:24.593275488069413% T:24.07809110629067% G:25.460954446854664%
+> KY628319.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/OUR-2/2014/06 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.86767895878525% C:24.593275488069413% T:24.07809110629067% G:25.460954446854664%
+> MF598301.1 Rabbit hemorrhagic disease virus isolate K5_08Q712_BatchRelease1/2008 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.071041214750544% C:24.905097613882862% T:23.79338394793926% G:25.230477223427332%
+> MF598302.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/CAR-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.654013015184383% C:23.671366594360087% T:25.162689804772235% G:24.5119305856833%
+> MF421565.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/BRK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.722033898305085% C:24.70508474576271% T:24.0% G:25.572881355932203%
+> MF421566.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/CWS-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.76271186440678% C:24.56949152542373% T:24.09491525423729% G:25.572881355932203%
+> MF421569.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/GRA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.681355932203388% C:24.70508474576271% T:24.0% G:25.613559322033897%
+> MF421570.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/GEE-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:25.938983050847458% C:24.610169491525422% T:24.054237288135592% G:25.396610169491524%
+> JX886001.1 Rabbit hemorrhagic disease virus isolate CB194_Pt, complete genome 
+ A:25.41728864160673% C:24.86090378613109% T:23.992400597095944% G:25.72940697516624%
+> JX886002.1 Rabbit hemorrhagic disease virus isolate CB137_Pt, complete genome 
+ A:25.37657755462071% C:25.09159994571855% T:23.571719364907043% G:25.946532772425023%
+> KM115712.2 Rabbit hemorrhagic disease virus isolate CBMert14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:25.268014655991315% C:24.657348351200977% T:24.263807843669426% G:25.810829149138282%
+> KM115713.2 Rabbit hemorrhagic disease virus isolate CBMert14-2 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:25.28158501831999% C:24.67091871352965% T:24.25023748134075% G:25.783688424480932%
+> KM115714.2 Rabbit hemorrhagic disease virus isolate CBAlgarve14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:25.200162844347943% C:24.711629800515674% T:24.223096756683404% G:25.83796987379563%
+> KM115715.2 Rabbit hemorrhagic disease virus isolate CBAlgarve14-3 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:25.268014655991315% C:24.711629800515674% T:24.20952639435473% G:25.810829149138282%
+> KM115716.2 Rabbit hemorrhagic disease virus isolate CBAlgarve14-4 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:25.25444429366264% C:24.684489075858327% T:24.23666711901208% G:25.810829149138282%
+> KJ943791.2 Rabbit hemorrhagic disease virus isolate P95, complete genome 
+ A:25.39014791694938% C:25.186592482019268% T:23.571719364907043% G:25.824399511466957%
+> MH159170.1 Rabbit hemorrhagic disease virus isolate A17-62 polyprotein and minor structural protein genes, complete cds 
+ A:25.268014655991315% C:24.833763061473743% T:24.073822771067988% G:25.810829149138282%
+> MH159171.1 Rabbit hemorrhagic disease virus isolate A17-69 polyprotein and minor structural protein genes, complete cds 
+ A:25.25444429366264% C:24.833763061473743% T:24.087393133396663% G:25.810829149138282%
+> MH159172.1 Rabbit hemorrhagic disease virus isolate A17-63 polyprotein and minor structural protein genes, complete cds 
+ A:25.268014655991315% C:24.820192699145068% T:24.073822771067988% G:25.810829149138282%
+> MH159173.1 Rabbit hemorrhagic disease virus isolate A17-73 polyprotein and minor structural protein genes, complete cds 
+ A:25.21373320667662% C:24.738770525173024% T:24.087393133396663% G:25.72940697516624%
+> KY765609.1 Rabbit hemorrhagic disease virus isolate P16 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.495519956557153% C:25.37333695357046% T:23.32337768123812% G:25.807765408634264%
+> KY765610.1 Rabbit hemorrhagic disease virus isolate P19 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.468368178115668% C:25.386912842791205% T:23.336953570458864% G:25.807765408634264%
+> KY765611.1 Rabbit hemorrhagic disease virus isolate P30 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.495519956557153% C:25.37333695357046% T:23.32337768123812% G:25.807765408634264%
+> MG763936.1 Rabbit hemorrhagic disease virus isolate SOS089 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.278305729025252% C:24.8303013847407% T:24.015748031496063% G:25.7263100733098%
+> MG763937.1 Rabbit hemorrhagic disease virus isolate SOS125 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.19685039370079% C:24.58593537876731% T:24.355145262014663% G:25.862068965517242%
+> MG763938.1 Rabbit hemorrhagic disease virus isolate SOS129 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.224002172142274% C:24.62666304642954% T:24.300841705131685% G:25.848493076296496%
+> MG763939.1 Rabbit hemorrhagic disease virus isolate SOS133 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.278305729025252% C:24.721694270974748% T:24.192234591365736% G:25.807765408634264%
+> MG763947.1 Rabbit hemorrhagic disease virus isolate SOS158 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.23757806136302% C:24.89818083084442% T:24.029323920716806% G:25.834917187075753%
+> MG763953.1 Rabbit hemorrhagic disease virus isolate SOS474 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.400488732011947% C:24.680966603312516% T:24.260114037469453% G:25.658430627206084%
+> MG763940.1 Rabbit hemorrhagic disease virus isolate SOS137 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.370093711802255% C:24.826836887138395% T:24.079858753225587% G:25.723210647833763%
+> MG763948.1 Rabbit hemorrhagic disease virus isolate SOS164 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.1935352437865% C:24.84041830775499% T:24.10702159445878% G:25.859024853999728%
+> KF442961.2 Rabbit hemorrhagic disease virus isolate Algarve1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.222826086956523% C:23.88586956521739% T:24.918478260869566% G:24.972826086956523%
+> KF442962.2 Rabbit hemorrhagic disease virus isolate Algarve3 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.25% C:23.858695652173914% T:24.932065217391305% G:24.95923913043478%
+> KF442963.2 Rabbit hemorrhagic disease virus isolate 7-13_Barrancos polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.168478260869566% C:23.831521739130434% T:24.945652173913043% G:25.01358695652174%
+> KF442964.2 Rabbit hemorrhagic disease virus isolate 10A-13_Barrancos polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.195652173913043% C:23.817934782608695% T:25.01358695652174% G:24.972826086956523%
+> KM115680.2 Rabbit hemorrhagic disease virus isolate CBEstoi13-7 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.154891304347824% C:23.858695652173914% T:24.932065217391305% G:25.04076086956522%
+> KM115681.2 Rabbit hemorrhagic disease virus isolate CBEstremoz14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.20923913043478% C:23.804347826086957% T:24.945652173913043% G:25.04076086956522%
+> KM115682.2 Rabbit hemorrhagic disease virus isolate CBEstremoz14-3 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.23641304347826% C:23.804347826086957% T:24.932065217391305% G:25.01358695652174%
+> KM115683.2 Rabbit hemorrhagic disease virus isolate CBMora14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.25% C:23.817934782608695% T:24.932065217391305% G:25.0%
+> KM115689.2 Rabbit hemorrhagic disease virus isolate CBMontemor14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.25% C:23.831521739130434% T:24.95923913043478% G:24.945652173913043%
+> KM115697.2 Rabbit hemorrhagic disease virus isolate CBCoruche14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.182065217391305% C:23.777173913043477% T:25.04076086956522% G:25.0%
+> KM115698.2 Rabbit hemorrhagic disease virus isolate CBCoruche14-2 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.277173913043477% C:23.831521739130434% T:24.972826086956523% G:24.918478260869566%
+> KM115711.2 Rabbit hemorrhagic disease virus isolate CBLavra10-13-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ A:26.372282608695652% C:23.75% T:25.054347826086957% G:24.82336956521739%
+> MF421701.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/YAR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.62770150876716% C:23.746092157129265% T:25.037379366589644% G:24.58882696751393%
+> MG763941.1 Rabbit hemorrhagic disease virus isolate SOS140 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:26.233519097458203% C:24.01794209596303% T:24.779121924697566% G:24.955824384939515%
+> MG763942.1 Rabbit hemorrhagic disease virus isolate SOS148 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.173304336006524% C:24.779121924697566% T:24.00434959902134% G:26.043224140274567%
+> MG763944.1 Rabbit hemorrhagic disease virus isolate SOS150 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:26.206334103574825% C:23.746092157129265% T:25.078156857414708% G:24.928639391056137%
+> MG763946.1 Rabbit hemorrhagic disease virus isolate SOS155 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:26.233519097458203% C:23.99075710207965% T:24.83349191246432% G:24.942231887997824%
+> MG763950.1 Rabbit hemorrhagic disease virus isolate SOS404 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.2004893298899% C:24.792714421639253% T:23.963572108196274% G:26.043224140274567%
+> MG763951.1 Rabbit hemorrhagic disease virus isolate SOS468 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:25.118934348239772% C:24.83349191246432% T:23.949979611254587% G:26.097594128041322%
+> MG763952.1 Rabbit hemorrhagic disease virus isolate SOS473 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:26.219926600516516% C:24.07231208372978% T:24.779121924697566% G:24.928639391056137%
+> MG763954.1 Rabbit hemorrhagic disease virus isolate SOS492 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ A:26.219926600516516% C:23.814054641837707% T:25.010194372706266% G:24.81989941552263%
+> KY628306.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/ANN-1/2014/04 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.8332650553052% C:23.84268742318722% T:24.88051345077154% G:24.44353407073604%
+> KY628308.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-10/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.805953844052983% C:23.80172060630889% T:24.93513587327598% G:24.457189676362148%
+> KY628310.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-3/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.805953844052983% C:23.80172060630889% T:24.93513587327598% G:24.457189676362148%
+> KY628311.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-4/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.819609449679092% C:23.80172060630889% T:24.92148026764987% G:24.457189676362148%
+> KY628312.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-8/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.778642632800764% C:23.80172060630889% T:24.93513587327598% G:24.484500887614367%
+> KY628313.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BLA-1/2014/07 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.778642632800764% C:23.856343028813328% T:24.88051345077154% G:24.484500887614367%
+> KY628314.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/GIR-1/2014/07 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.8332650553052% C:23.856343028813328% T:24.88051345077154% G:24.429878465109926%
+> KY628315.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/GIR-2/2014/07 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.8332650553052% C:23.856343028813328% T:24.88051345077154% G:24.429878465109926%
+> KY628316.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/KYO-1/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.792298238426874% C:23.78806500068278% T:24.948791478902088% G:24.470845281988257%
+> KY628317.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/OAK-1/2015/02 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.778642632800764% C:23.883654240065546% T:24.88051345077154% G:24.457189676362148%
+> KY628320.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/WAL-1/2015/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.860576266557423% C:23.78806500068278% T:24.9624470845282% G:24.3889116482316%
+> KY628309.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-2/2013/12 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ A:26.792298238426874% C:23.78806500068278% T:24.948791478902088% G:24.470845281988257%
+> FJ906895.1 Hepatitis E virus isolate GDC9, complete genome 
+ A:19.308554249795026% C:29.63924569554523% T:25.416780541131455% G:25.635419513528287%
+> GU937805.1 Hepatitis E virus isolate ch-bj-n1, complete genome 
+ A:18.68673050615595% C:29.288645690834475% T:25.964432284541722% G:26.0328317373461%
+> AF295785.1 Rabbit hemorrhagic disease virus Mexico89 isolate polyprotein gene, partial cds; and structural protein VP12 gene, complete cds 
+ A:25.509785137539346% C:25.181332968386478% T:23.525386615574106% G:25.78349527850007%
+> AB740222.1 Hepatitis E virus RNA, complete genome, clone: rbIM004 
+ A:19.118653346106473% C:28.84904885726016% T:26.31723005337348% G:25.701382236211852%
+> JX565469.1 Hepatitis E virus isolate CMC-1, complete genome 
+ A:18.51902545852724% C:29.2362441828634% T:26.101834108951547% G:26.142896249657817%
+> AB740221.1 Hepatitis E virus RNA, complete genome, clone: rbIM022 
+ A:18.67214236824093% C:29.048596851471594% T:26.24229979466119% G:25.88637919233402%
+> KX227751.1 Hepatitis E virus isolate CHN-SX-rHEV, complete genome 
+ A:18.65242399342646% C:29.59463160777869% T:25.623116954259107% G:26.129827444535742%
+> MF480297.1 Hepatitis E virus strain rabbit/R42/GER/2013, complete genome 
+ A:18.59764448096412% C:29.402903314160504% T:26.198301835113668% G:25.80115036976171%
+> FJ906896.1 Hepatitis E virus isolate GDC46, complete genome 
+ A:18.50431447746884% C:29.25626626489522% T:26.051225859471305% G:26.188193398164636%
+> AB740220.1 Hepatitis E virus RNA, complete genome, clone: rbIM199 
+ A:18.78082191780822% C:29.767123287671232% T:25.493150684931507% G:25.91780821917808%
+> KY496200.1 Hepatitis E virus isolate KOR-Rb-1, complete genome 
+ A:18.643835616438356% C:29.136986301369863% T:26.205479452054796% G:26.013698630136986%
+> MK521927.1 Rabbit hemorrhagic disease virus 2 isolate Buckbys Road/Tasmania/Sarcophilus_harrisii/2017/DN120446 polyprotein gene, complete cds 
+ A:25.359638306617345% C:24.674612960679546% T:24.15399369776682% G:25.811755034936294%
+> LC484431.1 Hepatitis E virus rbIM223LR genomic RNA, complete genome 
+ A:18.55557078251336% C:28.929697135809235% T:26.47663423324654% G:26.038097848430862%
+> JQ768461.1 Hepatitis E virus isolate CHN-BJ-rb14, complete genome 
+ A:18.530701754385966% C:29.26260964912281% T:26.16502192982456% G:26.041666666666668%
+> JX109834.1 Hepatitis E virus isolate CHN-BJ-R14, complete genome 
+ A:18.530701754385966% C:29.26260964912281% T:26.16502192982456% G:26.041666666666668%
+> JX121233.1 Hepatitis E virus isolate CHN-BJ-R14, complete genome 
+ A:18.55811403508772% C:29.24890350877193% T:26.16502192982456% G:26.02796052631579%
+> KJ013414.1 Hepatitis E virus isolate CHN-BJ-r14(8), complete genome 
+ A:18.379934210526315% C:27.658991228070175% T:23.135964912280702% G:30.82510964912281%
+> KJ013415.1 Hepatitis E virus isolate CHN-BJ-r14(9), complete genome 
+ A:18.379934210526315% C:27.658991228070175% T:23.135964912280702% G:30.783991228070175%
+> MF480298.1 Hepatitis E virus strain rabbit/U46/GER/2013, complete genome 
+ A:18.220513524646435% C:29.328573390086504% T:26.445146230948787% G:26.005766854318274%
+> JQ013791.1 Hepatitis E virus strain W1-11 nonstructural polyprotein, viral accessory protein, and capsid protein genes, complete cds 
+ A:18.470636776234354% C:29.583276028056662% T:26.172465960665658% G:25.773621235043322%
+> MG783570.1 Hepatitis E virus isolate DLS13-11681, complete genome 
+ A:18.759497168117143% C:29.106230142284847% T:26.122392595662383% G:26.011880093935627%
+> JQ013792.1 Hepatitis E virus strain W7-57 nonstructural polyprotein, viral accessory protein, and capsid protein genes, complete cds 
+ A:18.665377176015475% C:29.552362531085937% T:26.029289859077092% G:25.7529704338215%
+> MG783569.1 Hepatitis E virus isolate DLS13-11677, complete genome 
+ A:18.695592096172447% C:28.851734143982313% T:26.47505872599143% G:25.977615033853805%
+> MG783571.1 Hepatitis E virus isolate DLS13-11685, complete genome 
+ A:17.882907880133185% C:30.27192008879023% T:25.332963374028857% G:26.41509433962264%
+> JF438967.2 Rabbit hemorrhagic disease virus strain G1 polyprotein gene, complete cds 
+ A:25.191905094207954% C:25.415212840195395% T:23.461270062805305% G:25.84787159804606%
+> MK895974.1 Rabbit hemorrhagic disease virus, complete genome 
+ A:25.52949538024165% C:25.501066098081022% T:23.454157782515992% G:25.515280739161337%
+> AJ318515.1 Cloning vector pHCMV-A-MLVenv, complete sequence 
+ A:25.574204946996467% C:24.98527679623086% T:26.089517078916373% G:23.3510011778563%
+> AB281497.1 Expression vector pCXGFP-1 DNA, complete sequence 
+ A:21.1433623102991% C:27.302195373508177% T:23.294533667305142% G:28.259908648887578%
+> NM_024996.7 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 2, mRNA; nuclear gene for mitochondrial product 
+ A:30.688484100030873% C:18.416177832664403% T:29.71596171657919% G:21.179376350725533%
+> AF480924.1 Homo sapiens rabbit endogenous retrovirus H, complete sequence 
+ A:30.96273291925466% C:20.357142857142858% T:23.58695652173913% G:25.093167701863354%
+> AJ318514.1 Cloning vector pHCMV-VSV-G, complete sequence 
+ A:26.056891403426057% C:23.353763947823353% T:27.62847713342763% G:22.96086751532296%
+> AJ318512.1 Cloning vector pHCMV-LCMV-GP(WE-HPI), complete sequence 
+ A:26.17014547754586% C:23.197343453510438% T:27.656546489563567% G:22.97596457938014%
+> AJ318513.1 Cloning vector pHCMV-LCMV-GP(WE), complete sequence 
+ A:26.13851992409867% C:23.21315623023403% T:27.67235926628716% G:22.97596457938014%
+> X16378.1 Turnip yellow mosaic virus complete RNA genome 
+ A:22.99778410889522% C:39.14213358657803% T:20.82937638493194% G:17.03070591959481%
+> AF480925.1 Oryctolagus cuniculus clone A rabbit endogenous retrovirus H, complete sequence 
+ A:31.793650793650794% C:20.3015873015873% T:23.38095238095238% G:24.523809523809526%
+> AF480926.1 Oryctolagus cuniculus clone B rabbit endogenous retrovirus H, complete sequence 
+ A:31.196172248803826% C:20.07974481658692% T:23.620414673046252% G:25.103668261562998%
+> LT727106.1 Mammalian expression vector pCAGGS-CrmA-T291R, complete sequence 
+ A:23.830059095991057% C:23.957834211787254% T:26.25778629611883% G:25.954320396102858%
+> LT727411.1 Mammalian expression vector pCAGGScrmA, complete sequence 
+ A:23.87797476441463% C:23.94186232231273% T:26.25778629611883% G:25.92237661715381%
+> LT727057.1 Mammalian expression vector pCAGGS-E-crmA, complete sequence 
+ A:22.648849797023004% C:24.96617050067659% T:25.54127198917456% G:26.843707713125845%
+> MN626416.1 Rabbit picorna-like virus isolate RPLV/L232 nonstructural polyprotein genes, partial cds; and structural polyprotein gene, complete cds 
+ A:24.590734935562523% C:19.418321142459074% T:27.1856495994427% G:24.433995123650295%
+> NM_001750.7 Homo sapiens calpastatin (CAST), transcript variant 1, mRNA 
+ A:33.96436525612472% C:20.62360801781737% T:24.92204899777283% G:20.489977728285076%
+> NM_001042442.3 Homo sapiens calpastatin (CAST), transcript variant 8, mRNA 
+ A:33.792947558770344% C:20.524412296564194% T:25.113019891500905% G:20.569620253164558%
+> NM_139015.5 Homo sapiens signal peptide peptidase like 3 (SPPL3), mRNA 
+ A:21.426844014510277% C:26.74727932285369% T:27.27932285368803% G:24.546553808948005%
+> DQ680832.1 Borna disease virus 1 nucleoprotein, X protein, phosphoprotein, matrix protein, and glycoprotein genes, complete cds 
+ A:26.40449438202247% C:26.43003064351379% T:22.93156281920327% G:24.23391215526047%
+> GQ898899.1 Human herpesvirus 1 isolate 766 glycoprotein G and glycoprotein I genes, complete cds; and glycoprotein E gene, partial cds 
+ A:16.061899679829242% C:34.65848452508004% T:16.48879402347919% G:27.454642475987193%
+> GQ898901.1 Human herpesvirus 1 isolate T1634 glycoprotein G and glycoprotein I genes, complete cds; and glycoprotein E gene, partial cds 
+ A:16.034206306787816% C:34.660609299839656% T:16.515232495991448% G:27.44521646178514%
+> GQ898900.1 Human herpesvirus 1 isolate 440 glycoprotein G and glycoprotein I genes, complete cds; and glycoprotein E gene, partial cds 
+ A:15.96345068529965% C:34.533727492609515% T:16.447191615157216% G:27.68073098629401%
+> M63902.1 Rabbit fibroma virus capping enzyme large subunit (D3R), ORF-D4L, and ORF-D5R, complete cds 
+ A:33.224043715846996% C:19.2896174863388% T:27.650273224043715% G:19.83606557377049%
+> NM_001374357.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 6, mRNA; nuclear gene for mitochondrial product 
+ A:29.105914718019257% C:19.119669876203577% T:29.40852819807428% G:22.36588720770289%
+> NM_001402.6 Homo sapiens eukaryotic translation elongation factor 1 alpha 1 (EEF1A1), mRNA 
+ A:28.787015945330296% C:19.21981776765376% T:28.75854214123007% G:23.234624145785876%
+> NM_001374355.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 4, mRNA; nuclear gene for mitochondrial product 
+ A:29.073199527744983% C:18.71310507674144% T:30.194805194805195% G:22.018890200708384%
+> NR_164499.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 11, non-coding RNA 
+ A:29.25531914893617% C:18.469267139479907% T:30.023640661938533% G:22.25177304964539%
+> NM_001374356.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 5, mRNA; nuclear gene for mitochondrial product 
+ A:29.44510739856802% C:18.79474940334129% T:29.713603818615752% G:22.04653937947494%
+> NR_164502.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 14, non-coding RNA 
+ A:29.45041816009558% C:18.787335722819595% T:29.719235364396656% G:22.043010752688172%
+> NR_164500.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 12, non-coding RNA 
+ A:29.723225030084237% C:18.38146811070999% T:29.9338146811071% G:21.961492178098677%
+> AM111353.1 Infectious bursal disease virus segment A, complete sequence, genomic RNA 
+ A:26.486817903126916% C:27.988963825873697% T:19.313304721030043% G:26.210913549969344%
+> MG489892.1 Mutant Infectious bursal disease virus strain AvvBvv segment A, complete sequence 
+ A:26.599015990159902% C:28.228782287822877% T:19.18819188191882% G:25.984009840098402%
+> NM_001374359.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 8, mRNA; nuclear gene for mitochondrial product 
+ A:29.511338230597254% C:18.428617055253913% T:30.405621207282017% G:21.654423506866816%
+> NM_001374360.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 9, mRNA; nuclear gene for mitochondrial product 
+ A:29.574260643483914% C:18.394540136496587% T:30.3542411439714% G:21.6769580760481%
+> DQ187007.1 Torque teno virus clone BM2C-25 ORF2 (ORF2) gene, complete cds; and nonfunctional ORF1 (ORF1) gene, complete sequence 
+ A:32.74624918460535% C:24.331376386170906% T:20.71102413568167% G:22.211350293542075%
+> DQ187004.1 Torque teno virus clone BM1C-16 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:32.59380097879282% C:24.339314845024468% T:20.619902120717782% G:22.446982055464925%
+> DQ187005.1 Torque teno virus clone BM1C-10 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:32.539164490861616% C:24.31462140992167% T:20.626631853785902% G:22.519582245430808%
+> DQ187006.1 Torque teno virus 9 clone BM1C-18 ORF2 (ORF2) gene, complete cds; and nonfunctional ORF1 (ORF1) gene, complete sequence 
+ A:32.702349869451695% C:24.281984334203656% T:20.757180156657963% G:22.258485639686683%
+> NC_038337.1 Torque teno virus 9 clone BM1C-18 ORF2 (ORF2) gene, complete cds; and nonfunctional ORF1 (ORF1) gene, complete sequence 
+ A:32.702349869451695% C:24.281984334203656% T:20.757180156657963% G:22.258485639686683%
+> DQ186996.1 Torque teno virus clone BM1A-02 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:29.263502454991816% C:27.00490998363339% T:20.55646481178396% G:23.175122749590834%
+> DQ186997.1 Torque teno virus clone BM1A-09 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:29.23076923076923% C:26.939443535188214% T:20.589198036006547% G:23.240589198036005%
+> DQ186998.1 Torque teno virus clone BM1A-13 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:29.132569558101473% C:26.939443535188214% T:20.523731587561375% G:23.404255319148938%
+> NM_001374361.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 10, mRNA; nuclear gene for mitochondrial product 
+ A:29.528865295288654% C:18.646317186463172% T:30.291970802919707% G:21.532846715328468%
+> NM_001374358.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 7, mRNA; nuclear gene for mitochondrial product 
+ A:29.53488372093023% C:18.637873754152825% T:30.299003322259136% G:21.528239202657808%
+> DQ186999.1 Torque teno virus clone BM1B-05 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:31.00465735196274% C:25.71523619427811% T:20.991350632069196% G:22.288755821689954%
+> DQ187000.1 Torque teno virus clone BM1B-07 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:30.971390552228875% C:25.748502994011975% T:20.924817032601464% G:22.355289421157686%
+> DQ187001.1 Torque teno virus clone BM1B-11 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:30.93812375249501% C:25.78176979374584% T:20.891550232867598% G:22.38855622089155%
+> DQ187002.1 Torque teno virus clone BM1B-14 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ A:30.971390552228875% C:25.78176979374584% T:20.85828343313373% G:22.38855622089155%
+> DQ187003.1 Torque teno virus clone BM1B-08 ORF2 (ORF2) gene, complete cds; and nonfunctional ORF1 (ORF1) gene, complete sequence 
+ A:30.91514143094842% C:25.757071547420963% T:20.965058236272878% G:22.36272878535774%
+> DQ003341.1 Torque teno virus clone P2-9-02 ORF2 (ORF2), ORF1A (ORF1A), and ORF1B (ORF1B) genes, complete cds 
+ A:28.270624784259578% C:25.647221263375908% T:21.746634449430445% G:24.33551950293407%
+> DQ003342.1 Torque teno virus clone P2-9-07 ORF2 (ORF2), ORF1A (ORF1A), and ORF1B (ORF1B) genes, complete cds 
+ A:28.270624784259578% C:25.647221263375908% T:21.746634449430445% G:24.33551950293407%
+> DQ003343.1 Torque teno virus clone P2-9-08 ORF2 (ORF2), ORF1A (ORF1A), and ORF1B (ORF1B) genes, complete cds 
+ A:28.546772523299964% C:25.612702795995858% T:21.746634449430445% G:24.093890231273733%
+> DQ003344.1 Torque teno virus clone P2-9-16 ORF2 (ORF2), ORF1A (ORF1A), and ORF1B (ORF1B) genes, complete cds 
+ A:28.546772523299964% C:25.612702795995858% T:21.746634449430445% G:24.093890231273733%
+> FJ493031.1 Lepus europaeus endogenous virus Rabbit endogenous lentivirus type K nonfunctional pol protein gene, complete sequence 
+ A:36.02915654286706% C:18.986463033668866% T:24.67893092676154% G:20.305449496702533%
+> NR_164501.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 13, non-coding RNA 
+ A:29.871035203903798% C:18.40362495643081% T:30.428720808644126% G:21.29661903102126%
+> AM111354.1 Infectious bursal disease virus segment B, complete sequence, genomic RNA 
+ A:28.04101838755304% C:27.475247524752476% T:19.236209335219236% G:25.247524752475247%
+> MG489893.1 Mutant Infectious bursal disease virus strain AvvBvv segment B, complete sequence 
+ A:27.76795189246551% C:27.237354085603112% T:19.561372479660417% G:25.43332154227096%
+> AF065826.1 Equine arteritis virus isolate RS97 small envelope protein and nucleocapsid protein genes, complete cds; and unknown gene 
+ A:19.702338766832035% C:23.777462792345855% T:32.317505315379165% G:24.20269312544295%
+> AF259899.1 Human herpesvirus 1 glycoprotein B (UL27) gene, complete cds 
+ A:19.081523673905306% C:34.67426130295479% T:14.809540761836953% G:31.434674261302956%
+> L32180.1 Shope fibroma virus (M fragment) tyrosine phosphatase gene, complete cds 
+ A:32.2365988909427% C:16.931608133086876% T:29.35304990757856% G:21.478743068391868%
+> NM_004184.4 Homo sapiens tryptophanyl-tRNA synthetase 1 (WARS1), transcript variant 1, mRNA 
+ A:26.184160666919286% C:25.691549829480863% T:24.327396741189844% G:23.796892762410003%
+> KF061031.1 HIV-1 isolate CHILD_1 from Italy envelope glycoprotein gene, complete cds 
+ A:35.31237873496313% C:17.074117190531627% T:24.175397749320915% G:23.43810632518432%
+> KF061032.1 HIV-1 isolate CHILD_2 from Italy envelope glycoprotein gene, complete cds 
+ A:34.436564223798264% C:17.10007880220646% T:24.231678486997637% G:24.231678486997637%
+> M31723.1 Shope fibroma virus DNA topoisomerase gene, complete cds 
+ A:37.36483780536644% C:17.420905086103325% T:27.23267921505807% G:17.981577893472167%
+> D16217.1 Homo sapiens CAST mRNA for calpastatin, complete cds 
+ A:35.37906137184115% C:21.861211391897314% T:19.855595667870038% G:22.904131568391495%
+> Z24757.1 Rabbit hemorrhagic disease virus ORF1 and VP60 genes, complete CDS, and ORF1 gene, 3' end 
+ A:25.130890052356023% C:25.130890052356023% T:24.244865082561418% G:25.49335481272654%
+> NC_038919.1 Rabbit picobirnavirus genomic segment 1 (large), ORF1 for hypothetical protein 
+ A:28.1541066892464% C:19.51735817104149% T:28.111769686706182% G:24.132091447925486%
+> AY620244.1 Oryctolagus cuniculus ACAP2 (ACAP2) mRNA, complete cds 
+ A:33.148464163822524% C:18.216723549488055% T:25.127986348122867% G:23.506825938566553%
+> KX014900.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds 
+ A:33.95984621956429% C:20.205040580948314% T:21.956428876548483% G:23.878684322938916%
+> KU320884.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ A:32.67070008643042% C:18.409680207433016% T:22.2990492653414% G:26.62057044079516%
+> KX014883.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ A:32.71391529818496% C:18.49611063094209% T:22.255834053586863% G:26.534140017286084%
+> KX014891.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ A:32.800345721694036% C:18.582541054451166% T:22.212618841832324% G:26.40449438202247%
+> KX014899.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ A:32.49783923941227% C:18.53932584269663% T:22.12618841832325% G:26.750216076058773%
+> KU320886.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 2 polymerase PB1 (PB1) gene, complete cds 
+ A:34.560415764400176% C:20.138588133391078% T:21.87093980077956% G:23.43005630142919%
+> KU310444.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ A:33.11660164716081% C:18.162115301257042% T:22.45340268747291% G:26.26788036410923%
+> KX014884.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 2 polymerase PB1 (PB1) gene, complete cds; and nonfunctional PB1-F2 protein (PB1-F2) gene, complete sequence 
+ A:34.44976076555024% C:20.095693779904305% T:21.79208351457155% G:23.57546759460635%
+> KU310445.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds 
+ A:34.39268611232042% C:20.24379625598607% T:21.8110579016108% G:23.465389638659122%
+> KX014892.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds 
+ A:34.339457567804025% C:20.297462817147856% T:21.78477690288714% G:23.57830271216098%
+> KX014875.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ A:33.20175438596491% C:18.333333333333332% T:22.105263157894736% G:26.359649122807017%
+> KX014876.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds 
+ A:34.08091468777484% C:19.92084432717678% T:22.03166226912929% G:23.966578715919084%
+> M15806.1 Myxoma virus growth factor and M-T9 genes, complete cds 
+ A:30.18951079770824% C:19.435874834728956% T:26.57558395769061% G:23.79903040987219%
+> KU320885.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ A:32.94117647058823% C:20.361990950226243% T:22.760180995475114% G:23.936651583710407%
+> KX014901.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ A:33.60507246376812% C:19.92753623188406% T:22.82608695652174% G:23.596014492753625%
+> KX014885.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ A:33.227561196736175% C:19.945602901178603% T:23.028105167724387% G:23.753399818676336%
+> M35233.1 Myxoma virus MAP1 gene, complete cds, and M-T8 gene, 5' end 
+ A:26.860254083484573% C:23.593466424682397% T:23.729582577132486% G:25.816696914700543%
+> KU310446.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ A:33.13636363636363% C:20.318181818181817% T:22.318181818181817% G:24.181818181818183%
+> KX014893.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ A:32.99863076220904% C:20.173436786855316% T:22.729347329986307% G:24.052943861250572%
+> KX014877.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ A:33.333333333333336% C:20.2231520223152% T:22.268712226871223% G:24.17480241748024%
+> M22962.1 Herpes simplex virus type 1 capsid assembly and DNA maturation protein gene, complete cds 
+ A:15.157292659675882% C:35.462345090562444% T:15.824594852240228% G:33.55576739752145%
+> AY928268.1 Rabbit hemorrhagic disease virus isolate Ireland18 capsid protein (VP60) gene, complete cds 
+ A:22.973621103117505% C:27.961630695443645% T:24.124700239808153% G:24.940047961630697%
+> L48547.1 Rabbit haemorrhagic disease virus capsid protein mRNA, complete cds 
+ A:24.104074619538537% C:27.785959744722632% T:22.484045164457534% G:25.625920471281297%
+> D00047.1 Human parainfluenza virus 3 mRNA for phosphoprotein, nonstructural protein C, complete cds 
+ A:43.9940682155215% C:18.734552644587247% T:18.734552644587247% G:18.536826495304005%
+> FJ493032.1 Lepus europaeus isolate 1 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ A:32.34274393263992% C:20.851906884596335% T:21.34720158494304% G:25.4581475978207%
+> L26342.1 Rabbit fibroma virus N1R gene, complete cds 
+ A:33.96508728179551% C:17.805486284289277% T:28.877805486284288% G:19.351620947630924%
+> U00761.1 Rabbit fibroma virus ATP-dependent DNA ligase gene, complete cds 
+ A:32.44078269824923% C:18.4346035015448% T:27.703398558187434% G:21.421215242018537%
+> JX106023.1 Rabbit hemorrhagic disease virus isolate Vs11 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:21.44469525959368% C:28.89390519187359% T:22.62979683972912% G:27.03160270880361%
+> KT737802.1 Rabbit hemorrhagic disease virus isolate Co12 capsid protein (vp60) gene, complete cds 
+ A:21.952595936794584% C:28.724604966139953% T:22.91196388261851% G:26.41083521444695%
+> KJ957809.1 Rabbit hemorrhagic disease virus isolate Malta12_1 capsid protein VP60 gene, complete cds 
+ A:21.62619988706945% C:28.62789384528515% T:23.03783173348391% G:26.70807453416149%
+> GU196371.1 Oryctolagus cuniculus endogenous virus ERV syncytin-Ory1 gene, complete cds 
+ A:26.303854875283445% C:26.87074829931973% T:27.947845804988663% G:18.877551020408163%
+> KJ957810.1 Rabbit hemorrhagic disease virus isolate Malta12_2 capsid protein VP60 gene, complete cds 
+ A:21.7366628830874% C:28.603859250851304% T:23.098751418842223% G:26.560726447219068%
+> KU320887.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.63792118789263% C:18.675042832667046% T:24.44317532838378% G:23.186750428326672%
+> U49726.1 Rabbit hemorrhagic disease virus capsid protein mRNA, complete cds 
+ A:23.39080459770115% C:29.022988505747126% T:22.24137931034483% G:25.344827586206897%
+> AF231353.1 Rabbit hemorrhagic disease virus capsid protein VP60 mRNA, complete cds 
+ A:23.333333333333332% C:28.96551724137931% T:22.298850574712645% G:25.402298850574713%
+> AF453761.1 Rabbit hemorrhagic disease virus capsid structural protein VP60 (vp60) gene, complete cds 
+ A:23.103448275862068% C:29.655172413793103% T:21.95402298850575% G:25.28735632183908%
+> AY269825.1 Rabbit hemorrhagic disease virus isolate NJ/China/1985 capsid protein VP60 (VP60) gene, complete cds 
+ A:23.2183908045977% C:29.54022988505747% T:21.95402298850575% G:25.28735632183908%
+> DQ069280.1 Rabbit hemorrhagic disease virus whn/China/01/2005 capsid protein VP60 mRNA, complete cds 
+ A:23.04597701149425% C:29.367816091954023% T:22.06896551724138% G:25.517241379310345%
+> DQ069281.1 Rabbit hemorrhagic disease virus whn/China/02/2005 capsid protein VP60 mRNA, complete cds 
+ A:22.586206896551722% C:29.82758620689655% T:21.896551724137932% G:25.689655172413794%
+> DQ069282.1 Rabbit hemorrhagic disease virus whn/China/03/2005 capsid protein VP60 mRNA, complete cds 
+ A:22.75862068965517% C:29.71264367816092% T:22.011494252873565% G:25.517241379310345%
+> FJ807679.1 Synthetic construct capsid structural protein VP60 gene, complete cds 
+ A:25.862068965517242% C:19.137931034482758% T:35.747126436781606% G:19.25287356321839%
+> GU564448.1 Rabbit hemorrhagic disease virus capsid protein VP60 gene, complete cds 
+ A:23.39080459770115% C:29.597701149425287% T:21.724137931034484% G:25.28735632183908%
+> GU373617.1 Rabbit hemorrhagic disease virus isolate AIN-2 capsid protein gene, complete cds 
+ A:23.620689655172413% C:28.50574712643678% T:22.64367816091954% G:25.229885057471265%
+> GU373618.1 Rabbit hemorrhagic disease virus isolate PI-1 capsid protein gene, complete cds 
+ A:23.96551724137931% C:29.367816091954023% T:21.7816091954023% G:24.770114942528735%
+> JN851729.1 Rabbit hemorrhagic disease virus isolate Nizhny Novgorod-2011 polyprotein (VP60) gene, complete cds 
+ A:22.586206896551722% C:29.42528735632184% T:22.183908045977013% G:25.804597701149426%
+> JN851730.1 Rabbit hemorrhagic disease virus isolate Ramenskiy-10 polyprotein (VP60) gene, complete cds 
+ A:22.64367816091954% C:29.655172413793103% T:21.95402298850575% G:25.74712643678161%
+> JN851731.1 Rabbit hemorrhagic disease virus isolate Perm-2010 polyprotein (VP60) gene, complete cds 
+ A:23.333333333333332% C:29.655172413793103% T:21.896551724137932% G:25.114942528735632%
+> JN851732.1 Rabbit hemorrhagic disease virus isolate Mihailov-09 polyprotein (VP60) gene, complete cds 
+ A:22.75862068965517% C:29.655172413793103% T:21.839080459770116% G:25.74712643678161%
+> JN851733.1 Rabbit hemorrhagic disease virus isolate Klyazmenskiy-2004 polyprotein (VP60) gene, complete cds 
+ A:23.160919540229884% C:29.885057471264368% T:21.724137931034484% G:25.17241379310345%
+> JN851734.1 Rabbit hemorrhagic disease virus isolate Solnechnogorskiy-2003 polyprotein (VP60) gene, complete cds 
+ A:22.873563218390803% C:29.482758620689655% T:22.183908045977013% G:25.45977011494253%
+> JN851735.1 Rabbit hemorrhagic disease virus isolate Voronezhskiy-87 polyprotein (VP60) gene, complete cds 
+ A:23.333333333333332% C:29.310344827586206% T:22.011494252873565% G:25.344827586206897%
+> EU250330.2 Rabbit hemorrhagic disease virus isolate Pv97 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.701149425287355% C:29.82758620689655% T:21.60919540229885% G:25.862068965517242%
+> JQ995154.1 Rabbit hemorrhagic disease virus isolate GIZA-2006 VP60 (VP60) gene, partial cds 
+ A:23.448275862068964% C:29.82758620689655% T:21.49425287356322% G:25.229885057471265%
+> KF494906.1 Rabbit hemorrhagic disease virus isolate ACT/GUN-01/2009 capsid protein (VP60) gene, complete cds 
+ A:23.850574712643677% C:29.25287356321839% T:21.95402298850575% G:24.942528735632184%
+> KF494907.1 Rabbit hemorrhagic disease virus isolate ACT/GungahlinHS/1998 capsid protein (VP60) gene, complete cds 
+ A:23.2183908045977% C:28.850574712643677% T:22.413793103448278% G:25.517241379310345%
+> KF494908.1 Rabbit hemorrhagic disease virus isolate ACT/GungahlinRP/1998 capsid protein (VP60) gene, complete cds 
+ A:23.275862068965516% C:28.850574712643677% T:22.413793103448278% G:25.45977011494253%
+> KF494909.1 Rabbit hemorrhagic disease virus isolate ACT/MTP-2/2010 capsid protein (VP60) gene, complete cds 
+ A:23.735632183908045% C:28.620689655172413% T:22.586206896551722% G:25.057471264367816%
+> KF494910.1 Rabbit hemorrhagic disease virus isolate ACT/Parkwood/1998 capsid protein (VP60) gene, complete cds 
+ A:23.160919540229884% C:28.79310344827586% T:22.471264367816094% G:25.57471264367816%
+> KF494911.1 Rabbit hemorrhagic disease virus isolate ACT/WESTCRK/2011 capsid protein (VP60) gene, complete cds 
+ A:23.735632183908045% C:28.333333333333332% T:22.471264367816094% G:25.45977011494253%
+> KF494912.1 Rabbit hemorrhagic disease virus isolate NSW/OC-M2/2007 capsid protein (VP60) gene, complete cds 
+ A:23.735632183908045% C:29.137931034482758% T:22.06896551724138% G:25.057471264367816%
+> KF494913.1 Rabbit hemorrhagic disease virus isolate NSW/OC-M8/2007 capsid protein (VP60) gene, complete cds 
+ A:23.620689655172413% C:28.735632183908045% T:22.528735632183906% G:25.114942528735632%
+> KF494914.1 Rabbit hemorrhagic disease virus isolate NSW/ROCFOR-1/2011 capsid protein (VP60) gene, complete cds 
+ A:23.620689655172413% C:28.160919540229884% T:23.160919540229884% G:25.057471264367816%
+> KF494915.1 Rabbit hemorrhagic disease virus isolate NSW/ROCFOR-2/2011 capsid protein (VP60) gene, complete cds 
+ A:23.908045977011493% C:27.988505747126435% T:22.873563218390803% G:25.229885057471265%
+> KF494916.1 Rabbit hemorrhagic disease virus isolate NSW/ROCKL-1/2011 capsid protein (VP60) gene, complete cds 
+ A:23.448275862068964% C:28.50574712643678% T:22.471264367816094% G:25.57471264367816%
+> KF494917.1 Rabbit hemorrhagic disease virus isolate NSW/ROCKL-2/2011 capsid protein (VP60) gene, complete cds 
+ A:23.448275862068964% C:28.333333333333332% T:22.701149425287355% G:25.517241379310345%
+> KF494918.1 Rabbit hemorrhagic disease virus isolate NSW/WOODSTK/2011 capsid protein (VP60) gene, complete cds 
+ A:23.735632183908045% C:28.620689655172413% T:22.471264367816094% G:25.17241379310345%
+> KF494919.1 Rabbit hemorrhagic disease virus isolate NSW/YOUNG/2011 capsid protein (VP60) gene, complete cds 
+ A:23.96551724137931% C:29.195402298850574% T:22.011494252873565% G:24.82758620689655%
+> KF494920.1 Rabbit hemorrhagic disease virus isolate NSW/VITTO/2011 capsid protein (VP60) gene, complete cds 
+ A:23.850574712643677% C:28.2183908045977% T:22.988505747126435% G:24.942528735632184%
+> KF494921.1 Rabbit hemorrhagic disease virus isolate RHDV351INOC/1995 capsid protein (VP60) gene, complete cds 
+ A:23.448275862068964% C:28.908045977011493% T:22.24137931034483% G:25.402298850574713%
+> KF494922.1 Rabbit hemorrhagic disease virus isolate SA/BARM/2008 capsid protein (VP60) gene, complete cds 
+ A:23.620689655172413% C:28.563218390804597% T:22.701149425287355% G:25.114942528735632%
+> KF494923.1 Rabbit hemorrhagic disease virus isolate SA/BULG/2009 capsid protein (VP60) gene, complete cds 
+ A:23.50574712643678% C:28.735632183908045% T:22.471264367816094% G:25.28735632183908%
+> KF494924.1 Rabbit hemorrhagic disease virus isolate SA/Curnamona/1995 capsid protein (VP60) gene, complete cds 
+ A:23.39080459770115% C:28.96551724137931% T:22.24137931034483% G:25.402298850574713%
+> KF494925.1 Rabbit hemorrhagic disease virus isolate SA/ECH/2008 capsid protein (VP60) gene, complete cds 
+ A:23.39080459770115% C:28.67816091954023% T:22.701149425287355% G:25.229885057471265%
+> KF494926.1 Rabbit hemorrhagic disease virus isolate SA/FRNP-ORA/2008 capsid protein (VP60) gene, complete cds 
+ A:23.620689655172413% C:28.735632183908045% T:22.75862068965517% G:24.885057471264368%
+> KF494927.1 Rabbit hemorrhagic disease virus isolate SA/GRNW/2008 capsid protein (VP60) gene, complete cds 
+ A:23.735632183908045% C:28.448275862068964% T:22.816091954022987% G:25.0%
+> KF494928.1 Rabbit hemorrhagic disease virus isolate SA/LOB-OLIVER08/2003 capsid protein (VP60) gene, complete cds 
+ A:23.39080459770115% C:28.735632183908045% T:22.75862068965517% G:25.114942528735632%
+> KF494929.1 Rabbit hemorrhagic disease virus isolate SA/MERNMORA/1995 capsid protein (VP60) gene, complete cds 
+ A:23.448275862068964% C:28.908045977011493% T:22.24137931034483% G:25.402298850574713%
+> KF494930.1 Rabbit hemorrhagic disease virus isolate SA/ORR-1/2010 capsid protein (VP60) gene, complete cds 
+ A:23.735632183908045% C:28.620689655172413% T:22.35632183908046% G:25.28735632183908%
+> KF494931.1 Rabbit hemorrhagic disease virus isolate SA/PLUM-1/2010 capsid protein (VP60) gene, complete cds 
+ A:23.563218390804597% C:29.54022988505747% T:21.7816091954023% G:25.114942528735632%
+> KF494932.1 Rabbit hemorrhagic disease virus isolate SA/PLUM/1995 capsid protein (VP60) gene, complete cds 
+ A:23.2183908045977% C:29.022988505747126% T:22.24137931034483% G:25.517241379310345%
+> KF494933.1 Rabbit hemorrhagic disease virus isolate SA/RENMARK/2011 capsid protein (VP60) gene, complete cds 
+ A:23.04597701149425% C:29.137931034482758% T:22.126436781609197% G:25.689655172413794%
+> KF494934.1 Rabbit hemorrhagic disease virus isolate SA/ROXDWNS/2011 capsid protein (VP60) gene, complete cds 
+ A:23.2183908045977% C:29.195402298850574% T:22.06896551724138% G:25.517241379310345%
+> KF494935.1 Rabbit hemorrhagic disease virus isolate SA/TF-07/1999 capsid protein (VP60) gene, complete cds 
+ A:23.448275862068964% C:29.080459770114942% T:21.95402298850575% G:25.517241379310345%
+> KF494936.1 Rabbit hemorrhagic disease virus isolate SA/TF-13/1999 capsid protein (VP60) gene, complete cds 
+ A:23.563218390804597% C:29.137931034482758% T:21.896551724137932% G:25.402298850574713%
+> KF494937.1 Rabbit hemorrhagic disease virus isolate SA/TF-19/2006 capsid protein (VP60) gene, complete cds 
+ A:23.50574712643678% C:29.080459770114942% T:22.183908045977013% G:25.229885057471265%
+> KF494938.1 Rabbit hemorrhagic disease virus isolate SA/TF-1907/2006 capsid protein (VP60) gene, complete cds 
+ A:23.39080459770115% C:29.022988505747126% T:22.298850574712645% G:25.28735632183908%
+> KF494939.1 Rabbit hemorrhagic disease virus isolate SA/TF-2186/2008 capsid protein (VP60) gene, complete cds 
+ A:23.735632183908045% C:28.735632183908045% T:22.35632183908046% G:25.17241379310345%
+> KF494940.1 Rabbit hemorrhagic disease virus isolate SA/TF-2863/2011 capsid protein (VP60) gene, complete cds 
+ A:23.563218390804597% C:28.620689655172413% T:22.126436781609197% G:25.689655172413794%
+> KF494941.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1339/2011 capsid protein (VP60) gene, complete cds 
+ A:23.160919540229884% C:28.908045977011493% T:22.298850574712645% G:25.632183908045977%
+> KF494942.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1350/2011 capsid protein (VP60) gene, complete cds 
+ A:23.67816091954023% C:28.735632183908045% T:22.528735632183906% G:25.057471264367816%
+> KF494943.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1731/2008 capsid protein (VP60) gene, complete cds 
+ A:23.2183908045977% C:28.620689655172413% T:22.988505747126435% G:25.17241379310345%
+> KF494944.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1743/2008 capsid protein (VP60) gene, complete cds 
+ A:23.620689655172413% C:28.67816091954023% T:22.586206896551722% G:25.114942528735632%
+> KF494945.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1839/2009 capsid protein (VP60) gene, complete cds 
+ A:23.67816091954023% C:28.563218390804597% T:22.528735632183906% G:25.229885057471265%
+> KF494946.1 Rabbit hemorrhagic disease virus isolate SA/WILKA/2010 capsid protein (VP60) gene, complete cds 
+ A:23.563218390804597% C:28.79310344827586% T:22.413793103448278% G:25.229885057471265%
+> KF494947.1 Rabbit hemorrhagic disease virus isolate SA/WillochraCrk/1995 capsid protein (VP60) gene, complete cds 
+ A:23.160919540229884% C:29.137931034482758% T:22.24137931034483% G:25.45977011494253%
+> KF494948.1 Rabbit hemorrhagic disease virus isolate TAS/COLLINS-1/2006 capsid protein (VP60) gene, complete cds 
+ A:23.67816091954023% C:29.25287356321839% T:22.011494252873565% G:25.057471264367816%
+> KF494949.1 Rabbit hemorrhagic disease virus isolate TAS/STHARM/2007 capsid protein (VP60) gene, complete cds 
+ A:23.50574712643678% C:28.96551724137931% T:22.471264367816094% G:25.057471264367816%
+> KF494950.1 Rabbit hemorrhagic disease virus isolate WA/MANMAN/2010 capsid protein (VP60) gene, complete cds 
+ A:23.448275862068964% C:28.67816091954023% T:22.64367816091954% G:25.229885057471265%
+> KF494951.1 Rabbit hemorrhagic disease virus isolate WA/MARCHA/2010 capsid protein (VP60) gene, complete cds 
+ A:23.333333333333332% C:28.735632183908045% T:22.586206896551722% G:25.344827586206897%
+> KF494952.1 Rabbit hemorrhagic disease virus isolate WA/NARRIN/2010 capsid protein (VP60) gene, complete cds 
+ A:23.333333333333332% C:28.67816091954023% T:22.64367816091954% G:25.344827586206897%
+> KF270630.1 Rabbit hemorrhagic disease virus isolate Lug09-12 capsid protein VP60 gene, complete cds 
+ A:23.160919540229884% C:29.195402298850574% T:22.35632183908046% G:25.28735632183908%
+> KC345611.1 Rabbit hemorrhagic disease virus isolate Ss11 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:21.551724137931036% C:28.96551724137931% T:22.64367816091954% G:26.839080459770116%
+> KC345612.1 Rabbit hemorrhagic disease virus isolate Vs11_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:21.551724137931036% C:29.022988505747126% T:22.64367816091954% G:26.7816091954023%
+> KC345613.1 Rabbit hemorrhagic disease virus isolate Vs11_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:21.60919540229885% C:29.080459770114942% T:22.528735632183906% G:26.7816091954023%
+> KC345614.1 Rabbit hemorrhagic disease virus isolate Ca11 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.873563218390803% C:29.71264367816092% T:21.724137931034484% G:25.689655172413794%
+> KC595270.1 Rabbit hemorrhagic disease virus isolate Or08 capsid structural protein gene, complete cds 
+ A:22.75862068965517% C:29.54022988505747% T:21.7816091954023% G:25.862068965517242%
+> KC907712.1 Rabbit hemorrhagic disease virus isolate Tn12_1 capsid structural protein VP60 gene, complete cds 
+ A:21.896551724137932% C:28.620689655172413% T:22.988505747126435% G:26.49425287356322%
+> KC741409.2 Rabbit hemorrhagic disease virus isolate Sr12_2 capsid structural protein VP60 gene, complete cds 
+ A:21.896551724137932% C:28.563218390804597% T:23.160919540229884% G:26.379310344827587%
+> KJ579156.1 Rabbit hemorrhagic disease virus isolate CBPico13-05 capsid protein gene, complete cds 
+ A:23.2183908045977% C:28.735632183908045% T:22.586206896551722% G:25.45977011494253%
+> KJ579157.1 Rabbit hemorrhagic disease virus isolate CBPico13-12 capsid protein gene, complete cds 
+ A:23.160919540229884% C:28.850574712643677% T:22.471264367816094% G:25.517241379310345%
+> KJ579158.1 Rabbit hemorrhagic disease virus isolate CBPico13-26 capsid protein gene, complete cds 
+ A:23.160919540229884% C:28.850574712643677% T:22.471264367816094% G:25.517241379310345%
+> KJ579159.1 Rabbit hemorrhagic disease virus isolate CBPico13-31 capsid protein gene, complete cds 
+ A:23.2183908045977% C:28.850574712643677% T:22.471264367816094% G:25.45977011494253%
+> KJ579160.1 Rabbit hemorrhagic disease virus isolate CBPico13-32 capsid protein gene, complete cds 
+ A:23.04597701149425% C:28.79310344827586% T:22.528735632183906% G:25.632183908045977%
+> KT006748.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Motpena/2013 major structural protein gene, complete cds 
+ A:23.735632183908045% C:29.080459770114942% T:22.011494252873565% G:25.17241379310345%
+> KT737803.1 Rabbit hemorrhagic disease virus isolate Mb12 capsid protein (vp60) gene, complete cds 
+ A:21.7816091954023% C:28.79310344827586% T:22.75862068965517% G:26.60919540229885%
+> KU665594.1 Rabbit hemorrhagic disease virus strain SEGB2PT15 capsid protein (vp60) gene, complete cds 
+ A:22.183908045977013% C:28.735632183908045% T:22.988505747126435% G:26.091954022988507%
+> KU665595.1 Rabbit hemorrhagic disease virus strain SEG1PT15 capsid protein (vp60) gene, complete cds 
+ A:22.24137931034483% C:28.850574712643677% T:22.873563218390803% G:26.03448275862069%
+> KU665596.1 Rabbit hemorrhagic disease virus strain SEG2PT15 capsid protein (vp60) gene, complete cds 
+ A:22.24137931034483% C:28.79310344827586% T:22.873563218390803% G:26.03448275862069%
+> KU665597.1 Rabbit hemorrhagic disease virus strain 6456F2PT15 capsid protein (vp60) gene, complete cds 
+ A:22.24137931034483% C:28.620689655172413% T:23.103448275862068% G:26.03448275862069%
+> KU665598.1 Rabbit hemorrhagic disease virus strain 730PT15 capsid protein (vp60) gene, complete cds 
+ A:22.24137931034483% C:28.850574712643677% T:22.873563218390803% G:26.03448275862069%
+> KU665600.1 Rabbit hemorrhagic disease virus strain 26724NPT14 capsid protein (vp60) gene, complete cds 
+ A:22.24137931034483% C:28.67816091954023% T:23.04597701149425% G:26.03448275862069%
+> KU665601.1 Rabbit hemorrhagic disease virus strain 26724VPT14 capsid protein (vp60) gene, complete cds 
+ A:22.24137931034483% C:28.67816091954023% T:23.04597701149425% G:26.03448275862069%
+> KY498543.1 Rabbit hemorrhagic disease virus isolate Zar2014_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.620689655172413% T:23.04597701149425% G:26.03448275862069%
+> KY498544.1 Rabbit hemorrhagic disease virus isolate Zar2014_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.79310344827586% T:22.93103448275862% G:25.919540229885058%
+> KY498545.1 Rabbit hemorrhagic disease virus isolate Zar2015_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.908045977011493% T:22.816091954022987% G:25.862068965517242%
+> KY498546.1 Rabbit hemorrhagic disease virus isolate Zar2015_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.735632183908045% T:22.93103448275862% G:26.03448275862069%
+> KY498547.1 Rabbit hemorrhagic disease virus isolate Zar2015_3 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.735632183908045% T:22.93103448275862% G:26.03448275862069%
+> KY498548.1 Rabbit hemorrhagic disease virus isolate Zar2015_4 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.908045977011493% T:22.816091954022987% G:25.862068965517242%
+> KY498549.1 Rabbit hemorrhagic disease virus isolate Zar2015_5 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.471264367816094% C:28.79310344827586% T:22.93103448275862% G:25.804597701149426%
+> KY498550.1 Rabbit hemorrhagic disease virus isolate Zar2015_6 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.528735632183906% C:28.96551724137931% T:22.64367816091954% G:25.862068965517242%
+> KY498551.1 Rabbit hemorrhagic disease virus isolate Zar2015_7 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.471264367816094% C:28.79310344827586% T:22.93103448275862% G:25.804597701149426%
+> KY498552.1 Rabbit hemorrhagic disease virus isolate Zar2015_8 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.79310344827586% T:22.873563218390803% G:25.977011494252874%
+> KY498553.1 Rabbit hemorrhagic disease virus isolate Zar2014_3 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.96551724137931% T:22.75862068965517% G:25.862068965517242%
+> KY498554.1 Rabbit hemorrhagic disease virus isolate Zar2015_9 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.96551724137931% T:22.75862068965517% G:25.862068965517242%
+> KY498555.1 Rabbit hemorrhagic disease virus isolate Zar2014_4 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.79310344827586% T:22.93103448275862% G:25.919540229885058%
+> KY498556.1 Rabbit hemorrhagic disease virus isolate Zar2014_5 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.79310344827586% T:22.93103448275862% G:25.977011494252874%
+> KY498557.1 Rabbit hemorrhagic disease virus isolate Zar2014_6 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.79310344827586% T:22.93103448275862% G:25.919540229885058%
+> KY498558.1 Rabbit hemorrhagic disease virus isolate Zar2015_10 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:29.022988505747126% T:22.701149425287355% G:25.862068965517242%
+> KY498559.1 Rabbit hemorrhagic disease virus isolate Zar2014_7 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.850574712643677% T:22.873563218390803% G:25.977011494252874%
+> KY498560.1 Rabbit hemorrhagic disease virus isolate Zar2014_8 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.850574712643677% T:22.873563218390803% G:25.977011494252874%
+> KY498561.1 Rabbit hemorrhagic disease virus isolate Zar2014_9 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.79310344827586% T:22.93103448275862% G:25.862068965517242%
+> KY498562.1 Rabbit hemorrhagic disease virus isolate Zar2014_10 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.850574712643677% T:22.873563218390803% G:25.862068965517242%
+> KY498563.1 Rabbit hemorrhagic disease virus isolate Zar2014_11 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.183908045977013% C:28.79310344827586% T:22.988505747126435% G:26.03448275862069%
+> KY498564.1 Rabbit hemorrhagic disease virus isolate Zar2014_12 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.79310344827586% T:22.873563218390803% G:25.919540229885058%
+> KY498565.1 Rabbit hemorrhagic disease virus isolate Zar2014_13 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.96551724137931% T:22.701149425287355% G:25.977011494252874%
+> KY498566.1 Rabbit hemorrhagic disease virus isolate Zar2015_11 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.183908045977013% C:28.908045977011493% T:22.816091954022987% G:26.091954022988507%
+> KY498567.1 Rabbit hemorrhagic disease virus isolate Zar2015_12 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.183908045977013% C:28.908045977011493% T:22.816091954022987% G:26.091954022988507%
+> KY498568.1 Rabbit hemorrhagic disease virus isolate Zar2016_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.96551724137931% T:22.75862068965517% G:25.862068965517242%
+> KY498569.1 Rabbit hemorrhagic disease virus isolate Zar2016_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.183908045977013% C:29.195402298850574% T:22.528735632183906% G:26.091954022988507%
+> KY498570.1 Rabbit hemorrhagic disease virus isolate Zar2016_3 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.183908045977013% C:29.195402298850574% T:22.528735632183906% G:26.091954022988507%
+> KY498571.1 Rabbit hemorrhagic disease virus isolate Zar2013_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.850574712643677% T:22.873563218390803% G:25.862068965517242%
+> KY498572.1 Rabbit hemorrhagic disease virus isolate Zar2013_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.735632183908045% T:22.988505747126435% G:25.977011494252874%
+> KY498573.1 Rabbit hemorrhagic disease virus isolate Zar2013_3 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:29.022988505747126% T:22.701149425287355% G:25.977011494252874%
+> KY498574.1 Rabbit hemorrhagic disease virus isolate Zar2013_4 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.183908045977013% C:28.67816091954023% T:22.988505747126435% G:26.149425287356323%
+> KY498575.1 Rabbit hemorrhagic disease virus isolate Zar2013_5 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.79310344827586% T:22.93103448275862% G:25.919540229885058%
+> KY498576.1 Rabbit hemorrhagic disease virus isolate Zar2013_6 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.183908045977013% C:28.620689655172413% T:23.04597701149425% G:26.149425287356323%
+> KY498577.1 Rabbit hemorrhagic disease virus isolate Zar2013_7 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.563218390804597% T:23.103448275862068% G:25.977011494252874%
+> KY498578.1 Rabbit hemorrhagic disease virus isolate Zar2013_8 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.79310344827586% T:22.93103448275862% G:25.977011494252874%
+> KY498579.1 Rabbit hemorrhagic disease virus isolate Zar2015_13 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.79310344827586% T:22.873563218390803% G:25.977011494252874%
+> KY498580.1 Rabbit hemorrhagic disease virus isolate Zar2016_4 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.79310344827586% T:22.816091954022987% G:26.03448275862069%
+> KY498581.1 Rabbit hemorrhagic disease virus isolate Zar2013_9 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.35632183908046% C:28.620689655172413% T:23.04597701149425% G:25.977011494252874%
+> KY498582.1 Rabbit hemorrhagic disease virus isolate Zar2008_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.586206896551722% C:28.79310344827586% T:22.988505747126435% G:25.632183908045977%
+> MG022138.1 Rabbit hemorrhagic disease virus isolate Zar2013-10 capsid structural protein VP60 (VP60) gene, complete cds 
+ A:22.298850574712645% C:28.563218390804597% T:23.103448275862068% G:26.03448275862069%
+> MF497434.1 Rabbit hemorrhagic disease virus isolate Ten0301 VP60 (VP60) gene, complete cds 
+ A:22.413793103448278% C:28.333333333333332% T:23.275862068965516% G:25.977011494252874%
+> MG356948.1 Rabbit hemorrhagic disease virus 2 strain 42733PT15 polyprotein gene, complete cds 
+ A:21.95402298850575% C:28.735632183908045% T:22.988505747126435% G:26.32183908045977%
+> MK629981.1 Rabbit hemorrhagic disease virus isolate Tn1_2016 capsid protein gene, complete cds 
+ A:22.06896551724138% C:28.39080459770115% T:23.333333333333332% G:26.20689655172414%
+> MK629982.1 Rabbit hemorrhagic disease virus isolate Tn7_2015 capsid protein gene, complete cds 
+ A:21.724137931034484% C:28.39080459770115% T:23.2183908045977% G:26.666666666666668%
+> MK629983.1 Rabbit hemorrhagic disease virus isolate Tn8_2015 capsid protein gene, complete cds 
+ A:22.183908045977013% C:28.67816091954023% T:22.988505747126435% G:26.149425287356323%
+> MK629984.1 Rabbit hemorrhagic disease virus isolate Tn11_2015 capsid protein gene, complete cds 
+ A:22.011494252873565% C:28.448275862068964% T:23.275862068965516% G:26.264367816091955%
+> MK629985.1 Rabbit hemorrhagic disease virus isolate Tn4_2017 capsid protein gene, complete cds 
+ A:22.126436781609197% C:28.67816091954023% T:23.04597701149425% G:26.149425287356323%
+> MK629986.1 Rabbit hemorrhagic disease virus isolate Tn5_2015 capsid protein gene, complete cds 
+ A:22.06896551724138% C:28.620689655172413% T:23.103448275862068% G:26.20689655172414%
+> MK629987.1 Rabbit hemorrhagic disease virus isolate Tn1_2015 capsid protein gene, complete cds 
+ A:21.896551724137932% C:28.735632183908045% T:23.103448275862068% G:26.264367816091955%
+> MK629988.1 Rabbit hemorrhagic disease virus isolate Tn4_2015 capsid protein gene, complete cds 
+ A:22.06896551724138% C:28.39080459770115% T:23.275862068965516% G:26.264367816091955%
+> MK629989.1 Rabbit hemorrhagic disease virus isolate Tn3_2015 capsid protein gene, complete cds 
+ A:21.839080459770116% C:28.448275862068964% T:23.2183908045977% G:26.49425287356322%
+> MK629990.1 Rabbit hemorrhagic disease virus isolate Tn3_2018 capsid protein gene, complete cds 
+ A:21.95402298850575% C:28.620689655172413% T:22.988505747126435% G:26.436781609195403%
+> MK629991.1 Rabbit hemorrhagic disease virus isolate Tn1_2018 capsid protein gene, complete cds 
+ A:21.896551724137932% C:28.333333333333332% T:23.333333333333332% G:26.436781609195403%
+> MF620130.1 Influenza A virus (A/chicken/Egypt/Elfeil-26/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.92754456584244% C:19.03392754456584% T:24.381828637147787% G:22.656699252443932%
+> KU310447.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.85326400924321% C:18.313113807047948% T:24.841132293471983% G:22.992489890236858%
+> EF395820.1 Influenza A virus (A/mute swan/France/06299/2006(H5N1)) hemagglutinin (HA) gene, complete cds 
+ A:35.20796719390744% C:17.984768599882834% T:24.01874633860574% G:22.788517867603982%
+> KY029054.1 Influenza A virus (A/chicken/Egypt/ZU2/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.328638497652584% C:18.368544600938968% T:23.767605633802816% G:22.535211267605632%
+> KY029055.1 Influenza A virus (A/chicken/Egypt/ZU3/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.328638497652584% C:18.368544600938968% T:23.767605633802816% G:22.535211267605632%
+> KY029056.1 Influenza A virus (A/chicken/Egypt/ZU28/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.26995305164319% C:18.251173708920188% T:24.061032863849764% G:22.417840375586856%
+> KY029057.1 Influenza A virus (A/chicken/Egypt/ZU29/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.26995305164319% C:18.309859154929576% T:24.002347417840376% G:22.417840375586856%
+> KY029058.1 Influenza A virus (A/chicken/Egypt/ZU30/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.26995305164319% C:18.309859154929576% T:24.002347417840376% G:22.417840375586856%
+> KY029059.1 Influenza A virus (A/chicken/Egypt/ZU34/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.44600938967136% C:18.133802816901408% T:24.119718309859156% G:22.300469483568076%
+> KY029060.1 Influenza A virus (A/chicken/Egypt/ZU46/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.38732394366197% C:18.251173708920188% T:23.884976525821596% G:22.476525821596244%
+> KY029061.1 Influenza A virus (A/chicken/Egypt/ZU47/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.26995305164319% C:18.427230046948356% T:23.884976525821596% G:22.417840375586856%
+> KY029062.1 Influenza A virus (A/chicken/Egypt/ZU53/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.26995305164319% C:18.427230046948356% T:23.884976525821596% G:22.417840375586856%
+> KY029063.1 Influenza A virus (A/chicken/Egypt/ZU103/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.50469483568075% C:18.368544600938968% T:23.884976525821596% G:22.241784037558684%
+> KY029064.1 Influenza A virus (A/chicken/Egypt/ZU105/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.26995305164319% C:18.133802816901408% T:24.119718309859156% G:22.476525821596244%
+> KY029065.1 Influenza A virus (A/chicken/Egypt/ZU108/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.50469483568075% C:18.368544600938968% T:23.884976525821596% G:22.241784037558684%
+> KY029066.1 Influenza A virus (A/chicken/Egypt/ZU116/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.50469483568075% C:17.899061032863848% T:24.295774647887324% G:22.300469483568076%
+> KY029067.1 Influenza A virus (A/chicken/Egypt/ZU117/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.50469483568075% C:17.899061032863848% T:24.295774647887324% G:22.300469483568076%
+> KY029068.1 Influenza A virus (A/chicken/Egypt/ZU118/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.50469483568075% C:17.899061032863848% T:24.295774647887324% G:22.300469483568076%
+> KY029069.1 Influenza A virus (A/chicken/Egypt/ZU120/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:35.328638497652584% C:18.133802816901408% T:24.119718309859156% G:22.417840375586856%
+> KX014878.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.80530973451327% C:18.761061946902654% T:24.24778761061947% G:23.1858407079646%
+> KX014886.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.6283185840708% C:18.70206489675516% T:24.30678466076696% G:23.244837758112094%
+> KX014894.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.86430678466077% C:18.820058997050147% T:24.188790560471976% G:23.12684365781711%
+> KX014902.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.68731563421829% C:18.820058997050147% T:24.188790560471976% G:23.1858407079646%
+> MN559704.1 Influenza A virus (A/goose/Egypt/A_Geese_Egypt_MG3_2017/2017(H5N8)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.80530973451327% C:18.938053097345133% T:23.893805309734514% G:23.36283185840708%
+> KY910830.1 Influenza A virus (A/Egypt/ZU63/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:34.165181224004755% C:19.132501485442663% T:24.242424242424242% G:22.459893048128343%
+> KY910831.1 Influenza A virus (A/Egypt/ZU64/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:34.165181224004755% C:19.132501485442663% T:24.242424242424242% G:22.459893048128343%
+> KY910832.1 Influenza A virus (A/Egypt/ZU65/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:34.165181224004755% C:19.132501485442663% T:24.242424242424242% G:22.459893048128343%
+> KY910833.1 Influenza A virus (A/Egypt/ZU66/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:34.165181224004755% C:19.132501485442663% T:24.242424242424242% G:22.459893048128343%
+> KY910834.1 Influenza A virus (A/Egypt/ZU68/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:34.165181224004755% C:19.132501485442663% T:24.242424242424242% G:22.459893048128343%
+> KY910835.1 Influenza A virus (A/Egypt/ZU73/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:33.92751039809863% C:18.538324420677363% T:24.65834818775995% G:22.875816993464053%
+> KY910836.1 Influenza A virus (A/Egypt/ZU80/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ A:34.165181224004755% C:19.132501485442663% T:24.242424242424242% G:22.459893048128343%
+> KU310448.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ A:31.757188498402556% C:20.063897763578275% T:21.21405750798722% G:26.96485623003195%
+> KU320888.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ A:31.94888178913738% C:20.191693290734825% T:20.894568690095845% G:26.900958466453673%
+> KX014895.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ A:31.757188498402556% C:20.063897763578275% T:21.022364217252395% G:27.156549520766774%
+> KX014903.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ A:31.948051948051948% C:20.12987012987013% T:20.77922077922078% G:27.07792207792208%
+> KX014887.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ A:31.38157894736842% C:20.06578947368421% T:21.05263157894737% G:27.5%
+> M92840.1 Oryctolagus cuniculus cell surface glycoprotein CD4 mRNA, complete cds 
+ A:23.43124165554072% C:28.7716955941255% T:18.69158878504673% G:29.10547396528705%
+> KX014879.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ A:31.596526386105545% C:20.10688042752171% T:20.841683366733466% G:27.45490981963928%
+> AY561276.1 Oryctolagus cuniculus C-ets-1 (c-ets1) mRNA, complete cds 
+ A:23.939808481532147% C:29.069767441860463% T:20.041039671682626% G:26.94938440492476%
+> KX014888.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 6 neuraminidase (NA) gene, complete cds 
+ A:34.681288553803974% C:20.3564084989719% T:22.206991089787525% G:22.7553118574366%
+> KX014904.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 6 neuraminidase (NA) gene, complete cds 
+ A:31.271716469770674% C:18.763029881862405% T:26.129256428075053% G:23.83599722029187%
+> KU310449.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 6 neuraminidase (NA) gene, complete cds 
+ A:29.58827634333566% C:18.84159106769016% T:26.4480111653873% G:24.98255408234473%
+> KU320889.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 6 neuraminidase (NA) gene, complete cds 
+ A:34.922861150070126% C:20.266479663394108% T:22.230014025245442% G:22.580645161290324%
+> KX014896.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 6 neuraminidase (NA) gene, complete cds 
+ A:34.572230014025244% C:20.05610098176718% T:22.510518934081347% G:22.86115007012623%
+> MN913967.1 Influenza A virus (A/goose/Egypt/MG2/2017(H5N8)) segment 6 neuraminidase (NA) gene, complete cds 
+ A:29.65322009907997% C:17.197452229299362% T:26.326963906581742% G:26.822363765038926%
+> KX014880.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 6 neuraminidase (NA) gene, complete cds 
+ A:30.921985815602838% C:18.79432624113475% T:26.31205673758865% G:23.97163120567376%
+> KY441470.1 Synthetic construct clone rab_HC_MARV_NP anti-Marburg virus nucleoprotein antibody immunoglobulin gamma heavy chain gene, complete cds 
+ A:22.564102564102566% C:31.86813186813187% T:18.168498168498168% G:27.399267399267398%
+> EF395821.1 Influenza A virus (A/mute swan/France/06299/2006(H5N1)) neuraminidase (NA) gene, complete cds 
+ A:29.333333333333332% C:17.925925925925927% T:27.11111111111111% G:25.62962962962963%
+> MN626413.1 Rabbit luteovirus isolate RLV/L232 RNA-dependent RNA polymerase (RdRp) gene, complete cds 
+ A:22.69503546099291% C:24.74389282899921% T:25.37431048069346% G:27.18676122931442%
+> JX135559.1 Vibrio phage CTX zonula occludens toxin gene, complete cds 
+ A:25.166666666666668% C:22.75% T:25.666666666666668% G:26.416666666666668%
+> M14493.1 Shope fibroma virus thymidine kinase gene, complete cds 
+ A:34.343434343434346% C:17.171717171717173% T:27.272727272727273% G:21.21212121212121%
+> FJ493038.1 Lepus europaeus isolate 2 endogenous virus Rabbit endogenous lentivirus type K nonfunctional env protein gene, complete sequence 
+ A:33.754208754208754% C:18.434343434343436% T:26.346801346801346% G:21.464646464646464%
+> FJ493037.1 Lepus europaeus isolate 1 endogenous virus Rabbit endogenous lentivirus type K nonfunctional env protein gene, complete sequence 
+ A:34.234995773457314% C:18.258664412510566% T:26.54268808114962% G:20.963651732882504%
+> FJ970504.1 Myxoma virus isolate CB31 m137R gene, partial cds; and m0138L gene, complete cds 
+ A:26.064291920069504% C:22.67593397046047% T:27.80191138140747% G:23.457862728062555%
+> FJ970505.1 Myxoma virus isolate CB191 m137R gene, partial cds; and m138L gene, complete cds 
+ A:26.151172893136405% C:22.762814943527367% T:27.715030408340574% G:23.370981754995658%
+> EF034116.1 Oryctolagus cuniculus coxsackie virus and adenovirus receptor (CXADR) mRNA, complete cds 
+ A:29.963570127504553% C:21.311475409836067% T:27.049180327868854% G:21.67577413479053%
+> EU360946.1 Gallid herpesvirus 1 isolate CH04 thymidine kinase (tk) gene, complete cds 
+ A:27.655677655677657% C:22.435897435897434% T:26.373626373626372% G:23.534798534798536%
+> EU360947.1 Gallid herpesvirus 1 isolate CH95 thymidine kinase (tk) gene, complete cds 
+ A:27.655677655677657% C:22.61904761904762% T:26.28205128205128% G:23.44322344322344%
+> EU360948.1 Gallid herpesvirus 1 isolate S04 thymidine kinase (tk) gene, complete cds 
+ A:27.564102564102566% C:22.435897435897434% T:26.373626373626372% G:23.626373626373628%
+> EU360949.1 Gallid herpesvirus 1 isolate CEO thymidine kinase (tk) gene, complete cds 
+ A:27.655677655677657% C:22.52747252747253% T:26.28205128205128% G:23.534798534798536%
+> EU360950.1 Gallid herpesvirus 1 isolate TCO thymidine kinase (tk) gene, complete cds 
+ A:27.655677655677657% C:22.52747252747253% T:26.28205128205128% G:23.534798534798536%
+> KU310450.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ A:27.555988315481986% C:21.518987341772153% T:23.563777994157743% G:27.36124634858812%
+> KU320890.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ A:28.14021421616358% C:21.518987341772153% T:23.563777994157743% G:26.777020447906523%
+> KX014897.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ A:28.04284323271665% C:21.616358325219085% T:23.661148977604675% G:26.67964946445959%
+> MH428671.1 Gallid alphaherpesvirus 2 isolate Elfeil-15A Meq oncoprotein (Meq) gene, complete cds 
+ A:20.0% C:35.78431372549019% T:21.96078431372549% G:22.254901960784313%
+> MH428672.1 Gallid alphaherpesvirus 2 isolate Elfeil-15B Meq oncoprotein (Meq) gene, complete cds 
+ A:20.0% C:35.68627450980392% T:21.96078431372549% G:22.352941176470587%
+> MH428673.1 Gallid alphaherpesvirus 2 isolate Elfeil-15C Meq oncoprotein (Meq) gene, complete cds 
+ A:20.0% C:35.78431372549019% T:22.058823529411764% G:22.15686274509804%
+> KX014905.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ A:27.74390243902439% C:21.849593495934958% T:23.272357723577237% G:27.134146341463413%
+> KX014889.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ A:27.772126144455747% C:21.668362156663274% T:23.499491353001016% G:27.06002034587996%
+> KX014881.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ A:27.69857433808554% C:21.792260692464357% T:23.421588594704684% G:27.087576374745417%
+> L01417.1 Rabbit fibroma virus uracil DNA glycosylase gene, complete cds 
+ A:34.55555555555556% C:17.11111111111111% T:26.666666666666668% G:21.666666666666668%
+> KU320891.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ A:31.910112359550563% C:20.0% T:24.04494382022472% G:24.04494382022472%
+> KU310451.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ A:32.207207207207205% C:20.045045045045047% T:23.76126126126126% G:23.986486486486488%
+> KX014898.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ A:32.25433526011561% C:19.884393063583815% T:23.930635838150287% G:23.930635838150287%
+> KX014890.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ A:31.609870740305524% C:20.09400705052879% T:23.854289071680377% G:24.324324324324323%
+> KX014906.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ A:32.5% C:19.642857142857142% T:24.166666666666668% G:23.69047619047619%
+> KX014882.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ A:31.62291169451074% C:20.047732696897373% T:24.105011933174225% G:24.22434367541766%
+> M15921.1 Shope fibroma virus growth factor gene, complete cds 
+ A:31.625% C:17.875% T:32.125% G:18.375%
+> FJ493035.1 Lepus europaeus isolate 4 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ A:34.54773869346734% C:20.85427135678392% T:20.603015075376884% G:23.86934673366834%
+> FJ493036.1 Lepus europaeus isolate 5 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ A:33.87909319899244% C:21.03274559193955% T:21.03274559193955% G:23.67758186397985%
+> FJ493034.1 Lepus europaeus isolate 3 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ A:33.54510800508259% C:20.71156289707751% T:20.71156289707751% G:24.52350698856417%
+> U46948.1 Equine arteritis virus strain 11958 ORF5 mRNA, complete cds 
+ A:18.75% C:22.786458333333332% T:33.072916666666664% G:25.390625%
+> U46949.1 Equine arteritis virus strain 19933 ORF5 mRNA, complete cds 
+ A:18.229166666666668% C:23.307291666666668% T:32.8125% G:25.651041666666668%
+> U46950.1 Equine arteritis virus strain 15492 ORF5 mRNA, complete cds 
+ A:19.53125% C:22.65625% T:33.463541666666664% G:24.348958333333332%
+> U46951.1 Equine arteritis virus strain T1329 ORF5 mRNA, complete cds 
+ A:19.791666666666668% C:22.526041666666668% T:33.072916666666664% G:24.609375%
+> U46952.1 Equine arteritis virus strain Vienna ORF5 mRNA, complete cds 
+ A:18.098958333333332% C:22.65625% T:33.984375% G:25.260416666666668%
+> U46954.1 Equine arteritis virus strain 84KY-A1 ORF5 mRNA, complete cds 
+ A:19.791666666666668% C:22.916666666666668% T:33.072916666666664% G:24.21875%
+> AY099150.1 Polygonatum cyrtonema mannose/sialic acid-binding lectin precursor, mRNA, complete cds 
+ A:26.83982683982684% C:24.963924963924963% T:24.242424242424242% G:23.953823953823953%
+> U51154.1 Equine arteritis virus strain 11958 viral envelope protein (ORF2) gene, complete cds 
+ A:18.42105263157895% C:26.461988304093566% T:31.140350877192983% G:23.976608187134502%
+> U51155.1 Equine arteritis virus strain 15492 viral envelope protein (ORF2) gene, complete cds 
+ A:18.859649122807017% C:25.584795321637426% T:31.57894736842105% G:23.976608187134502%
+> U51156.1 Equine arteritis virus strain 19933 viral envelope protein (ORF2) gene, complete cds 
+ A:18.567251461988302% C:25.87719298245614% T:31.72514619883041% G:23.830409356725145%
+> U51157.1 Equine arteritis virus strain T1329 viral envelope protein (ORF2) gene, complete cds 
+ A:19.5906432748538% C:25.87719298245614% T:31.432748538011698% G:23.099415204678362%
+> U51161.1 Equine arteritis virus strain VIENNA viral envelope protein (ORF2) gene, complete cds 
+ A:19.15204678362573% C:26.169590643274855% T:31.57894736842105% G:23.099415204678362%
+> FJ493033.1 Lepus europaeus isolate 2 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ A:34.2143906020558% C:17.91483113069016% T:22.46696035242291% G:24.669603524229075%
+> KY462785.1 Porcine circovirus-like virus P1 isolate JSNJ, complete sequence 
+ A:22.839506172839506% C:18.51851851851852% T:28.703703703703702% G:29.938271604938272%
+> KY462786.1 Porcine circovirus-like virus P1 isolate JSZJ, complete sequence 
+ A:22.685185185185187% C:18.51851851851852% T:28.703703703703702% G:30.09259259259259%
+> AY099490.2 Zephyranthes candida agglutinin gene, complete cds 
+ A:24.84375% C:25.9375% T:23.125% G:26.09375%
+> JX533445.1 Gallid herpesvirus 2 isolate Egypt_1 glycoprotein L (UL1) gene, complete cds 
+ A:27.551020408163264% C:22.27891156462585% T:26.700680272108844% G:23.46938775510204%
+> JX533446.1 Gallid herpesvirus 2 isolate Egypt_2 glycoprotein L (UL1) gene, complete cds 
+ A:27.551020408163264% C:22.27891156462585% T:26.700680272108844% G:23.46938775510204%
+> JX533447.1 Gallid herpesvirus 2 isolate Egypt_3 glycoprotein L (UL1) gene, complete cds 
+ A:27.551020408163264% C:22.27891156462585% T:26.700680272108844% G:23.46938775510204%
+> MN626415.1 Rabbit luteovirus isolate RLV/L232 coat protein gene, complete cds 
+ A:27.74869109947644% C:23.211169284467715% T:20.418848167539267% G:28.62129144851658%
+> AF001079.1 Equine arteritis virus strain T1329 ORF3 gene, complete cds 
+ A:18.902439024390244% C:21.951219512195124% T:36.58536585365854% G:22.5609756097561%
+> AF001081.1 Equine arteritis virus strain 15492 ORF3 gene, complete cds 
+ A:19.308943089430894% C:23.577235772357724% T:35.16260162601626% G:21.951219512195124%
+> AF001082.1 Equine arteritis virus strain 19933 ORF3 gene, complete cds 
+ A:17.88617886178862% C:24.796747967479675% T:33.739837398373986% G:23.577235772357724%
+> AF001083.1 Equine arteritis virus strain Vienna ORF3 gene, complete cds 
+ A:18.69918699186992% C:22.96747967479675% T:35.56910569105691% G:22.764227642276424%
+> AF001084.1 Equine arteritis virus strain 84KY-A1 ORF3 gene, complete cds 
+ A:18.69918699186992% C:23.170731707317074% T:35.97560975609756% G:22.15447154471545%
+> AF320572.1 Equine arteritis virus strain Bucyrus ORF6 mRNA, complete cds 
+ A:19.631901840490798% C:22.494887525562373% T:32.92433537832311% G:24.948875255623722%
+> AF001080.1 Equine arteritis virus strain 11958 ORF3 gene, complete cds 
+ A:18.426501035196686% C:24.84472049689441% T:34.161490683229815% G:22.56728778467909%
+> AF001087.1 Equine arteritis virus strain T1329 ORF4 gene, complete cds 
+ A:20.915032679738562% C:22.004357298474947% T:34.20479302832244% G:22.875816993464053%
+> AF001088.1 Equine arteritis virus strain 11958 ORF4 gene, complete cds 
+ A:21.132897603485837% C:22.657952069716774% T:33.55119825708061% G:22.657952069716774%
+> AF001089.1 Equine arteritis virus strain 15492 ORF4 gene, complete cds 
+ A:21.350762527233115% C:21.132897603485837% T:35.294117647058826% G:22.22222222222222%
+> AF001090.1 Equine arteritis virus strain 19933 ORF4 gene, complete cds 
+ A:20.697167755991284% C:23.093681917211327% T:33.55119825708061% G:22.657952069716774%
+> AF001091.1 Equine arteritis virus strain Vienna ORF4 gene, complete cds 
+ A:20.697167755991284% C:22.875816993464053% T:33.98692810457516% G:22.4400871459695%
+> AF001092.1 Equine arteritis virus strain 84KY-A1 ORF4 gene, complete cds 
+ A:21.132897603485837% C:22.004357298474947% T:34.42265795206972% G:22.4400871459695%
+> U65724.1 Equine arteritis virus 5' leader sequence 
+ A:19.41747572815534% C:25.728155339805824% T:33.980582524271846% G:20.87378640776699%
+> U65725.1 Equine arteritis virus 5' leader sequence 
+ A:18.932038834951456% C:26.21359223300971% T:33.980582524271846% G:20.87378640776699%
+> U65726.1 Equine arteritis virus 5' leader sequence 
+ A:19.41747572815534% C:26.21359223300971% T:32.52427184466019% G:21.844660194174757%
+> U65727.1 Equine arteritis virus 5' leader sequence 
+ A:19.41747572815534% C:26.21359223300971% T:33.49514563106796% G:20.87378640776699%
+> U65728.1 Equine arteritis virus 5' leader sequence 
+ A:18.446601941747574% C:26.21359223300971% T:33.980582524271846% G:21.359223300970875%
+> U65723.1 Equine arteritis virus 5' leader sequence 
+ A:18.536585365853657% C:25.853658536585368% T:33.170731707317074% G:22.4390243902439%

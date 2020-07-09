@@ -1,0 +1,1586 @@
+> MN632564.1 Rinderpest morbillivirus strain Lap/PIADC/84 isolate RPV026, complete genome 
+ length: 15882bp 
+> MN632565.1 Rinderpest morbillivirus strain Lap/PIADC/84 isolate RPV026p1, complete genome 
+ length: 15882bp 
+> MN632567.1 Rinderpest morbillivirus strain Lap/AVRI isolate RPV029, complete genome 
+ length: 15882bp 
+> MN632570.1 Rinderpest morbillivirus strain Lap/PIADC/82p1 isolate RPV033p1, complete genome 
+ length: 15882bp 
+> MN632571.1 Rinderpest morbillivirus strain Lap/EAVRO isolate RPV034, complete genome 
+ length: 15882bp 
+> MN632605.1 Rinderpest morbillivirus strain Lap/AVRIp12B95 isolate RPV087, complete genome 
+ length: 15882bp 
+> MN632606.1 Rinderpest morbillivirus strain Lap/AVRIp8B95 isolate RPV089, complete genome 
+ length: 15882bp 
+> MN632630.1 Rinderpest morbillivirus strain Lap/AVRIp1B95 isolate RPV122, complete genome 
+ length: 15882bp 
+> MN632633.1 Rinderpest morbillivirus strain Lap/AVRIp1B95 isolate RPV126, complete genome 
+ length: 15882bp 
+> MN632644.1 Rinderpest morbillivirus strain Lap/AVRIp4B95 isolate RPV142, complete genome 
+ length: 15882bp 
+> MN632655.1 Rinderpest morbillivirus strain Lap/Japan/LA isolate RPV155, complete genome 
+ length: 15882bp 
+> HG934338.1 Avian metapneumovirus type C complete genome, strain Muscovy duck/1999/99178/France 
+ length: 14152bp 
+> MG137430.1 Equine arteritis virus strain KY84_Stallion_D84, complete genome 
+ length: 12704bp 
+> MG137431.1 Equine arteritis virus strain KY84_Stallion_D94, complete genome 
+ length: 12704bp 
+> MG137432.1 Equine arteritis virus strain KY84_Stallion_E84, complete genome 
+ length: 12704bp 
+> MG137433.1 Equine arteritis virus strain KY84_Stallion_E91, complete genome 
+ length: 12704bp 
+> MG137434.1 Equine arteritis virus strain KY84-L136A-BC6, complete genome 
+ length: 12704bp 
+> MG137435.1 Equine arteritis virus strain KY84-L136A-NS6, complete genome 
+ length: 12704bp 
+> MG137436.1 Equine arteritis virus strain KY84-L136A-S5, complete genome 
+ length: 12704bp 
+> MG137437.1 Equine arteritis virus strain KY84-L136A-S9, complete genome 
+ length: 12704bp 
+> MG137438.1 Equine arteritis virus strain KY84-L136A-S107, complete genome 
+ length: 12704bp 
+> MG137439.1 Equine arteritis virus strain KY84-L136A-S170, complete genome 
+ length: 12704bp 
+> MG137440.1 Equine arteritis virus strain KY84-L136A-S380, complete genome 
+ length: 12704bp 
+> MG137441.1 Equine arteritis virus strain KY84-L136A-S548, complete genome 
+ length: 12704bp 
+> MG137442.1 Equine arteritis virus strain KY84-L136A-S726, complete genome 
+ length: 12704bp 
+> MG137443.1 Equine arteritis virus strain KY84-L137B-BC6, complete genome 
+ length: 12704bp 
+> MG137444.1 Equine arteritis virus strain KY84-L137B-NS6, complete genome 
+ length: 12704bp 
+> MG137445.1 Equine arteritis virus strain KY84-L137B-S5, complete genome 
+ length: 12704bp 
+> MG137446.1 Equine arteritis virus strain KY84-L137B-S9, complete genome 
+ length: 12704bp 
+> MG137447.1 Equine arteritis virus strain KY84-L137B-S107, complete genome 
+ length: 12704bp 
+> MG137448.1 Equine arteritis virus strain KY84-L138C-BC6, complete genome 
+ length: 12704bp 
+> MG137449.1 Equine arteritis virus strain KY84-L138C-NS6, complete genome 
+ length: 12704bp 
+> MG137450.1 Equine arteritis virus strain KY84-L138C-S5, complete genome 
+ length: 12704bp 
+> MG137451.1 Equine arteritis virus strain KY84-L138C-S9, complete genome 
+ length: 12704bp 
+> MG137452.1 Equine arteritis virus strain KY84-L138C-S107, complete genome 
+ length: 12704bp 
+> MG137453.1 Equine arteritis virus strain KY84-L139D-BC6, complete genome 
+ length: 12704bp 
+> MG137454.1 Equine arteritis virus strain KY84-L139D-NS6, complete genome 
+ length: 12704bp 
+> MG137455.1 Equine arteritis virus strain KY84-L139D-S5, complete genome 
+ length: 12704bp 
+> MG137456.1 Equine arteritis virus strain KY84-L139D-S9, complete genome 
+ length: 12704bp 
+> MG137457.1 Equine arteritis virus strain KY84-L139D-S107, complete genome 
+ length: 12704bp 
+> MG137458.1 Equine arteritis virus strain KY84-L139D-S170, complete genome 
+ length: 12704bp 
+> MG137459.1 Equine arteritis virus strain KY84-L139D-S345, complete genome 
+ length: 12704bp 
+> MG137460.1 Equine arteritis virus strain KY84-L140E-BC6, complete genome 
+ length: 12704bp 
+> MG137461.1 Equine arteritis virus strain KY84-L140E-NS6, complete genome 
+ length: 12704bp 
+> MG137462.1 Equine arteritis virus strain KY84-L140E-S5, complete genome 
+ length: 12704bp 
+> MG137463.1 Equine arteritis virus strain KY84-L140E-S9, complete genome 
+ length: 12704bp 
+> MG137464.1 Equine arteritis virus strain KY84-L140E-S107, complete genome 
+ length: 12704bp 
+> MG137465.1 Equine arteritis virus strain KY84-L140E-S170, complete genome 
+ length: 12704bp 
+> MG137466.1 Equine arteritis virus strain KY84-L140E-S380, complete genome 
+ length: 12704bp 
+> MG137467.1 Equine arteritis virus strain KY84-L140E-S548, complete genome 
+ length: 12704bp 
+> MG137468.1 Equine arteritis virus strain KY84-L140E-S726, complete genome 
+ length: 12704bp 
+> MG137469.1 Equine arteritis virus strain KY84-L141F-BC6, complete genome 
+ length: 12704bp 
+> MG137470.1 Equine arteritis virus strain KY84-L141F-NS6, complete genome 
+ length: 12704bp 
+> MG137471.1 Equine arteritis virus strain KY84-L141F-S5, complete genome 
+ length: 12704bp 
+> MG137472.1 Equine arteritis virus strain KY84-L141F-S9, complete genome 
+ length: 12704bp 
+> MG137473.1 Equine arteritis virus strain KY84-L141F-S107, complete genome 
+ length: 12704bp 
+> MG137474.1 Equine arteritis virus strain KY84-L141F-S170, complete genome 
+ length: 12704bp 
+> MG137475.1 Equine arteritis virus strain KY84-L141F-S345, complete genome 
+ length: 12704bp 
+> MG137476.1 Equine arteritis virus strain KY84-L142G-BC6, complete genome 
+ length: 12704bp 
+> MG137477.1 Equine arteritis virus strain KY84-L142G-NS6, complete genome 
+ length: 12704bp 
+> MG137478.1 Equine arteritis virus strain KY84-L142G-S5, complete genome 
+ length: 12704bp 
+> MG137479.1 Equine arteritis virus strain KY84-L142G-S9, complete genome 
+ length: 12704bp 
+> MG137480.1 Equine arteritis virus strain KY84-L142G-S107, complete genome 
+ length: 12704bp 
+> MG137481.1 Equine arteritis virus strain KY84-L142G-S170, complete genome 
+ length: 12704bp 
+> AF531433.1 Classical swine fever virus strain HCLV, complete genome 
+ length: 12310bp 
+> KT355592.1 Bovine viral diarrhea virus type 1b strain HP-KY-RK13, complete genome 
+ length: 12271bp 
+> EF569215.1 Expression vector PPV-NK-GFP, complete sequence 
+ length: 10712bp 
+> EF569214.1 Expression vector PPV-D, complete sequence 
+ length: 9975bp 
+> GU253313.1 Lentivirus shuttle vector pLV.pA+.GS.Luc, complete sequence 
+ length: 9698bp 
+> L03561.2 Human T Cell Lymphotropic Virus I complete genome 
+ length: 9043bp 
+> L03562.2 Human T cell lymphotrophic virus type I (HTLV-I) (gag, env, rex, tat) genes, complete cds; (pol) gene, 3' end 
+ length: 9033bp 
+> NC_003983.1 Equine rhinitis B virus 1, complete genome 
+ length: 8828bp 
+> AF361253.1 Equine rhinovirus 3 strain P313/75, complete genome 
+ length: 8821bp 
+> GU253312.1 Lentivirus shuttle vector pLV.pA+.GS.DsRed, complete sequence 
+ length: 8709bp 
+> AJ866991.1 Rabbit vesivirus complete virion genome 
+ length: 8380bp 
+> NC_008580.1 Rabbit vesivirus, complete genome 
+ length: 8380bp 
+> KT325852.1 Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome 
+ length: 8364bp 
+> MK816960.1 Cloning vector pKF-D2irTNP2AG-T2APuroR-5kwh, complete sequence 
+ length: 8198bp 
+> DQ533483.2 Foot-and-mouth disease virus - type Asia 1 strain ZB/CHA/58(att), complete genome 
+ length: 8193bp 
+> JF303889.1 Cottontail rabbit papillomavirus strain Hershey, complete genome 
+ length: 7871bp 
+> MN061492.1 Rabbit hemorrhagic disease virus 2 isolate RHDV2-NL2016, complete genome 
+ length: 7473bp 
+> KM878681.1 Rabbit hemorrhagic disease virus isolate RHDV-N11, complete genome 
+ length: 7472bp 
+> AF258618.2 Rabbit hemorrhagic disease virus isolate Iowa2000, complete genome 
+ length: 7467bp 
+> DQ205345.1 Rabbit hemorrhagic disease virus strain JX/CHA/97 polyprotein (RHDV), major capsid protein VP60 (VP60), and structural protein VP12 (VP12) mRNAs, complete cds 
+ length: 7464bp 
+> MN901451.1 Rabbit hemorrhagic disease virus 2 strain Bremerhaven-17 polyprotein and VP10 genes, complete cds 
+ length: 7464bp 
+> JF412629.1 Rabbit hemorrhagic disease virus isolate HYD, complete genome 
+ length: 7449bp 
+> EU003578.1 Rabbit hemorrhagic disease virus isolate IN-05, complete genome 
+ length: 7447bp 
+> EU003582.1 Rabbit hemorrhagic disease virus isolate UT-01, complete genome 
+ length: 7447bp 
+> EU003579.1 Rabbit hemorrhagic disease virus isolate Italy-90, complete genome 
+ length: 7445bp 
+> EU003581.1 Rabbit hemorrhagic disease virus isolate NY-01, complete genome 
+ length: 7445bp 
+> MF407654.1 Rabbit hemorrhagic disease virus isolate PSM2, complete genome 
+ length: 7442bp 
+> MF407656.1 Rabbit hemorrhagic disease virus isolate CBMad17-2, complete genome 
+ length: 7442bp 
+> MF407657.1 Rabbit hemorrhagic disease virus isolate CBMad17-3, complete genome 
+ length: 7442bp 
+> KX844830.1 Rabbit hemorrhagic disease virus isolate SCH04, complete genome 
+ length: 7441bp 
+> KY235678.1 Rabbit hemorrhagic disease virus isolate Korea/2719, complete genome 
+ length: 7441bp 
+> DQ189077.1 Rabbit hemorrhagic disease virus from Bahrain, complete genome 
+ length: 7439bp 
+> EF558574.1 Rabbit hemorrhagic disease virus strain Wika, complete genome 
+ length: 7439bp 
+> EF558578.1 Rabbit hemorrhagic disease virus strain Eisenhuttenstadt, complete genome 
+ length: 7439bp 
+> EF558584.1 Rabbit hemorrhagic disease virus strain Rossi, complete genome 
+ length: 7439bp 
+> EF558576.1 Rabbit hemorrhagic disease virus strain Jena, complete genome 
+ length: 7439bp 
+> EF558577.1 Rabbit hemorrhagic disease virus strain Meiningen, complete genome 
+ length: 7439bp 
+> KY235675.1 Rabbit hemorrhagic disease virus isolate QC/Canada/WIN-AH-2016-OTH-0018, complete genome 
+ length: 7439bp 
+> KY235677.1 Rabbit hemorrhagic disease virus isolate Mexico/2718, complete genome 
+ length: 7439bp 
+> EF558580.1 Rabbit hemorrhagic disease virus strain NZ61, complete genome 
+ length: 7438bp 
+> KY171748.1 Rabbit hemorrhagic disease virus strain Sch07, complete genome 
+ length: 7438bp 
+> M67473.1 Rabbit hemorrhagic disease virus-FRG, complete genome 
+ length: 7437bp 
+> Z29514.1 RHDV-SD complete genome 
+ length: 7437bp 
+> X87607.1 RHDV-BS89 complete genome 
+ length: 7437bp 
+> U54983.1 RHDV-V351, complete genome 
+ length: 7437bp 
+> NC_001543.1 Rabbit hemorrhagic disease virus-FRG, complete genome 
+ length: 7437bp 
+> AY523410.1 Rabbit hemorrhagic disease virus isolate CD/China, complete genome 
+ length: 7437bp 
+> DQ280493.1 Rabbit hemorrhagic disease virus, complete genome 
+ length: 7437bp 
+> EF363035.1 Rabbit hemorrhagic disease virus clone pJG-RHDV-DD06, complete genome 
+ length: 7437bp 
+> EF558586.1 Rabbit hemorrhagic disease virus strain Hartmannsdorf, complete genome 
+ length: 7437bp 
+> AB300693.2 Rabbit hemorrhagic disease virus genomic RNA, complete genome 
+ length: 7437bp 
+> HM623309.1 Rabbit hemorrhagic disease virus isolate NJ-2009, complete genome 
+ length: 7437bp 
+> KY437668.1 Rabbit hemorrhagic disease virus strain HB, complete genome 
+ length: 7437bp 
+> MH190418.1 Rabbit hemorrhagic disease virus strain lagovirus europaeus/GI.1d/O cun/FR/2000/00-21, complete genome 
+ length: 7437bp 
+> MG602006.1 Rabbit hemorrhagic disease virus strain RED2016 polyprotein and minor stuctural protein genes, complete cds 
+ length: 7437bp 
+> MG602007.1 Rabbit hemorrhagic disease virus strain VMS polyprotein and minor structural protein genes, complete cds 
+ length: 7437bp 
+> KY235676.1 Rabbit hemorrhagic disease virus isolate MB/Canada/WIN-AH-2011-OTH-026, complete genome 
+ length: 7436bp 
+> MF407651.1 Rabbit hemorrhagic disease virus isolate CBPico17-1, complete genome 
+ length: 7433bp 
+> MF407652.1 Rabbit hemorrhagic disease virus isolate CBPico17-2, complete genome 
+ length: 7433bp 
+> MH204883.1 Hare calicivirus strain E15-431, complete genome 
+ length: 7433bp 
+> MF407653.1 Rabbit hemorrhagic disease virus isolate 16PLM1, complete genome 
+ length: 7430bp 
+> KF677011.2 Rabbit hemorrhagic disease virus strain STR2012, complete genome 
+ length: 7428bp 
+> KP144789.2 Rabbit hemorrhagic disease virus strain PD 1989, complete genome 
+ length: 7428bp 
+> KP144790.2 Rabbit hemorrhagic disease virus strain KGM 1988, complete genome 
+ length: 7428bp 
+> KP144792.2 Rabbit hemorrhagic disease virus strain BLA 1994, complete genome 
+ length: 7428bp 
+> KU882092.1 Rabbit hemorrhagic disease virus strain GSK, complete genome 
+ length: 7428bp 
+> KU882093.1 Rabbit hemorrhagic disease virus strain MAL, complete genome 
+ length: 7428bp 
+> KU882094.1 Rabbit hemorrhagic disease virus strain OPO, complete genome 
+ length: 7428bp 
+> KU882095.1 Rabbit hemorrhagic disease virus strain ZD0, complete genome 
+ length: 7428bp 
+> KP144791.2 Rabbit hemorrhagic disease virus strain GRZ 2004, complete genome 
+ length: 7428bp 
+> KY319031.1 Rabbit hemorrhagic disease virus strain BIE 2015, complete genome 
+ length: 7428bp 
+> KY319032.1 Rabbit hemorrhagic disease virus strain GLE 2013, complete genome 
+ length: 7428bp 
+> KY319033.1 Rabbit hemorrhagic disease virus strain KRY, complete genome 
+ length: 7428bp 
+> KY319034.1 Rabbit hemorrhagic disease virus strain SKO 2013, complete genome 
+ length: 7428bp 
+> KY319035.1 Rabbit hemorrhagic disease virus strain W147/05, complete genome 
+ length: 7428bp 
+> KY679902.1 Rabbit hemorrhagic disease virus strain L145, complete genome 
+ length: 7428bp 
+> KY679903.1 Rabbit hemorrhagic disease virus strain RED1-2013, complete genome 
+ length: 7428bp 
+> KY679904.1 Rabbit hemorrhagic disease virus strain STR2-2013, complete genome 
+ length: 7428bp 
+> KY679905.1 Rabbit hemorrhagic disease virus strain STR2014, complete genome 
+ length: 7428bp 
+> MG602005.1 Rabbit hemorrhagic disease virus strain BBI polyprotein and minor structural protein genes, complete cds 
+ length: 7428bp 
+> EF558572.1 Rabbit hemorrhagic disease virus strain Frankfurt12, complete genome 
+ length: 7425bp 
+> EF558582.1 Rabbit hemorrhagic disease virus strain Dachswald, complete genome 
+ length: 7425bp 
+> EU871528.1 Rabbit calicivirus Australia 1 MIC-07, complete genome 
+ length: 7422bp 
+> NC_011704.1 Rabbit calicivirus Australia 1 MIC-07, complete genome 
+ length: 7422bp 
+> KM979445.1 Rabbit hemorrhagic disease virus isolate CBVal16, complete genome 
+ length: 7421bp 
+> MF407655.1 Rabbit hemorrhagic disease virus isolate CBMad17-1, complete genome 
+ length: 7421bp 
+> EF558575.1 Rabbit hemorrhagic disease virus strain Ascot, complete genome 
+ length: 7419bp 
+> EF558581.1 Rabbit hemorrhagic disease virus strain Erfurt, complete genome 
+ length: 7416bp 
+> EF558573.1 Rabbit hemorrhagic disease virus strain Frankfurt5, complete genome 
+ length: 7415bp 
+> EF558579.1 Rabbit hemorrhagic disease virus strain NZ54, complete genome 
+ length: 7405bp 
+> EF558583.1 Rabbit hemorrhagic disease virus strain Triptis, complete genome 
+ length: 7403bp 
+> GQ166866.1 Rabbit calicivirus strain MRCV polyprotein gene, partial cds; and VP12 gene, complete cds 
+ length: 7387bp 
+> KT006745.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Bulgania/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7387bp 
+> KT006724.1 Rabbit hemorrhagic disease virus isolate NZL/Canterbury/Hawarden/320/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006731.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/Hall/WAT1-13/2007 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006732.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/Murrumbateman/BlueGums/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006733.1 Rabbit hemorrhagic disease virus isolate AUS/WA/Gnowangerup/1999 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006734.1 Rabbit hemorrhagic disease virus isolate AUS/SA/FlindersRanges/1999 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006735.1 Rabbit hemorrhagic disease virus isolate AUS/WA/Bunbury/2000 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006736.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Robe/2000 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006739.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Coorong/2004 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006740.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BillaKallina/2004 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006741.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Woodcroft/2005 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006742.1 Rabbit hemorrhagic disease virus isolate AUS/SA/FlindersRanges/2006 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006743.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/SouthArm/2007 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006746.1 Rabbit hemorrhagic disease virus isolate AUS/WA/WonganHills/2012 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006747.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/Grafton/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT344770.1 Rabbit hemorrhagic disease virus isolate AUS/CSIRO/Master polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT344771.1 Rabbit hemorrhagic disease virus isolate AUS/CSIRO/Working polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT344772.1 Rabbit hemorrhagic disease virus isolate AUS/CSIRO/Release polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT344773.1 Rabbit hemorrhagic disease virus isolate AUS/EMAI/Batch-1A polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT344774.1 Rabbit hemorrhagic disease virus isolate AUS/EMAI/Batch-1D polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT344775.1 Rabbit hemorrhagic disease virus isolate NZL/V351/Control polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357653.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/AIN-1/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357654.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/AIN-2/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357670.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/MtPt-2/2010 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357671.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/MtPt-4/2010 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357672.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/PI-1/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357677.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/M2/2007 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357678.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/M9/2007 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357695.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ORA383/2008 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KX357706.1 Rabbit hemorrhagic disease virus isolate AUS/WA/B.Hill/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7386bp 
+> KT006738.1 Rabbit hemorrhagic disease virus isolate AUS/SA/OneTreeHill/2003 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7385bp 
+> KT280060.1 Rabbit hemorrhagic disease virus isolate BLMT-1 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7385bp 
+> MF421574.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MEA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421575.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MUN-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421577.1 Rabbit hemorrhagic disease virus isolate AUS/SA/WIT-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421578.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/HAM-4/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421580.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/ARA-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421581.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/TUG-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421582.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/TUG-3/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421585.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/MFBM-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421589.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/RUS-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421593.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BRH-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421595.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/SGA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421597.1 Rabbit hemorrhagic disease virus isolate AUS/SA/PAR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421598.1 Rabbit hemorrhagic disease virus isolate AUS/SA/CRA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421599.1 Rabbit hemorrhagic disease virus isolate AUS/SA/LYN-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421600.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MUN-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421602.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MAC-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421603.1 Rabbit hemorrhagic disease virus isolate AUS/SA/KAL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421604.1 Rabbit hemorrhagic disease virus isolate AUS/SA/KAL-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421605.1 Rabbit hemorrhagic disease virus isolate AUS/SA/LH-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421606.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MAC-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421607.1 Rabbit hemorrhagic disease virus isolate AUS/SA/CV-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421608.1 Rabbit hemorrhagic disease virus isolate AUS/SA/TUR-1607/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421609.1 Rabbit hemorrhagic disease virus isolate AUS/SA/TUR-1606/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421610.1 Rabbit hemorrhagic disease virus isolate AUS/SA/STR-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421611.1 Rabbit hemorrhagic disease virus isolate AUS/SA/KAL-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421612.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MTO-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421613.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BLAK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421614.1 Rabbit hemorrhagic disease virus isolate AUS/SA/WS-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421615.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MTO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421616.1 Rabbit hemorrhagic disease virus isolate AUS/SA/LEA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421617.1 Rabbit hemorrhagic disease virus isolate AUS/SA/CRK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421618.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BRA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421619.1 Rabbit hemorrhagic disease virus isolate AUS/SA/COL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421620.1 Rabbit hemorrhagic disease virus isolate AUS/SA/COL-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421621.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ORO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421622.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/HAM-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421623.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/HAM-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421626.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/HAM-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421627.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/BAH-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421628.1 Rabbit hemorrhagic disease virus isolate AUS/WA/PIC-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421629.1 Rabbit hemorrhagic disease virus isolate AUS/WA/CHI-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421630.1 Rabbit hemorrhagic disease virus isolate AUS/WA/CHI-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421631.1 Rabbit hemorrhagic disease virus isolate AUS/WA/PIC-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421632.1 Rabbit hemorrhagic disease virus isolate AUS/WA/WNN-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421633.1 Rabbit hemorrhagic disease virus isolate AUS/WA/MTBA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421634.1 Rabbit hemorrhagic disease virus isolate AUS/WA/MTBA-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421639.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/TAR-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421640.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/MER-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421641.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BOC-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421642.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/COW-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421643.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/ORAN-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421644.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/WES-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421645.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/EOR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421646.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/HIL-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421647.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BRO-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421648.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BRO-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421649.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BEGA-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421650.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BEGA-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421652.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/GOU-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421653.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BERK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421654.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/SWI-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421655.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/COB-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421656.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/MOL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421657.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/KUL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421659.1 Rabbit hemorrhagic disease virus isolate AUS/NT/DAR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421660.1 Rabbit hemorrhagic disease virus isolate AUS/NT/ASP-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421661.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MBR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421662.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ADL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421663.1 Rabbit hemorrhagic disease virus isolate AUS/SA/NUR-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421664.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ONK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421665.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MUN-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421666.1 Rabbit hemorrhagic disease virus isolate AUS/SA/MIL-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421667.1 Rabbit hemorrhagic disease virus isolate AUS/SA/NAI-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421668.1 Rabbit hemorrhagic disease virus isolate AUS/SA/ROB-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421669.1 Rabbit hemorrhagic disease virus isolate AUS/SA/REY-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421670.1 Rabbit hemorrhagic disease virus isolate AUS/SA/REY-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421671.1 Rabbit hemorrhagic disease virus isolate AUS/SA/KOO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421672.1 Rabbit hemorrhagic disease virus isolate AUS/SA/GLE-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421673.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BAL-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421674.1 Rabbit hemorrhagic disease virus isolate AUS/SA/BAL-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421675.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/SPR-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421676.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/KERANG-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421677.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/WAN-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421678.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/WIL-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421679.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/WIL-2/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421680.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/NEW-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421681.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/NEW-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421682.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/NEW-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421683.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/WAR-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421686.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/DUN-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421688.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/DUN-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421689.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/AWA-4/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421691.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/AWA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421692.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/STO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421693.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/MLB-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421695.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/DON-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421696.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/CAM-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421697.1 Rabbit hemorrhagic disease virus isolate AUS/WA/YOR-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421698.1 Rabbit hemorrhagic disease virus isolate AUS/WA/PTH-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421699.1 Rabbit hemorrhagic disease virus isolate AUS/WA/ALB-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421700.1 Rabbit hemorrhagic disease virus isolate AUS/WA/LES-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7385bp 
+> MF421576.1 Rabbit hemorrhagic disease virus isolate AUS/SA/TIN-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421579.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/ATH-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421583.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/HACK-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421584.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/BLMT-6/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421587.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/MAJ-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421588.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BIB-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421590.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/KYE-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421591.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/KYE-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421592.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BG-5/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421594.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BG-6/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421596.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BG-7/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421624.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/TAW-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421625.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/TAW-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421636.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/HAR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421637.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/THE-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421638.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/BON-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421651.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/FC-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421658.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/CAR-4/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421684.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/AC-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421685.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/AC-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421690.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/THO-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> MF421694.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/CLC-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7384bp 
+> EU003580.1 Rabbit hemorrhagic disease virus isolate Korea-90 polyprotein gene, partial cds; and hypothetical protein gene, complete cds 
+ length: 7383bp 
+> KT006721.1 Rabbit hemorrhagic disease virus isolate NZL/Canterbury/Lincoln/517/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006722.1 Rabbit hemorrhagic disease virus isolate NZL/Canterbury/MackenzieBasin/95/2012 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006723.1 Rabbit hemorrhagic disease virus isolate NZL/HawkesBay/BoundaryStream/94/2012 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006725.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Queensberry/74/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006726.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Taras/61/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006727.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Luggate/67/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006728.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Alexandra/64/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006729.1 Rabbit hemorrhagic disease virus isolate NZL/Otago/Wanaka/63/2014 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006730.1 Rabbit hemorrhagic disease virus isolate NZL/Canterbury/MackenzieBasin/322/2013 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006737.1 Rabbit hemorrhagic disease virus isolate AUS/SA/FlindersRanges/2002 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7383bp 
+> KT006744.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Hillbank/2008 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7382bp 
+> EF558585.1 Rabbit hemorrhagic disease virus strain Hagenow polyprotein gene, partial cds; and minor capsid protein gene, complete cds 
+ length: 7381bp 
+> KX357667.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/GUN1-37/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7380bp 
+> KX357668.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/GUN1-52/2009 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7380bp 
+> MF421586.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/WC-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7380bp 
+> MF421601.1 Rabbit hemorrhagic disease virus isolate AUS/SA/COO-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7379bp 
+> MF421635.1 Rabbit hemorrhagic disease virus isolate AUS/WA/WNP-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7379bp 
+> MF421687.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/DUN-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7379bp 
+> MF421567.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7378bp 
+> MF421568.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7378bp 
+> MF421571.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7378bp 
+> MF421572.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-4/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7378bp 
+> MF421573.1 Rabbit hemorrhagic disease virus isolate AUS/WA/GER-5/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7378bp 
+> KT280058.1 Rabbit hemorrhagic disease virus isolate BlueGums-2 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7376bp 
+> KT280059.1 Rabbit hemorrhagic disease virus isolate BLMT-2 polyprotein gene, partial cds; and minor structural protein gene, complete cds 
+ length: 7376bp 
+> MF421563.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/BLMT-3/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7376bp 
+> MF421564.1 Rabbit hemorrhagic disease virus isolate AUS/ACT/AIN-3/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7376bp 
+> KY628307.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-1/2013/12 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7376bp 
+> KY628318.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/OUR-1/2014/06 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7376bp 
+> KY628319.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/OUR-2/2014/06 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7376bp 
+> MF598301.1 Rabbit hemorrhagic disease virus isolate K5_08Q712_BatchRelease1/2008 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7376bp 
+> MF598302.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/CAR-3/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7376bp 
+> MF421565.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/BRK-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7375bp 
+> MF421566.1 Rabbit hemorrhagic disease virus isolate AUS/VIC/CWS-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7375bp 
+> MF421569.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/GRA-1/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7375bp 
+> MF421570.1 Rabbit hemorrhagic disease virus isolate AUS/TAS/GEE-2/2016 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7375bp 
+> JX886001.1 Rabbit hemorrhagic disease virus isolate CB194_Pt, complete genome 
+ length: 7369bp 
+> JX886002.1 Rabbit hemorrhagic disease virus isolate CB137_Pt, complete genome 
+ length: 7369bp 
+> KM115712.2 Rabbit hemorrhagic disease virus isolate CBMert14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7369bp 
+> KM115713.2 Rabbit hemorrhagic disease virus isolate CBMert14-2 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7369bp 
+> KM115714.2 Rabbit hemorrhagic disease virus isolate CBAlgarve14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7369bp 
+> KM115715.2 Rabbit hemorrhagic disease virus isolate CBAlgarve14-3 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7369bp 
+> KM115716.2 Rabbit hemorrhagic disease virus isolate CBAlgarve14-4 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7369bp 
+> KJ943791.2 Rabbit hemorrhagic disease virus isolate P95, complete genome 
+ length: 7369bp 
+> MH159170.1 Rabbit hemorrhagic disease virus isolate A17-62 polyprotein and minor structural protein genes, complete cds 
+ length: 7369bp 
+> MH159171.1 Rabbit hemorrhagic disease virus isolate A17-69 polyprotein and minor structural protein genes, complete cds 
+ length: 7369bp 
+> MH159172.1 Rabbit hemorrhagic disease virus isolate A17-63 polyprotein and minor structural protein genes, complete cds 
+ length: 7369bp 
+> MH159173.1 Rabbit hemorrhagic disease virus isolate A17-73 polyprotein and minor structural protein genes, complete cds 
+ length: 7369bp 
+> KY765609.1 Rabbit hemorrhagic disease virus isolate P16 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> KY765610.1 Rabbit hemorrhagic disease virus isolate P19 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> KY765611.1 Rabbit hemorrhagic disease virus isolate P30 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> MG763936.1 Rabbit hemorrhagic disease virus isolate SOS089 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> MG763937.1 Rabbit hemorrhagic disease virus isolate SOS125 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> MG763938.1 Rabbit hemorrhagic disease virus isolate SOS129 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> MG763939.1 Rabbit hemorrhagic disease virus isolate SOS133 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> MG763947.1 Rabbit hemorrhagic disease virus isolate SOS158 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> MG763953.1 Rabbit hemorrhagic disease virus isolate SOS474 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7366bp 
+> MG763940.1 Rabbit hemorrhagic disease virus isolate SOS137 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7363bp 
+> MG763948.1 Rabbit hemorrhagic disease virus isolate SOS164 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7363bp 
+> KF442961.2 Rabbit hemorrhagic disease virus isolate Algarve1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KF442962.2 Rabbit hemorrhagic disease virus isolate Algarve3 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KF442963.2 Rabbit hemorrhagic disease virus isolate 7-13_Barrancos polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KF442964.2 Rabbit hemorrhagic disease virus isolate 10A-13_Barrancos polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KM115680.2 Rabbit hemorrhagic disease virus isolate CBEstoi13-7 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KM115681.2 Rabbit hemorrhagic disease virus isolate CBEstremoz14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KM115682.2 Rabbit hemorrhagic disease virus isolate CBEstremoz14-3 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KM115683.2 Rabbit hemorrhagic disease virus isolate CBMora14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KM115689.2 Rabbit hemorrhagic disease virus isolate CBMontemor14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KM115697.2 Rabbit hemorrhagic disease virus isolate CBCoruche14-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KM115698.2 Rabbit hemorrhagic disease virus isolate CBCoruche14-2 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> KM115711.2 Rabbit hemorrhagic disease virus isolate CBLavra10-13-1 polyprotein and minor structural protein (VP10) genes, complete cds 
+ length: 7360bp 
+> MF421701.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/YAR-1/2015 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7357bp 
+> MG763941.1 Rabbit hemorrhagic disease virus isolate SOS140 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7357bp 
+> MG763942.1 Rabbit hemorrhagic disease virus isolate SOS148 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7357bp 
+> MG763944.1 Rabbit hemorrhagic disease virus isolate SOS150 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7357bp 
+> MG763946.1 Rabbit hemorrhagic disease virus isolate SOS155 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7357bp 
+> MG763950.1 Rabbit hemorrhagic disease virus isolate SOS404 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7357bp 
+> MG763951.1 Rabbit hemorrhagic disease virus isolate SOS468 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7357bp 
+> MG763952.1 Rabbit hemorrhagic disease virus isolate SOS473 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7357bp 
+> MG763954.1 Rabbit hemorrhagic disease virus isolate SOS492 polyprotein gene, complete cds; and VP10 gene, partial cds 
+ length: 7357bp 
+> KY628306.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/ANN-1/2014/04 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628308.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-10/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628310.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-3/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628311.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-4/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628312.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-8/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628313.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BLA-1/2014/07 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628314.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/GIR-1/2014/07 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628315.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/GIR-2/2014/07 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628316.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/KYO-1/2014/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628317.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/OAK-1/2015/02 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628320.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/WAL-1/2015/01 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> KY628309.1 Rabbit hemorrhagic disease virus isolate AUS/NSW/BER-2/2013/12 polyprotein gene, partial cds; and VP10 gene, complete cds 
+ length: 7323bp 
+> FJ906895.1 Hepatitis E virus isolate GDC9, complete genome 
+ length: 7318bp 
+> GU937805.1 Hepatitis E virus isolate ch-bj-n1, complete genome 
+ length: 7310bp 
+> AF295785.1 Rabbit hemorrhagic disease virus Mexico89 isolate polyprotein gene, partial cds; and structural protein VP12 gene, complete cds 
+ length: 7307bp 
+> AB740222.1 Hepatitis E virus RNA, complete genome, clone: rbIM004 
+ length: 7307bp 
+> JX565469.1 Hepatitis E virus isolate CMC-1, complete genome 
+ length: 7306bp 
+> AB740221.1 Hepatitis E virus RNA, complete genome, clone: rbIM022 
+ length: 7305bp 
+> KX227751.1 Hepatitis E virus isolate CHN-SX-rHEV, complete genome 
+ length: 7302bp 
+> MF480297.1 Hepatitis E virus strain rabbit/R42/GER/2013, complete genome 
+ length: 7302bp 
+> FJ906896.1 Hepatitis E virus isolate GDC46, complete genome 
+ length: 7301bp 
+> AB740220.1 Hepatitis E virus RNA, complete genome, clone: rbIM199 
+ length: 7300bp 
+> KY496200.1 Hepatitis E virus isolate KOR-Rb-1, complete genome 
+ length: 7300bp 
+> MK521927.1 Rabbit hemorrhagic disease virus 2 isolate Buckbys Road/Tasmania/Sarcophilus_harrisii/2017/DN120446 polyprotein gene, complete cds 
+ length: 7299bp 
+> LC484431.1 Hepatitis E virus rbIM223LR genomic RNA, complete genome 
+ length: 7297bp 
+> JQ768461.1 Hepatitis E virus isolate CHN-BJ-rb14, complete genome 
+ length: 7296bp 
+> JX109834.1 Hepatitis E virus isolate CHN-BJ-R14, complete genome 
+ length: 7296bp 
+> JX121233.1 Hepatitis E virus isolate CHN-BJ-R14, complete genome 
+ length: 7296bp 
+> KJ013414.1 Hepatitis E virus isolate CHN-BJ-r14(8), complete genome 
+ length: 7296bp 
+> KJ013415.1 Hepatitis E virus isolate CHN-BJ-r14(9), complete genome 
+ length: 7296bp 
+> MF480298.1 Hepatitis E virus strain rabbit/U46/GER/2013, complete genome 
+ length: 7283bp 
+> JQ013791.1 Hepatitis E virus strain W1-11 nonstructural polyprotein, viral accessory protein, and capsid protein genes, complete cds 
+ length: 7271bp 
+> MG783570.1 Hepatitis E virus isolate DLS13-11681, complete genome 
+ length: 7239bp 
+> JQ013792.1 Hepatitis E virus strain W7-57 nonstructural polyprotein, viral accessory protein, and capsid protein genes, complete cds 
+ length: 7238bp 
+> MG783569.1 Hepatitis E virus isolate DLS13-11677, complete genome 
+ length: 7237bp 
+> MG783571.1 Hepatitis E virus isolate DLS13-11685, complete genome 
+ length: 7208bp 
+> JF438967.2 Rabbit hemorrhagic disease virus strain G1 polyprotein gene, complete cds 
+ length: 7165bp 
+> MK895974.1 Rabbit hemorrhagic disease virus, complete genome 
+ length: 7035bp 
+> AJ318515.1 Cloning vector pHCMV-A-MLVenv, complete sequence 
+ length: 6792bp 
+> AB281497.1 Expression vector pCXGFP-1 DNA, complete sequence 
+ length: 6787bp 
+> NM_024996.7 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 2, mRNA; nuclear gene for mitochondrial product 
+ length: 6478bp 
+> AF480924.1 Homo sapiens rabbit endogenous retrovirus H, complete sequence 
+ length: 6440bp 
+> AJ318514.1 Cloning vector pHCMV-VSV-G, complete sequence 
+ length: 6363bp 
+> AJ318512.1 Cloning vector pHCMV-LCMV-GP(WE-HPI), complete sequence 
+ length: 6324bp 
+> AJ318513.1 Cloning vector pHCMV-LCMV-GP(WE), complete sequence 
+ length: 6324bp 
+> X16378.1 Turnip yellow mosaic virus complete RNA genome 
+ length: 6318bp 
+> AF480925.1 Oryctolagus cuniculus clone A rabbit endogenous retrovirus H, complete sequence 
+ length: 6300bp 
+> AF480926.1 Oryctolagus cuniculus clone B rabbit endogenous retrovirus H, complete sequence 
+ length: 6270bp 
+> LT727106.1 Mammalian expression vector pCAGGS-CrmA-T291R, complete sequence 
+ length: 6261bp 
+> LT727411.1 Mammalian expression vector pCAGGScrmA, complete sequence 
+ length: 6261bp 
+> LT727057.1 Mammalian expression vector pCAGGS-E-crmA, complete sequence 
+ length: 5912bp 
+> MN626416.1 Rabbit picorna-like virus isolate RPLV/L232 nonstructural polyprotein genes, partial cds; and structural polyprotein gene, complete cds 
+ length: 5742bp 
+> NM_001750.7 Homo sapiens calpastatin (CAST), transcript variant 1, mRNA 
+ length: 4490bp 
+> NM_001042442.3 Homo sapiens calpastatin (CAST), transcript variant 8, mRNA 
+ length: 4424bp 
+> NM_139015.5 Homo sapiens signal peptide peptidase like 3 (SPPL3), mRNA 
+ length: 4135bp 
+> DQ680832.1 Borna disease virus 1 nucleoprotein, X protein, phosphoprotein, matrix protein, and glycoprotein genes, complete cds 
+ length: 3916bp 
+> GQ898899.1 Human herpesvirus 1 isolate 766 glycoprotein G and glycoprotein I genes, complete cds; and glycoprotein E gene, partial cds 
+ length: 3748bp 
+> GQ898901.1 Human herpesvirus 1 isolate T1634 glycoprotein G and glycoprotein I genes, complete cds; and glycoprotein E gene, partial cds 
+ length: 3742bp 
+> GQ898900.1 Human herpesvirus 1 isolate 440 glycoprotein G and glycoprotein I genes, complete cds; and glycoprotein E gene, partial cds 
+ length: 3721bp 
+> M63902.1 Rabbit fibroma virus capping enzyme large subunit (D3R), ORF-D4L, and ORF-D5R, complete cds 
+ length: 3660bp 
+> NM_001374357.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 6, mRNA; nuclear gene for mitochondrial product 
+ length: 3635bp 
+> NM_001402.6 Homo sapiens eukaryotic translation elongation factor 1 alpha 1 (EEF1A1), mRNA 
+ length: 3512bp 
+> NM_001374355.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 4, mRNA; nuclear gene for mitochondrial product 
+ length: 3388bp 
+> NR_164499.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 11, non-coding RNA 
+ length: 3384bp 
+> NM_001374356.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 5, mRNA; nuclear gene for mitochondrial product 
+ length: 3352bp 
+> NR_164502.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 14, non-coding RNA 
+ length: 3348bp 
+> NR_164500.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 12, non-coding RNA 
+ length: 3324bp 
+> AM111353.1 Infectious bursal disease virus segment A, complete sequence, genomic RNA 
+ length: 3262bp 
+> MG489892.1 Mutant Infectious bursal disease virus strain AvvBvv segment A, complete sequence 
+ length: 3252bp 
+> NM_001374359.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 8, mRNA; nuclear gene for mitochondrial product 
+ length: 3131bp 
+> NM_001374360.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 9, mRNA; nuclear gene for mitochondrial product 
+ length: 3077bp 
+> DQ187007.1 Torque teno virus clone BM2C-25 ORF2 (ORF2) gene, complete cds; and nonfunctional ORF1 (ORF1) gene, complete sequence 
+ length: 3066bp 
+> DQ187004.1 Torque teno virus clone BM1C-16 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3065bp 
+> DQ187005.1 Torque teno virus clone BM1C-10 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3064bp 
+> DQ187006.1 Torque teno virus 9 clone BM1C-18 ORF2 (ORF2) gene, complete cds; and nonfunctional ORF1 (ORF1) gene, complete sequence 
+ length: 3064bp 
+> NC_038337.1 Torque teno virus 9 clone BM1C-18 ORF2 (ORF2) gene, complete cds; and nonfunctional ORF1 (ORF1) gene, complete sequence 
+ length: 3064bp 
+> DQ186996.1 Torque teno virus clone BM1A-02 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3055bp 
+> DQ186997.1 Torque teno virus clone BM1A-09 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3055bp 
+> DQ186998.1 Torque teno virus clone BM1A-13 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3055bp 
+> NM_001374361.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 10, mRNA; nuclear gene for mitochondrial product 
+ length: 3014bp 
+> NM_001374358.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 7, mRNA; nuclear gene for mitochondrial product 
+ length: 3010bp 
+> DQ186999.1 Torque teno virus clone BM1B-05 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3006bp 
+> DQ187000.1 Torque teno virus clone BM1B-07 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3006bp 
+> DQ187001.1 Torque teno virus clone BM1B-11 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3006bp 
+> DQ187002.1 Torque teno virus clone BM1B-14 ORF2 (ORF2) and ORF1 (ORF1) genes, complete cds 
+ length: 3006bp 
+> DQ187003.1 Torque teno virus clone BM1B-08 ORF2 (ORF2) gene, complete cds; and nonfunctional ORF1 (ORF1) gene, complete sequence 
+ length: 3005bp 
+> DQ003341.1 Torque teno virus clone P2-9-02 ORF2 (ORF2), ORF1A (ORF1A), and ORF1B (ORF1B) genes, complete cds 
+ length: 2897bp 
+> DQ003342.1 Torque teno virus clone P2-9-07 ORF2 (ORF2), ORF1A (ORF1A), and ORF1B (ORF1B) genes, complete cds 
+ length: 2897bp 
+> DQ003343.1 Torque teno virus clone P2-9-08 ORF2 (ORF2), ORF1A (ORF1A), and ORF1B (ORF1B) genes, complete cds 
+ length: 2897bp 
+> DQ003344.1 Torque teno virus clone P2-9-16 ORF2 (ORF2), ORF1A (ORF1A), and ORF1B (ORF1B) genes, complete cds 
+ length: 2897bp 
+> FJ493031.1 Lepus europaeus endogenous virus Rabbit endogenous lentivirus type K nonfunctional pol protein gene, complete sequence 
+ length: 2881bp 
+> NR_164501.1 Homo sapiens G elongation factor mitochondrial 1 (GFM1), transcript variant 13, non-coding RNA 
+ length: 2869bp 
+> AM111354.1 Infectious bursal disease virus segment B, complete sequence, genomic RNA 
+ length: 2828bp 
+> MG489893.1 Mutant Infectious bursal disease virus strain AvvBvv segment B, complete sequence 
+ length: 2827bp 
+> AF065826.1 Equine arteritis virus isolate RS97 small envelope protein and nucleocapsid protein genes, complete cds; and unknown gene 
+ length: 2822bp 
+> AF259899.1 Human herpesvirus 1 glycoprotein B (UL27) gene, complete cds 
+ length: 2809bp 
+> L32180.1 Shope fibroma virus (M fragment) tyrosine phosphatase gene, complete cds 
+ length: 2705bp 
+> NM_004184.4 Homo sapiens tryptophanyl-tRNA synthetase 1 (WARS1), transcript variant 1, mRNA 
+ length: 2639bp 
+> KF061031.1 HIV-1 isolate CHILD_1 from Italy envelope glycoprotein gene, complete cds 
+ length: 2577bp 
+> KF061032.1 HIV-1 isolate CHILD_2 from Italy envelope glycoprotein gene, complete cds 
+ length: 2538bp 
+> M31723.1 Shope fibroma virus DNA topoisomerase gene, complete cds 
+ length: 2497bp 
+> D16217.1 Homo sapiens CAST mRNA for calpastatin, complete cds 
+ length: 2493bp 
+> Z24757.1 Rabbit hemorrhagic disease virus ORF1 and VP60 genes, complete CDS, and ORF1 gene, 3' end 
+ length: 2483bp 
+> NC_038919.1 Rabbit picobirnavirus genomic segment 1 (large), ORF1 for hypothetical protein 
+ length: 2362bp 
+> AY620244.1 Oryctolagus cuniculus ACAP2 (ACAP2) mRNA, complete cds 
+ length: 2344bp 
+> KX014900.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds 
+ length: 2341bp 
+> KU320884.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ length: 2314bp 
+> KX014883.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ length: 2314bp 
+> KX014891.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ length: 2314bp 
+> KX014899.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ length: 2314bp 
+> KU320886.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 2 polymerase PB1 (PB1) gene, complete cds 
+ length: 2309bp 
+> KU310444.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ length: 2307bp 
+> KX014884.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 2 polymerase PB1 (PB1) gene, complete cds; and nonfunctional PB1-F2 protein (PB1-F2) gene, complete sequence 
+ length: 2299bp 
+> KU310445.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds 
+ length: 2297bp 
+> KX014892.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds 
+ length: 2286bp 
+> KX014875.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 1 polymerase PB2 (PB2) gene, complete cds 
+ length: 2280bp 
+> KX014876.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds 
+ length: 2274bp 
+> M15806.1 Myxoma virus growth factor and M-T9 genes, complete cds 
+ length: 2269bp 
+> KU320885.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ length: 2210bp 
+> KX014901.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ length: 2208bp 
+> KX014885.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ length: 2206bp 
+> M35233.1 Myxoma virus MAP1 gene, complete cds, and M-T8 gene, 5' end 
+ length: 2204bp 
+> KU310446.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ length: 2200bp 
+> KX014893.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ length: 2191bp 
+> KX014877.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds 
+ length: 2151bp 
+> M22962.1 Herpes simplex virus type 1 capsid assembly and DNA maturation protein gene, complete cds 
+ length: 2098bp 
+> AY928268.1 Rabbit hemorrhagic disease virus isolate Ireland18 capsid protein (VP60) gene, complete cds 
+ length: 2085bp 
+> L48547.1 Rabbit haemorrhagic disease virus capsid protein mRNA, complete cds 
+ length: 2037bp 
+> D00047.1 Human parainfluenza virus 3 mRNA for phosphoprotein, nonstructural protein C, complete cds 
+ length: 2023bp 
+> FJ493032.1 Lepus europaeus isolate 1 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ length: 2019bp 
+> L26342.1 Rabbit fibroma virus N1R gene, complete cds 
+ length: 2005bp 
+> U00761.1 Rabbit fibroma virus ATP-dependent DNA ligase gene, complete cds 
+ length: 1942bp 
+> JX106023.1 Rabbit hemorrhagic disease virus isolate Vs11 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1772bp 
+> KT737802.1 Rabbit hemorrhagic disease virus isolate Co12 capsid protein (vp60) gene, complete cds 
+ length: 1772bp 
+> KJ957809.1 Rabbit hemorrhagic disease virus isolate Malta12_1 capsid protein VP60 gene, complete cds 
+ length: 1771bp 
+> GU196371.1 Oryctolagus cuniculus endogenous virus ERV syncytin-Ory1 gene, complete cds 
+ length: 1764bp 
+> KJ957810.1 Rabbit hemorrhagic disease virus isolate Malta12_2 capsid protein VP60 gene, complete cds 
+ length: 1762bp 
+> KU320887.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1751bp 
+> U49726.1 Rabbit hemorrhagic disease virus capsid protein mRNA, complete cds 
+ length: 1740bp 
+> AF231353.1 Rabbit hemorrhagic disease virus capsid protein VP60 mRNA, complete cds 
+ length: 1740bp 
+> AF453761.1 Rabbit hemorrhagic disease virus capsid structural protein VP60 (vp60) gene, complete cds 
+ length: 1740bp 
+> AY269825.1 Rabbit hemorrhagic disease virus isolate NJ/China/1985 capsid protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> DQ069280.1 Rabbit hemorrhagic disease virus whn/China/01/2005 capsid protein VP60 mRNA, complete cds 
+ length: 1740bp 
+> DQ069281.1 Rabbit hemorrhagic disease virus whn/China/02/2005 capsid protein VP60 mRNA, complete cds 
+ length: 1740bp 
+> DQ069282.1 Rabbit hemorrhagic disease virus whn/China/03/2005 capsid protein VP60 mRNA, complete cds 
+ length: 1740bp 
+> FJ807679.1 Synthetic construct capsid structural protein VP60 gene, complete cds 
+ length: 1740bp 
+> GU564448.1 Rabbit hemorrhagic disease virus capsid protein VP60 gene, complete cds 
+ length: 1740bp 
+> GU373617.1 Rabbit hemorrhagic disease virus isolate AIN-2 capsid protein gene, complete cds 
+ length: 1740bp 
+> GU373618.1 Rabbit hemorrhagic disease virus isolate PI-1 capsid protein gene, complete cds 
+ length: 1740bp 
+> JN851729.1 Rabbit hemorrhagic disease virus isolate Nizhny Novgorod-2011 polyprotein (VP60) gene, complete cds 
+ length: 1740bp 
+> JN851730.1 Rabbit hemorrhagic disease virus isolate Ramenskiy-10 polyprotein (VP60) gene, complete cds 
+ length: 1740bp 
+> JN851731.1 Rabbit hemorrhagic disease virus isolate Perm-2010 polyprotein (VP60) gene, complete cds 
+ length: 1740bp 
+> JN851732.1 Rabbit hemorrhagic disease virus isolate Mihailov-09 polyprotein (VP60) gene, complete cds 
+ length: 1740bp 
+> JN851733.1 Rabbit hemorrhagic disease virus isolate Klyazmenskiy-2004 polyprotein (VP60) gene, complete cds 
+ length: 1740bp 
+> JN851734.1 Rabbit hemorrhagic disease virus isolate Solnechnogorskiy-2003 polyprotein (VP60) gene, complete cds 
+ length: 1740bp 
+> JN851735.1 Rabbit hemorrhagic disease virus isolate Voronezhskiy-87 polyprotein (VP60) gene, complete cds 
+ length: 1740bp 
+> EU250330.2 Rabbit hemorrhagic disease virus isolate Pv97 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> JQ995154.1 Rabbit hemorrhagic disease virus isolate GIZA-2006 VP60 (VP60) gene, partial cds 
+ length: 1740bp 
+> KF494906.1 Rabbit hemorrhagic disease virus isolate ACT/GUN-01/2009 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494907.1 Rabbit hemorrhagic disease virus isolate ACT/GungahlinHS/1998 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494908.1 Rabbit hemorrhagic disease virus isolate ACT/GungahlinRP/1998 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494909.1 Rabbit hemorrhagic disease virus isolate ACT/MTP-2/2010 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494910.1 Rabbit hemorrhagic disease virus isolate ACT/Parkwood/1998 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494911.1 Rabbit hemorrhagic disease virus isolate ACT/WESTCRK/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494912.1 Rabbit hemorrhagic disease virus isolate NSW/OC-M2/2007 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494913.1 Rabbit hemorrhagic disease virus isolate NSW/OC-M8/2007 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494914.1 Rabbit hemorrhagic disease virus isolate NSW/ROCFOR-1/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494915.1 Rabbit hemorrhagic disease virus isolate NSW/ROCFOR-2/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494916.1 Rabbit hemorrhagic disease virus isolate NSW/ROCKL-1/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494917.1 Rabbit hemorrhagic disease virus isolate NSW/ROCKL-2/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494918.1 Rabbit hemorrhagic disease virus isolate NSW/WOODSTK/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494919.1 Rabbit hemorrhagic disease virus isolate NSW/YOUNG/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494920.1 Rabbit hemorrhagic disease virus isolate NSW/VITTO/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494921.1 Rabbit hemorrhagic disease virus isolate RHDV351INOC/1995 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494922.1 Rabbit hemorrhagic disease virus isolate SA/BARM/2008 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494923.1 Rabbit hemorrhagic disease virus isolate SA/BULG/2009 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494924.1 Rabbit hemorrhagic disease virus isolate SA/Curnamona/1995 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494925.1 Rabbit hemorrhagic disease virus isolate SA/ECH/2008 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494926.1 Rabbit hemorrhagic disease virus isolate SA/FRNP-ORA/2008 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494927.1 Rabbit hemorrhagic disease virus isolate SA/GRNW/2008 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494928.1 Rabbit hemorrhagic disease virus isolate SA/LOB-OLIVER08/2003 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494929.1 Rabbit hemorrhagic disease virus isolate SA/MERNMORA/1995 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494930.1 Rabbit hemorrhagic disease virus isolate SA/ORR-1/2010 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494931.1 Rabbit hemorrhagic disease virus isolate SA/PLUM-1/2010 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494932.1 Rabbit hemorrhagic disease virus isolate SA/PLUM/1995 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494933.1 Rabbit hemorrhagic disease virus isolate SA/RENMARK/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494934.1 Rabbit hemorrhagic disease virus isolate SA/ROXDWNS/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494935.1 Rabbit hemorrhagic disease virus isolate SA/TF-07/1999 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494936.1 Rabbit hemorrhagic disease virus isolate SA/TF-13/1999 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494937.1 Rabbit hemorrhagic disease virus isolate SA/TF-19/2006 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494938.1 Rabbit hemorrhagic disease virus isolate SA/TF-1907/2006 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494939.1 Rabbit hemorrhagic disease virus isolate SA/TF-2186/2008 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494940.1 Rabbit hemorrhagic disease virus isolate SA/TF-2863/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494941.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1339/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494942.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1350/2011 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494943.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1731/2008 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494944.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1743/2008 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494945.1 Rabbit hemorrhagic disease virus isolate SA/TF-PT1839/2009 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494946.1 Rabbit hemorrhagic disease virus isolate SA/WILKA/2010 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494947.1 Rabbit hemorrhagic disease virus isolate SA/WillochraCrk/1995 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494948.1 Rabbit hemorrhagic disease virus isolate TAS/COLLINS-1/2006 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494949.1 Rabbit hemorrhagic disease virus isolate TAS/STHARM/2007 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494950.1 Rabbit hemorrhagic disease virus isolate WA/MANMAN/2010 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494951.1 Rabbit hemorrhagic disease virus isolate WA/MARCHA/2010 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF494952.1 Rabbit hemorrhagic disease virus isolate WA/NARRIN/2010 capsid protein (VP60) gene, complete cds 
+ length: 1740bp 
+> KF270630.1 Rabbit hemorrhagic disease virus isolate Lug09-12 capsid protein VP60 gene, complete cds 
+ length: 1740bp 
+> KC345611.1 Rabbit hemorrhagic disease virus isolate Ss11 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KC345612.1 Rabbit hemorrhagic disease virus isolate Vs11_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KC345613.1 Rabbit hemorrhagic disease virus isolate Vs11_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KC345614.1 Rabbit hemorrhagic disease virus isolate Ca11 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KC595270.1 Rabbit hemorrhagic disease virus isolate Or08 capsid structural protein gene, complete cds 
+ length: 1740bp 
+> KC907712.1 Rabbit hemorrhagic disease virus isolate Tn12_1 capsid structural protein VP60 gene, complete cds 
+ length: 1740bp 
+> KC741409.2 Rabbit hemorrhagic disease virus isolate Sr12_2 capsid structural protein VP60 gene, complete cds 
+ length: 1740bp 
+> KJ579156.1 Rabbit hemorrhagic disease virus isolate CBPico13-05 capsid protein gene, complete cds 
+ length: 1740bp 
+> KJ579157.1 Rabbit hemorrhagic disease virus isolate CBPico13-12 capsid protein gene, complete cds 
+ length: 1740bp 
+> KJ579158.1 Rabbit hemorrhagic disease virus isolate CBPico13-26 capsid protein gene, complete cds 
+ length: 1740bp 
+> KJ579159.1 Rabbit hemorrhagic disease virus isolate CBPico13-31 capsid protein gene, complete cds 
+ length: 1740bp 
+> KJ579160.1 Rabbit hemorrhagic disease virus isolate CBPico13-32 capsid protein gene, complete cds 
+ length: 1740bp 
+> KT006748.1 Rabbit hemorrhagic disease virus isolate AUS/SA/Motpena/2013 major structural protein gene, complete cds 
+ length: 1740bp 
+> KT737803.1 Rabbit hemorrhagic disease virus isolate Mb12 capsid protein (vp60) gene, complete cds 
+ length: 1740bp 
+> KU665594.1 Rabbit hemorrhagic disease virus strain SEGB2PT15 capsid protein (vp60) gene, complete cds 
+ length: 1740bp 
+> KU665595.1 Rabbit hemorrhagic disease virus strain SEG1PT15 capsid protein (vp60) gene, complete cds 
+ length: 1740bp 
+> KU665596.1 Rabbit hemorrhagic disease virus strain SEG2PT15 capsid protein (vp60) gene, complete cds 
+ length: 1740bp 
+> KU665597.1 Rabbit hemorrhagic disease virus strain 6456F2PT15 capsid protein (vp60) gene, complete cds 
+ length: 1740bp 
+> KU665598.1 Rabbit hemorrhagic disease virus strain 730PT15 capsid protein (vp60) gene, complete cds 
+ length: 1740bp 
+> KU665600.1 Rabbit hemorrhagic disease virus strain 26724NPT14 capsid protein (vp60) gene, complete cds 
+ length: 1740bp 
+> KU665601.1 Rabbit hemorrhagic disease virus strain 26724VPT14 capsid protein (vp60) gene, complete cds 
+ length: 1740bp 
+> KY498543.1 Rabbit hemorrhagic disease virus isolate Zar2014_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498544.1 Rabbit hemorrhagic disease virus isolate Zar2014_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498545.1 Rabbit hemorrhagic disease virus isolate Zar2015_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498546.1 Rabbit hemorrhagic disease virus isolate Zar2015_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498547.1 Rabbit hemorrhagic disease virus isolate Zar2015_3 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498548.1 Rabbit hemorrhagic disease virus isolate Zar2015_4 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498549.1 Rabbit hemorrhagic disease virus isolate Zar2015_5 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498550.1 Rabbit hemorrhagic disease virus isolate Zar2015_6 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498551.1 Rabbit hemorrhagic disease virus isolate Zar2015_7 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498552.1 Rabbit hemorrhagic disease virus isolate Zar2015_8 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498553.1 Rabbit hemorrhagic disease virus isolate Zar2014_3 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498554.1 Rabbit hemorrhagic disease virus isolate Zar2015_9 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498555.1 Rabbit hemorrhagic disease virus isolate Zar2014_4 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498556.1 Rabbit hemorrhagic disease virus isolate Zar2014_5 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498557.1 Rabbit hemorrhagic disease virus isolate Zar2014_6 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498558.1 Rabbit hemorrhagic disease virus isolate Zar2015_10 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498559.1 Rabbit hemorrhagic disease virus isolate Zar2014_7 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498560.1 Rabbit hemorrhagic disease virus isolate Zar2014_8 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498561.1 Rabbit hemorrhagic disease virus isolate Zar2014_9 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498562.1 Rabbit hemorrhagic disease virus isolate Zar2014_10 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498563.1 Rabbit hemorrhagic disease virus isolate Zar2014_11 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498564.1 Rabbit hemorrhagic disease virus isolate Zar2014_12 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498565.1 Rabbit hemorrhagic disease virus isolate Zar2014_13 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498566.1 Rabbit hemorrhagic disease virus isolate Zar2015_11 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498567.1 Rabbit hemorrhagic disease virus isolate Zar2015_12 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498568.1 Rabbit hemorrhagic disease virus isolate Zar2016_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498569.1 Rabbit hemorrhagic disease virus isolate Zar2016_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498570.1 Rabbit hemorrhagic disease virus isolate Zar2016_3 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498571.1 Rabbit hemorrhagic disease virus isolate Zar2013_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498572.1 Rabbit hemorrhagic disease virus isolate Zar2013_2 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498573.1 Rabbit hemorrhagic disease virus isolate Zar2013_3 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498574.1 Rabbit hemorrhagic disease virus isolate Zar2013_4 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498575.1 Rabbit hemorrhagic disease virus isolate Zar2013_5 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498576.1 Rabbit hemorrhagic disease virus isolate Zar2013_6 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498577.1 Rabbit hemorrhagic disease virus isolate Zar2013_7 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498578.1 Rabbit hemorrhagic disease virus isolate Zar2013_8 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498579.1 Rabbit hemorrhagic disease virus isolate Zar2015_13 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498580.1 Rabbit hemorrhagic disease virus isolate Zar2016_4 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498581.1 Rabbit hemorrhagic disease virus isolate Zar2013_9 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> KY498582.1 Rabbit hemorrhagic disease virus isolate Zar2008_1 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> MG022138.1 Rabbit hemorrhagic disease virus isolate Zar2013-10 capsid structural protein VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> MF497434.1 Rabbit hemorrhagic disease virus isolate Ten0301 VP60 (VP60) gene, complete cds 
+ length: 1740bp 
+> MG356948.1 Rabbit hemorrhagic disease virus 2 strain 42733PT15 polyprotein gene, complete cds 
+ length: 1740bp 
+> MK629981.1 Rabbit hemorrhagic disease virus isolate Tn1_2016 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629982.1 Rabbit hemorrhagic disease virus isolate Tn7_2015 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629983.1 Rabbit hemorrhagic disease virus isolate Tn8_2015 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629984.1 Rabbit hemorrhagic disease virus isolate Tn11_2015 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629985.1 Rabbit hemorrhagic disease virus isolate Tn4_2017 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629986.1 Rabbit hemorrhagic disease virus isolate Tn5_2015 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629987.1 Rabbit hemorrhagic disease virus isolate Tn1_2015 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629988.1 Rabbit hemorrhagic disease virus isolate Tn4_2015 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629989.1 Rabbit hemorrhagic disease virus isolate Tn3_2015 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629990.1 Rabbit hemorrhagic disease virus isolate Tn3_2018 capsid protein gene, complete cds 
+ length: 1740bp 
+> MK629991.1 Rabbit hemorrhagic disease virus isolate Tn1_2018 capsid protein gene, complete cds 
+ length: 1740bp 
+> MF620130.1 Influenza A virus (A/chicken/Egypt/Elfeil-26/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1739bp 
+> KU310447.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1731bp 
+> EF395820.1 Influenza A virus (A/mute swan/France/06299/2006(H5N1)) hemagglutinin (HA) gene, complete cds 
+ length: 1707bp 
+> KY029054.1 Influenza A virus (A/chicken/Egypt/ZU2/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029055.1 Influenza A virus (A/chicken/Egypt/ZU3/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029056.1 Influenza A virus (A/chicken/Egypt/ZU28/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029057.1 Influenza A virus (A/chicken/Egypt/ZU29/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029058.1 Influenza A virus (A/chicken/Egypt/ZU30/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029059.1 Influenza A virus (A/chicken/Egypt/ZU34/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029060.1 Influenza A virus (A/chicken/Egypt/ZU46/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029061.1 Influenza A virus (A/chicken/Egypt/ZU47/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029062.1 Influenza A virus (A/chicken/Egypt/ZU53/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029063.1 Influenza A virus (A/chicken/Egypt/ZU103/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029064.1 Influenza A virus (A/chicken/Egypt/ZU105/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029065.1 Influenza A virus (A/chicken/Egypt/ZU108/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029066.1 Influenza A virus (A/chicken/Egypt/ZU116/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029067.1 Influenza A virus (A/chicken/Egypt/ZU117/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029068.1 Influenza A virus (A/chicken/Egypt/ZU118/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KY029069.1 Influenza A virus (A/chicken/Egypt/ZU120/2016(H5N1)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1704bp 
+> KX014878.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1695bp 
+> KX014886.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1695bp 
+> KX014894.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1695bp 
+> KX014902.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1695bp 
+> MN559704.1 Influenza A virus (A/goose/Egypt/A_Geese_Egypt_MG3_2017/2017(H5N8)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1695bp 
+> KY910830.1 Influenza A virus (A/Egypt/ZU63/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1683bp 
+> KY910831.1 Influenza A virus (A/Egypt/ZU64/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1683bp 
+> KY910832.1 Influenza A virus (A/Egypt/ZU65/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1683bp 
+> KY910833.1 Influenza A virus (A/Egypt/ZU66/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1683bp 
+> KY910834.1 Influenza A virus (A/Egypt/ZU68/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1683bp 
+> KY910835.1 Influenza A virus (A/Egypt/ZU73/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1683bp 
+> KY910836.1 Influenza A virus (A/Egypt/ZU80/2016(H9N2)) segment 4 hemagglutinin (HA) gene, complete cds 
+ length: 1683bp 
+> KU310448.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ length: 1565bp 
+> KU320888.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ length: 1565bp 
+> KX014895.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ length: 1565bp 
+> KX014903.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ length: 1540bp 
+> KX014887.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ length: 1520bp 
+> M92840.1 Oryctolagus cuniculus cell surface glycoprotein CD4 mRNA, complete cds 
+ length: 1498bp 
+> KX014879.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 5 nucleocapsid protein (NP) gene, complete cds 
+ length: 1497bp 
+> AY561276.1 Oryctolagus cuniculus C-ets-1 (c-ets1) mRNA, complete cds 
+ length: 1462bp 
+> KX014888.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 6 neuraminidase (NA) gene, complete cds 
+ length: 1459bp 
+> KX014904.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 6 neuraminidase (NA) gene, complete cds 
+ length: 1439bp 
+> KU310449.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 6 neuraminidase (NA) gene, complete cds 
+ length: 1433bp 
+> KU320889.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 6 neuraminidase (NA) gene, complete cds 
+ length: 1426bp 
+> KX014896.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 6 neuraminidase (NA) gene, complete cds 
+ length: 1426bp 
+> MN913967.1 Influenza A virus (A/goose/Egypt/MG2/2017(H5N8)) segment 6 neuraminidase (NA) gene, complete cds 
+ length: 1413bp 
+> KX014880.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 6 neuraminidase (NA) gene, complete cds 
+ length: 1410bp 
+> KY441470.1 Synthetic construct clone rab_HC_MARV_NP anti-Marburg virus nucleoprotein antibody immunoglobulin gamma heavy chain gene, complete cds 
+ length: 1365bp 
+> EF395821.1 Influenza A virus (A/mute swan/France/06299/2006(H5N1)) neuraminidase (NA) gene, complete cds 
+ length: 1350bp 
+> MN626413.1 Rabbit luteovirus isolate RLV/L232 RNA-dependent RNA polymerase (RdRp) gene, complete cds 
+ length: 1269bp 
+> JX135559.1 Vibrio phage CTX zonula occludens toxin gene, complete cds 
+ length: 1200bp 
+> M14493.1 Shope fibroma virus thymidine kinase gene, complete cds 
+ length: 1188bp 
+> FJ493038.1 Lepus europaeus isolate 2 endogenous virus Rabbit endogenous lentivirus type K nonfunctional env protein gene, complete sequence 
+ length: 1188bp 
+> FJ493037.1 Lepus europaeus isolate 1 endogenous virus Rabbit endogenous lentivirus type K nonfunctional env protein gene, complete sequence 
+ length: 1183bp 
+> FJ970504.1 Myxoma virus isolate CB31 m137R gene, partial cds; and m0138L gene, complete cds 
+ length: 1151bp 
+> FJ970505.1 Myxoma virus isolate CB191 m137R gene, partial cds; and m138L gene, complete cds 
+ length: 1151bp 
+> EF034116.1 Oryctolagus cuniculus coxsackie virus and adenovirus receptor (CXADR) mRNA, complete cds 
+ length: 1098bp 
+> EU360946.1 Gallid herpesvirus 1 isolate CH04 thymidine kinase (tk) gene, complete cds 
+ length: 1092bp 
+> EU360947.1 Gallid herpesvirus 1 isolate CH95 thymidine kinase (tk) gene, complete cds 
+ length: 1092bp 
+> EU360948.1 Gallid herpesvirus 1 isolate S04 thymidine kinase (tk) gene, complete cds 
+ length: 1092bp 
+> EU360949.1 Gallid herpesvirus 1 isolate CEO thymidine kinase (tk) gene, complete cds 
+ length: 1092bp 
+> EU360950.1 Gallid herpesvirus 1 isolate TCO thymidine kinase (tk) gene, complete cds 
+ length: 1092bp 
+> KU310450.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ length: 1027bp 
+> KU320890.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ length: 1027bp 
+> KX014897.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ length: 1027bp 
+> MH428671.1 Gallid alphaherpesvirus 2 isolate Elfeil-15A Meq oncoprotein (Meq) gene, complete cds 
+ length: 1020bp 
+> MH428672.1 Gallid alphaherpesvirus 2 isolate Elfeil-15B Meq oncoprotein (Meq) gene, complete cds 
+ length: 1020bp 
+> MH428673.1 Gallid alphaherpesvirus 2 isolate Elfeil-15C Meq oncoprotein (Meq) gene, complete cds 
+ length: 1020bp 
+> KX014905.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ length: 984bp 
+> KX014889.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ length: 983bp 
+> KX014881.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds 
+ length: 982bp 
+> L01417.1 Rabbit fibroma virus uracil DNA glycosylase gene, complete cds 
+ length: 900bp 
+> KU320891.1 Influenza A virus (A/guinea fowl/France/150207n/2015(H5N9)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ length: 890bp 
+> KU310451.1 Influenza A virus (A/chicken/France/150169a/2015(H5N1)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ length: 888bp 
+> KX014898.1 Influenza A virus (A/duck/France/150289/2015(H5N9)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ length: 865bp 
+> KX014890.1 Influenza A virus (A/duck/France/150236/2015(H5N9)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ length: 851bp 
+> KX014906.1 Influenza A virus (A/chicken/France/160013g/2016(H5N2)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ length: 840bp 
+> KX014882.1 Influenza A virus (A/duck/France/150233/2015(H5N2)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds 
+ length: 838bp 
+> M15921.1 Shope fibroma virus growth factor gene, complete cds 
+ length: 800bp 
+> FJ493035.1 Lepus europaeus isolate 4 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ length: 796bp 
+> FJ493036.1 Lepus europaeus isolate 5 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ length: 794bp 
+> FJ493034.1 Lepus europaeus isolate 3 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ length: 787bp 
+> U46948.1 Equine arteritis virus strain 11958 ORF5 mRNA, complete cds 
+ length: 768bp 
+> U46949.1 Equine arteritis virus strain 19933 ORF5 mRNA, complete cds 
+ length: 768bp 
+> U46950.1 Equine arteritis virus strain 15492 ORF5 mRNA, complete cds 
+ length: 768bp 
+> U46951.1 Equine arteritis virus strain T1329 ORF5 mRNA, complete cds 
+ length: 768bp 
+> U46952.1 Equine arteritis virus strain Vienna ORF5 mRNA, complete cds 
+ length: 768bp 
+> U46954.1 Equine arteritis virus strain 84KY-A1 ORF5 mRNA, complete cds 
+ length: 768bp 
+> AY099150.1 Polygonatum cyrtonema mannose/sialic acid-binding lectin precursor, mRNA, complete cds 
+ length: 693bp 
+> U51154.1 Equine arteritis virus strain 11958 viral envelope protein (ORF2) gene, complete cds 
+ length: 684bp 
+> U51155.1 Equine arteritis virus strain 15492 viral envelope protein (ORF2) gene, complete cds 
+ length: 684bp 
+> U51156.1 Equine arteritis virus strain 19933 viral envelope protein (ORF2) gene, complete cds 
+ length: 684bp 
+> U51157.1 Equine arteritis virus strain T1329 viral envelope protein (ORF2) gene, complete cds 
+ length: 684bp 
+> U51161.1 Equine arteritis virus strain VIENNA viral envelope protein (ORF2) gene, complete cds 
+ length: 684bp 
+> FJ493033.1 Lepus europaeus isolate 2 endogenous virus Rabbit endogenous lentivirus type K nonfunctional gag protein gene, complete sequence 
+ length: 681bp 
+> KY462785.1 Porcine circovirus-like virus P1 isolate JSNJ, complete sequence 
+ length: 648bp 
+> KY462786.1 Porcine circovirus-like virus P1 isolate JSZJ, complete sequence 
+ length: 648bp 
+> AY099490.2 Zephyranthes candida agglutinin gene, complete cds 
+ length: 640bp 
+> JX533445.1 Gallid herpesvirus 2 isolate Egypt_1 glycoprotein L (UL1) gene, complete cds 
+ length: 588bp 
+> JX533446.1 Gallid herpesvirus 2 isolate Egypt_2 glycoprotein L (UL1) gene, complete cds 
+ length: 588bp 
+> JX533447.1 Gallid herpesvirus 2 isolate Egypt_3 glycoprotein L (UL1) gene, complete cds 
+ length: 588bp 
+> MN626415.1 Rabbit luteovirus isolate RLV/L232 coat protein gene, complete cds 
+ length: 573bp 
+> AF001079.1 Equine arteritis virus strain T1329 ORF3 gene, complete cds 
+ length: 492bp 
+> AF001081.1 Equine arteritis virus strain 15492 ORF3 gene, complete cds 
+ length: 492bp 
+> AF001082.1 Equine arteritis virus strain 19933 ORF3 gene, complete cds 
+ length: 492bp 
+> AF001083.1 Equine arteritis virus strain Vienna ORF3 gene, complete cds 
+ length: 492bp 
+> AF001084.1 Equine arteritis virus strain 84KY-A1 ORF3 gene, complete cds 
+ length: 492bp 
+> AF320572.1 Equine arteritis virus strain Bucyrus ORF6 mRNA, complete cds 
+ length: 489bp 
+> AF001080.1 Equine arteritis virus strain 11958 ORF3 gene, complete cds 
+ length: 483bp 
+> AF001087.1 Equine arteritis virus strain T1329 ORF4 gene, complete cds 
+ length: 459bp 
+> AF001088.1 Equine arteritis virus strain 11958 ORF4 gene, complete cds 
+ length: 459bp 
+> AF001089.1 Equine arteritis virus strain 15492 ORF4 gene, complete cds 
+ length: 459bp 
+> AF001090.1 Equine arteritis virus strain 19933 ORF4 gene, complete cds 
+ length: 459bp 
+> AF001091.1 Equine arteritis virus strain Vienna ORF4 gene, complete cds 
+ length: 459bp 
+> AF001092.1 Equine arteritis virus strain 84KY-A1 ORF4 gene, complete cds 
+ length: 459bp 
+> U65724.1 Equine arteritis virus 5' leader sequence 
+ length: 206bp 
+> U65725.1 Equine arteritis virus 5' leader sequence 
+ length: 206bp 
+> U65726.1 Equine arteritis virus 5' leader sequence 
+ length: 206bp 
+> U65727.1 Equine arteritis virus 5' leader sequence 
+ length: 206bp 
+> U65728.1 Equine arteritis virus 5' leader sequence 
+ length: 206bp 
+> U65723.1 Equine arteritis virus 5' leader sequence 
+ length: 205bp 
