@@ -1,0 +1,10 @@
+>ERV3-16A3_I#LTR/ERVL DF0000116 Internal region of an ERVL endogenous retrovirus, ERV3-16A3_I subfamilyXX
+>LTR79#LTR/ERVL DF0000585 LTR79 (Long Terminal Repeat) for ERVL endogenous retrovirusXX
+>LTR80A#LTR/ERVL DF0000591 LTR80A (Long Terminal Repeat) for ERVL endogenous retrovirusXX
+>LTR81AB#LTR/Gypsy DF0000595 LTR81AB (Long Terminal Repeat) for Gypsy retrotransposonXX
+>LTR81B#LTR/Gypsy DF0000596 LTR81B (Long Terminal Repeat) for Gypsy retrotransposonXX
+>ERVL-B4#LTR/ERVL DF0000775 ERVL Endogenous retrovirus, ERVL-B4 subfamilyXX
+>MER4B-int#LTR/ERV1 DF0000798 Internal region of ERV1 endogenous retrovirus, MER4B-int subfamilyXX
+>MER92D#LTR/ERV1 DF0000957 MER92D Long Terminal Repeat for ERV1 endogenous retrovirusXX
+>ERVH_OC_LTR#LTR/ERVK  RepbaseID: ERVH_OC_LTRXX
+>ERVNOC_I#LTR/ERVK  RepbaseID: ERVNOC_IXX
